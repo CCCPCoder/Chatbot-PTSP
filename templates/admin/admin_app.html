@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Dashboard Admin</title>
+    <link rel="stylesheet"
+          href="{{ url_for('static', filename='css/admin.css') }}">
+</head>
+<body>
+<div class="sidebar">
+    <h2>Chatbot Admin</h2>
+    <a href="/admin_app">Dashboard</a>
+    <a href="/log">Log Training</a>
+    <a href="/">Lihat Chatbot</a>
+</div>
+<div class="content">
+    <h1>Dashboard Admin</h1>
+    
+    <div class="stats">
+        <div class="card">
+            <h3>{{ intents|length }}</h3>
+            <p>Total Intent</p>
+        </div>
+        <div class="card">
+            <h3>
+                {{ intents | map(attribute='patterns') | map('length') | sum }}
+            </h3>
+            <p>Total Pattern</p>
+        </div>
+        <div class="card">
+            <h3>
+                {{ intents | map(attribute='responses') | map('length') | sum }}
+            </h3>
+            <p>Total Response</p>
+        </div>
+    </div>
+    <h2>Daftar Intent</h2>
+    <a href="{{ url_for('add_intent') }}" class="btn add">
+        + Tambah Intent
+    </a>
+    <div class="training-section">
+        <h2>Pelatihan Model Chatbot</h2>
+        <button id="trainButton" onclick="trainModel()" class="btn train">
+            Latih Model
+        </button>
+        <p id="trainingStatus">
+            Training belum dijalankan.
+        </p>
+        
+    </div>
+    <table>
+        <thead>
+        <tr>
+            <th>No</th>
+            <th>Intent</th>
+            <th>Jumlah Pattern</th>
+            <th>Jumlah Response</th>
+            <th>Edit</th>
+            <th>Hapus</th>
+        </tr>
+        </thead>
+        <tbody>
+        {% for intent in intents %}
+        <tr>
+            <td>{{ loop.index }}</td>
+            <td>
+                {{ intent.tag }}
+            </td>
+            <td>
+                {{ intent.patterns|length }}
+            </td>
+            <td>
+                {{ intent.responses|length }}
+            </td>
+            <td>
+                <a class="btn edit"
+                   href="{{ url_for('edit_intent',
+                           tag=intent.tag) }}">
+                    Edit
+                </a>
+            </td>
+            <td>
+                <form method="POST"
+                      action="{{ url_for('delete_intent',
+                              tag=intent.tag) }}">
+                    <button
+                        class="btn delete"
+                        onclick="return confirm('Yakin ingin menghapus intent ini?')">
+                        Hapus
+                    </button>
+                </form>
+            </td>
+        </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+</div>
+</body>
+<script>
+//Training Model
+let trainingInterval = null;
+async function trainModel() {
+    const button =
+        document.getElementById("trainButton");
+    const confirmation = confirm(
+        "Apakah Anda yakin ingin melatih ulang model?"
+    );
+    if (!confirmation) {
+        return;
+    }
+    button.disabled = true;
+    button.innerText =
+        "Training dimulai...";
+    try {
+        const response = await fetch(
+            "/admin/train",
+            {
+                method: "POST"
+            }
+        );
+        const data =
+            await response.json();
+        console.log(data);
+        startTrainingMonitor();
+    } catch (error) {
+        console.error(error);
+        button.disabled = false;
+        button.innerText =
+            "Latih Model";
+    }
+}
+//Monitor Training
+function startTrainingMonitor() {
+    if (trainingInterval !== null) {
+        clearInterval(trainingInterval);
+    }
+    // Jalankan langsung
+    checkTrainingStatus();
+    // Kemudian ulangi setiap 5 detik
+    trainingInterval = setInterval(() => {
+        checkTrainingStatus();
+    }, 5000);
+}
+
+async function checkTrainingStatus() {
+    try {
+        const response = await fetch(
+            "/admin/train/status?t=" + Date.now()
+        );
+        const data = await response.json();
+        document.getElementById(
+            "trainingStatus"
+        ).innerText = data.message;
+        // PENTING: ambil log terbaru
+        await loadTrainingLog();
+        const button =
+            document.getElementById("trainButton");
+        if (data.running) {
+            button.disabled = true;
+            button.innerText = "Training...";
+        } else {
+            button.disabled = false;
+            button.innerText = "Latih Model";
+            if (trainingInterval !== null) {
+                clearInterval(trainingInterval);
+                trainingInterval = null;
+            }
+        }
+    } catch (error) {
+        console.error(
+            "Error checkTrainingStatus:",
+            error
+        );
+    }
+}
+
+async function loadTrainingLog() {
+    try {
+        console.log("Mengambil log terbaru...");
+        const response = await fetch(
+            "/admin/train/log?t=" + Date.now()
+        );
+        const data = await response.json();
+        console.log(
+            "Jumlah karakter log:",
+            data.logs.length
+        );
+        const logElement =
+            document.getElementById("trainingLog");
+        logElement.textContent = data.logs;
+        logElement.scrollTop =
+            logElement.scrollHeight;
+    } catch (error) {
+        console.error(
+            "Error loadTrainingLog:",
+            error
+        );
+    }
+}
+document.addEventListener(
+    "DOMContentLoaded",
+    async function () {
+        await checkTrainingStatus();
+        const response = await fetch(
+            "/admin/train/status?t=" + Date.now()
+        );
+        const data = await response.json();
+        if (data.running) {
+            startTrainingMonitor();
+        }
+    }
+);
+</script>
+</html>
