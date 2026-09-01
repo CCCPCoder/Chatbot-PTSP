@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Tambah Intent</title>
+    <link rel="stylesheet"
+          href="{{ url_for('static',
+                  filename='css/admin.css') }}">
+</head>
+<body>
+<div class="sidebar">
+    <h2>Chatbot Admin</h2>
+    <a href="{{ url_for('admin_app') }}">Dashboard</a>
+    <a href="{{ url_for('log_training') }}">Log Training</a>
+    <a href="/">Lihat Chatbot</a>
+</div>
+<div class="content">
+    <h1>Tambah Intent</h1>
+    {% if error %}
+    <div class="error">
+        {{ error }}
+    </div>
+    {% endif %}
+    <form method="POST"
+          class="intent-form">
+        <label>
+            Tag Intent
+        </label>
+        <input
+            type="text"
+            name="tag"
+            placeholder="Contoh: syarat_izin_baru"
+            required
+        >
+        <label>
+            Patterns
+        </label>
+        <p class="description">
+            Masukkan satu pattern pada setiap baris.
+        </p>
+        <textarea
+            name="patterns"
+            rows="10"
+            placeholder="Contoh:
+apa syarat izin ini
+bagaimana cara mengurus izin
+dokumen apa yang diperlukan"
+            required
+        ></textarea>
+        <label for="response">
+            Response
+        </label>
+
+        <p class="description">
+
+            Gunakan <strong>baris kosong</strong>
+            untuk memisahkan response.
+
+            Gunakan tanda <strong>-</strong>
+            untuk membuat daftar.
+
+        </p>
+
+        <textarea
+            id="responses"
+            name="responses"
+            rows="14"
+            placeholder="Contoh response biasa:
+
+KTP merupakan dokumen identitas penduduk.
+
+Silakan datang ke kantor pelayanan.
+
+Contoh response dengan daftar:
+
+Persyaratan yang diperlukan:
+- Kartu Keluarga
+- Dokumen identitas
+- Surat pengantar"
+            required
+        >{{ responses if responses else '' }}</textarea>
+        <div class="form-actions">
+            <button
+                type="submit"
+                class="btn save"
+            >
+                Simpan Intent
+            </button>
+            <a
+                href="{{ url_for('admin_app') }}"
+                class="btn cancel"
+            >
+                Batal
+            </a>
+        </div>
+    </form>
+</div>
+</body>
+</html>

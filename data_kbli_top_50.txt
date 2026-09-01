@@ -1,0 +1,2314 @@
+DATA KBLI TOP 50 - SHEET KETENTUAN
+===================================
+Jumlah data: 231
+
+1. 10710 | Industri Produk Bakeri
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Mikro
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+2. 10710 | Industri Produk Bakeri
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Kecil
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+3. 10710 | Industri Produk Bakeri
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Menengah
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+4. 10710 | Industri Produk Bakeri
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Besar
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Tinggi
+   Perizinan Berusaha: Izin
+   Jangka Waktu: 7
+
+5. 10750 | Industri Makanan dan Masakan Olahan
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Mikro
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+6. 10750 | Industri Makanan dan Masakan Olahan
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Kecil
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+7. 10750 | Industri Makanan dan Masakan Olahan
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Menengah
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+8. 10750 | Industri Makanan dan Masakan Olahan
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Besar
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Tinggi
+   Perizinan Berusaha: Izin
+   Jangka Waktu: 7
+
+9. 11059 | Industri Minuman Lainnya
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Mikro
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+10. 11059 | Industri Minuman Lainnya
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Kecil
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+11. 11059 | Industri Minuman Lainnya
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Menengah
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+12. 11059 | Industri Minuman Lainnya
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Besar
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Tinggi
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: 7
+
+13. 41011 | Konstruksi Konvensional Gedung Hunian
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Kode Subklasifikasi Konstruksi Gedung Hunian : BG001
+   Skala Usaha: Usaha Mikro
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Tinggi
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: 15
+
+14. 41011 | Konstruksi Konvensional Gedung Hunian
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Kode Subklasifikasi Konstruksi Gedung Hunian : BG001
+   Skala Usaha: Usaha Kecil
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Tinggi
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: 15
+
+15. 41011 | Konstruksi Konvensional Gedung Hunian
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Kode Subklasifikasi Konstruksi Gedung Hunian : BG001
+   Skala Usaha: Usaha Menengah
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Tinggi
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: 15
+
+16. 41011 | Konstruksi Konvensional Gedung Hunian
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Kode Subklasifikasi Konstruksi Gedung Hunian : BG001
+   Skala Usaha: Usaha Besar
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Tinggi
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: 15
+
+17. 41011 | Konstruksi Konvensional Gedung Hunian
+   No Ruang Lingkup: 2
+   Ruang Lingkup: Kode Subklasifikasi Konstruksi Gedung Hunian : BG010
+   Skala Usaha: Usaha Mikro
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+18. 41011 | Konstruksi Konvensional Gedung Hunian
+   No Ruang Lingkup: 3
+   Ruang Lingkup: Kode Subklasifikasi Bangunan Gedung Hunian : GT001
+   Skala Usaha: Usaha Besar
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Tinggi
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: 15
+
+19. 46100 | Perdagangan Besar atas dasar Balas Jasa (Fee) atau Kontrak
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Penyelenggara pasar lelang komoditas (Bappebti)
+   Skala Usaha: Usaha Mikro
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Tinggi
+   Perizinan Berusaha: Persetujuan Penyelenggara Pasar Lelang Komoditas
+   Jangka Waktu: 3
+
+20. 46100 | Perdagangan Besar atas dasar Balas Jasa (Fee) atau Kontrak
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Penyelenggara pasar lelang komoditas (Bappebti)
+   Skala Usaha: Usaha Kecil
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Tinggi
+   Perizinan Berusaha: Persetujuan Penyelenggara Pasar Lelang Komoditas
+   Jangka Waktu: 3
+
+21. 46100 | Perdagangan Besar atas dasar Balas Jasa (Fee) atau Kontrak
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Penyelenggara pasar lelang komoditas (Bappebti)
+   Skala Usaha: Usaha Menengah
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Tinggi
+   Perizinan Berusaha: Persetujuan Penyelenggara Pasar Lelang Komoditas
+   Jangka Waktu: 3
+
+22. 46100 | Perdagangan Besar atas dasar Balas Jasa (Fee) atau Kontrak
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Penyelenggara pasar lelang komoditas (Bappebti)
+   Skala Usaha: Usaha Besar
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Tinggi
+   Perizinan Berusaha: Persetujuan Penyelenggara Pasar Lelang Komoditas
+   Jangka Waktu: 3
+
+23. 46100 | Perdagangan Besar atas dasar Balas Jasa (Fee) atau Kontrak
+   No Ruang Lingkup: 2
+   Ruang Lingkup: Seluruh, kecuali Penyelenggara Pasar Lelang Komoditas
+   Skala Usaha: Usaha Mikro
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+24. 46100 | Perdagangan Besar atas dasar Balas Jasa (Fee) atau Kontrak
+   No Ruang Lingkup: 2
+   Ruang Lingkup: Seluruh, kecuali Penyelenggara Pasar Lelang Komoditas
+   Skala Usaha: Usaha Kecil
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+25. 46100 | Perdagangan Besar atas dasar Balas Jasa (Fee) atau Kontrak
+   No Ruang Lingkup: 2
+   Ruang Lingkup: Seluruh, kecuali Penyelenggara Pasar Lelang Komoditas
+   Skala Usaha: Usaha Menengah
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+26. 46100 | Perdagangan Besar atas dasar Balas Jasa (Fee) atau Kontrak
+   No Ruang Lingkup: 2
+   Ruang Lingkup: Seluruh, kecuali Penyelenggara Pasar Lelang Komoditas
+   Skala Usaha: Usaha Besar
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+27. 46339 | Perdagangan Besar Makanan dan Minuman Lainnya
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Mikro
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+28. 46339 | Perdagangan Besar Makanan dan Minuman Lainnya
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Kecil
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+29. 46339 | Perdagangan Besar Makanan dan Minuman Lainnya
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Menengah
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+30. 46339 | Perdagangan Besar Makanan dan Minuman Lainnya
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Besar
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+31. 46412 | Perdagangan Besar Pakaian
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Mikro
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+32. 46412 | Perdagangan Besar Pakaian
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Kecil
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+33. 46412 | Perdagangan Besar Pakaian
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Menengah
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+34. 46412 | Perdagangan Besar Pakaian
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Besar
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+35. 46491 | Perdagangan Besar Peralatan Masak, Peralatan Dapur, dan Elektronik Rumah Tangga
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Mikro
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+36. 46491 | Perdagangan Besar Peralatan Masak, Peralatan Dapur, dan Elektronik Rumah Tangga
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Kecil
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+37. 46491 | Perdagangan Besar Peralatan Masak, Peralatan Dapur, dan Elektronik Rumah Tangga
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Menengah
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+38. 46491 | Perdagangan Besar Peralatan Masak, Peralatan Dapur, dan Elektronik Rumah Tangga
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Besar
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+39. 46499 | Perdagangan Besar Berbagai Barang dan Perlengkapan Rumah Tangga Lainnya YTDL
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Mikro
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+40. 46499 | Perdagangan Besar Berbagai Barang dan Perlengkapan Rumah Tangga Lainnya YTDL
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Kecil
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+41. 46499 | Perdagangan Besar Berbagai Barang dan Perlengkapan Rumah Tangga Lainnya YTDL
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Menengah
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+42. 46499 | Perdagangan Besar Berbagai Barang dan Perlengkapan Rumah Tangga Lainnya YTDL
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Besar
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+43. 46511 | Perdagangan Besar Komputer dan Perlengkapan Komputer
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Mikro
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+44. 46511 | Perdagangan Besar Komputer dan Perlengkapan Komputer
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Kecil
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+45. 46511 | Perdagangan Besar Komputer dan Perlengkapan Komputer
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Menengah
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+46. 46511 | Perdagangan Besar Komputer dan Perlengkapan Komputer
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Besar
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+47. 46512 | Perdagangan Besar Perangkat Lunak
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Mikro
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+48. 46512 | Perdagangan Besar Perangkat Lunak
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Kecil
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+49. 46512 | Perdagangan Besar Perangkat Lunak
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Menengah
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+50. 46512 | Perdagangan Besar Perangkat Lunak
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Besar
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+51. 46521 | Perdagangan Besar Suku Cadang Elektronik
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Mikro
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+52. 46521 | Perdagangan Besar Suku Cadang Elektronik
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Kecil
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+53. 46521 | Perdagangan Besar Suku Cadang Elektronik
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Menengah
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+54. 46521 | Perdagangan Besar Suku Cadang Elektronik
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Besar
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+55. 46523 | Perdagangan Besar Peralatan Telekomunikasi
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Mikro
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+56. 46523 | Perdagangan Besar Peralatan Telekomunikasi
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Kecil
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+57. 46523 | Perdagangan Besar Peralatan Telekomunikasi
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Menengah
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+58. 46523 | Perdagangan Besar Peralatan Telekomunikasi
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Besar
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+59. 46591 | Perdagangan Besar Mesin Kantor dan Industri Pengolahan, Suku Cadang, dan Perlengkapannya
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Mikro
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+60. 46591 | Perdagangan Besar Mesin Kantor dan Industri Pengolahan, Suku Cadang, dan Perlengkapannya
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Kecil
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+61. 46591 | Perdagangan Besar Mesin Kantor dan Industri Pengolahan, Suku Cadang, dan Perlengkapannya
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Menengah
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+62. 46591 | Perdagangan Besar Mesin Kantor dan Industri Pengolahan, Suku Cadang, dan Perlengkapannya
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Besar
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+63. 46599 | Perdagangan Besar Mesin, Peralatan, dan Perlengkapan Lainnya YTDL
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Mikro
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+64. 46599 | Perdagangan Besar Mesin, Peralatan, dan Perlengkapan Lainnya YTDL
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Kecil
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+65. 46599 | Perdagangan Besar Mesin, Peralatan, dan Perlengkapan Lainnya YTDL
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Menengah
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+66. 46599 | Perdagangan Besar Mesin, Peralatan, dan Perlengkapan Lainnya YTDL
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Besar
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+67. 46731 | Perdagangan Besar Bahan Konstruksi dari Logam
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Mikro
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+68. 46731 | Perdagangan Besar Bahan Konstruksi dari Logam
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Kecil
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+69. 46731 | Perdagangan Besar Bahan Konstruksi dari Logam
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Menengah
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+70. 46731 | Perdagangan Besar Bahan Konstruksi dari Logam
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Besar
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+71. 46738 | Perdagangan Besar Berbagai Macam Material Bangunan
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Mikro
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+72. 46738 | Perdagangan Besar Berbagai Macam Material Bangunan
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Kecil
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+73. 46738 | Perdagangan Besar Berbagai Macam Material Bangunan
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Menengah
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+74. 46738 | Perdagangan Besar Berbagai Macam Material Bangunan
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Besar
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+75. 46901 | Perdagangan Besar Berbagai Macam Barang di Grosir/Perkulakan Swalayan
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Grosir/ Perkulakan Tradisional
+   Skala Usaha: Usaha Mikro
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+76. 46901 | Perdagangan Besar Berbagai Macam Barang di Grosir/Perkulakan Swalayan
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Grosir/ Perkulakan Tradisional
+   Skala Usaha: Usaha Kecil
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+77. 46901 | Perdagangan Besar Berbagai Macam Barang di Grosir/Perkulakan Swalayan
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Grosir/ Perkulakan Tradisional
+   Skala Usaha: Usaha Menengah
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+78. 46901 | Perdagangan Besar Berbagai Macam Barang di Grosir/Perkulakan Swalayan
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Grosir/ Perkulakan Tradisional
+   Skala Usaha: Usaha Besar
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+79. 46901 | Perdagangan Besar Berbagai Macam Barang di Grosir/Perkulakan Swalayan
+   No Ruang Lingkup: 2
+   Ruang Lingkup: Grosir/ Perkulakan dengan sistem pelayanan mandiri
+   Skala Usaha: Usaha Mikro
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+80. 46901 | Perdagangan Besar Berbagai Macam Barang di Grosir/Perkulakan Swalayan
+   No Ruang Lingkup: 2
+   Ruang Lingkup: Grosir/ Perkulakan dengan sistem pelayanan mandiri
+   Skala Usaha: Usaha Kecil
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+81. 46901 | Perdagangan Besar Berbagai Macam Barang di Grosir/Perkulakan Swalayan
+   No Ruang Lingkup: 2
+   Ruang Lingkup: Grosir/ Perkulakan dengan sistem pelayanan mandiri
+   Skala Usaha: Usaha Menengah
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+82. 46901 | Perdagangan Besar Berbagai Macam Barang di Grosir/Perkulakan Swalayan
+   No Ruang Lingkup: 2
+   Ruang Lingkup: Grosir/ Perkulakan dengan sistem pelayanan mandiri
+   Skala Usaha: Usaha Besar
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+83. 46902 | Perdagangan Besar Berbagai Macam Barang Selain di Grosir/Perkulakan Swalayan
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Grosir/ Perkulakan Tradisional
+   Skala Usaha: Usaha Mikro
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+84. 46902 | Perdagangan Besar Berbagai Macam Barang Selain di Grosir/Perkulakan Swalayan
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Grosir/ Perkulakan Tradisional
+   Skala Usaha: Usaha Kecil
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+85. 46902 | Perdagangan Besar Berbagai Macam Barang Selain di Grosir/Perkulakan Swalayan
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Grosir/ Perkulakan Tradisional
+   Skala Usaha: Usaha Menengah
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+86. 46902 | Perdagangan Besar Berbagai Macam Barang Selain di Grosir/Perkulakan Swalayan
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Grosir/ Perkulakan Tradisional
+   Skala Usaha: Usaha Besar
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+87. 46902 | Perdagangan Besar Berbagai Macam Barang Selain di Grosir/Perkulakan Swalayan
+   No Ruang Lingkup: 2
+   Ruang Lingkup: Grosir/ Perkulakan dengan sistem pelayanan mandiri
+   Skala Usaha: Usaha Mikro
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+88. 46902 | Perdagangan Besar Berbagai Macam Barang Selain di Grosir/Perkulakan Swalayan
+   No Ruang Lingkup: 2
+   Ruang Lingkup: Grosir/ Perkulakan dengan sistem pelayanan mandiri
+   Skala Usaha: Usaha Kecil
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+89. 46902 | Perdagangan Besar Berbagai Macam Barang Selain di Grosir/Perkulakan Swalayan
+   No Ruang Lingkup: 2
+   Ruang Lingkup: Grosir/ Perkulakan dengan sistem pelayanan mandiri
+   Skala Usaha: Usaha Menengah
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+90. 46902 | Perdagangan Besar Berbagai Macam Barang Selain di Grosir/Perkulakan Swalayan
+   No Ruang Lingkup: 2
+   Ruang Lingkup: Grosir/ Perkulakan dengan sistem pelayanan mandiri
+   Skala Usaha: Usaha Besar
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+91. 47112 | Perdagangan Eceran Berbagai Macam Barang yang Utamanya Makanan, Minuman, atau Tembakau Selain dengan Sistem Swalayan
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Mikro
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+92. 47112 | Perdagangan Eceran Berbagai Macam Barang yang Utamanya Makanan, Minuman, atau Tembakau Selain dengan Sistem Swalayan
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Kecil
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+93. 47112 | Perdagangan Eceran Berbagai Macam Barang yang Utamanya Makanan, Minuman, atau Tembakau Selain dengan Sistem Swalayan
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Menengah
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+94. 47112 | Perdagangan Eceran Berbagai Macam Barang yang Utamanya Makanan, Minuman, atau Tembakau Selain dengan Sistem Swalayan
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Besar
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+95. 47192 | Perdagangan Eceran Berbagai Macam Barang yang Utamanya Bukan Makanan, Minuman, atau Tembakau Selain dengan Sistem Swalayan
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Mikro
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+96. 47192 | Perdagangan Eceran Berbagai Macam Barang yang Utamanya Bukan Makanan, Minuman, atau Tembakau Selain dengan Sistem Swalayan
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Kecil
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+97. 47192 | Perdagangan Eceran Berbagai Macam Barang yang Utamanya Bukan Makanan, Minuman, atau Tembakau Selain dengan Sistem Swalayan
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Menengah
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+98. 47192 | Perdagangan Eceran Berbagai Macam Barang yang Utamanya Bukan Makanan, Minuman, atau Tembakau Selain dengan Sistem Swalayan
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Besar
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+99. 47242 | Perdagangan Eceran Roti, Kue Kering, serta Kue Basah dan Sejenisnya
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Mikro
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+100. 47242 | Perdagangan Eceran Roti, Kue Kering, serta Kue Basah dan Sejenisnya
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Kecil
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+101. 47242 | Perdagangan Eceran Roti, Kue Kering, serta Kue Basah dan Sejenisnya
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Menengah
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+102. 47242 | Perdagangan Eceran Roti, Kue Kering, serta Kue Basah dan Sejenisnya
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Besar
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+103. 47249 | Perdagangan Eceran Makanan Lainnya
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Mikro
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+104. 47249 | Perdagangan Eceran Makanan Lainnya
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Kecil
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+105. 47249 | Perdagangan Eceran Makanan Lainnya
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Menengah
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+106. 47249 | Perdagangan Eceran Makanan Lainnya
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Besar
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+107. 47599 | Perdagangan Eceran Peralatan dan Perlengkapan Rumah Tangga Lainnya YTDL
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Mikro
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+108. 47599 | Perdagangan Eceran Peralatan dan Perlengkapan Rumah Tangga Lainnya YTDL
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Kecil
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+109. 47599 | Perdagangan Eceran Peralatan dan Perlengkapan Rumah Tangga Lainnya YTDL
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Menengah
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+110. 47599 | Perdagangan Eceran Peralatan dan Perlengkapan Rumah Tangga Lainnya YTDL
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Besar
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+111. 47711 | Perdagangan Eceran Pakaian
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Mikro
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+112. 47711 | Perdagangan Eceran Pakaian
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Kecil
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+113. 47711 | Perdagangan Eceran Pakaian
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Menengah
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+114. 47711 | Perdagangan Eceran Pakaian
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Besar
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+115. 47713 | Perdagangan Eceran Perlengkapan Pakaian
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Mikro
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+116. 47713 | Perdagangan Eceran Perlengkapan Pakaian
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Kecil
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+117. 47713 | Perdagangan Eceran Perlengkapan Pakaian
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Menengah
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+118. 47713 | Perdagangan Eceran Perlengkapan Pakaian
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Besar
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+119. 47724 | Perdagangan Eceran Kosmetik untuk Manusia
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Toko Kosmetik
+   Skala Usaha: Usaha Mikro
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar Toko Kosmetika
+   Jangka Waktu: -
+
+120. 47724 | Perdagangan Eceran Kosmetik untuk Manusia
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Toko Kosmetik
+   Skala Usaha: Usaha Kecil
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar Toko Kosmetika
+   Jangka Waktu: -
+
+121. 47724 | Perdagangan Eceran Kosmetik untuk Manusia
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Toko Kosmetik
+   Skala Usaha: Usaha Menengah
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar Toko Kosmetika
+   Jangka Waktu: -
+
+122. 47724 | Perdagangan Eceran Kosmetik untuk Manusia
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Toko Kosmetik
+   Skala Usaha: Usaha Besar
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar Toko Kosmetika
+   Jangka Waktu: -
+
+123. 47901 | Platform Digital Intermediasi Perdagangan Eceran
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Mikro
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+124. 47901 | Platform Digital Intermediasi Perdagangan Eceran
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Kecil
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+125. 47901 | Platform Digital Intermediasi Perdagangan Eceran
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Menengah
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+126. 47901 | Platform Digital Intermediasi Perdagangan Eceran
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Besar
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+127. 55901 | Aktivitas Jasa Manajemen Akomodasi
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Hunian wisata senior/ lansia
+   Skala Usaha: Usaha Mikro
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+128. 55901 | Aktivitas Jasa Manajemen Akomodasi
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Hunian wisata senior/ lansia
+   Skala Usaha: Usaha Kecil
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+129. 55901 | Aktivitas Jasa Manajemen Akomodasi
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Hunian wisata senior/ lansia
+   Skala Usaha: Usaha Menengah
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+130. 55901 | Aktivitas Jasa Manajemen Akomodasi
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Hunian wisata senior/ lansia
+   Skala Usaha: Usaha Besar
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+131. 55901 | Aktivitas Jasa Manajemen Akomodasi
+   No Ruang Lingkup: 2
+   Ruang Lingkup: Jasa manajemen hotel
+   Skala Usaha: Usaha Mikro
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+132. 55901 | Aktivitas Jasa Manajemen Akomodasi
+   No Ruang Lingkup: 2
+   Ruang Lingkup: Jasa manajemen hotel
+   Skala Usaha: Usaha Kecil
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+133. 55901 | Aktivitas Jasa Manajemen Akomodasi
+   No Ruang Lingkup: 2
+   Ruang Lingkup: Jasa manajemen hotel
+   Skala Usaha: Usaha Menengah
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+134. 55901 | Aktivitas Jasa Manajemen Akomodasi
+   No Ruang Lingkup: 2
+   Ruang Lingkup: Jasa manajemen hotel
+   Skala Usaha: Usaha Besar
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+135. 55909 | Penyediaan Akomodasi Lainnya YTDL
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Hunian wisata senior/ lansia
+   Skala Usaha: Usaha Mikro
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+136. 55909 | Penyediaan Akomodasi Lainnya YTDL
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Hunian wisata senior/ lansia
+   Skala Usaha: Usaha Kecil
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+137. 55909 | Penyediaan Akomodasi Lainnya YTDL
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Hunian wisata senior/ lansia
+   Skala Usaha: Usaha Menengah
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+138. 55909 | Penyediaan Akomodasi Lainnya YTDL
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Hunian wisata senior/ lansia
+   Skala Usaha: Usaha Besar
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+139. 55909 | Penyediaan Akomodasi Lainnya YTDL
+   No Ruang Lingkup: 2
+   Ruang Lingkup: Jasa manajemen hotel
+   Skala Usaha: Usaha Mikro
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+140. 55909 | Penyediaan Akomodasi Lainnya YTDL
+   No Ruang Lingkup: 2
+   Ruang Lingkup: Jasa manajemen hotel
+   Skala Usaha: Usaha Kecil
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+141. 55909 | Penyediaan Akomodasi Lainnya YTDL
+   No Ruang Lingkup: 2
+   Ruang Lingkup: Jasa manajemen hotel
+   Skala Usaha: Usaha Menengah
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+142. 55909 | Penyediaan Akomodasi Lainnya YTDL
+   No Ruang Lingkup: 2
+   Ruang Lingkup: Jasa manajemen hotel
+   Skala Usaha: Usaha Besar
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+143. 56101 | Aktivitas Penyediaan Makanan di Bangunan Tetap
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Mikro
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+144. 56101 | Aktivitas Penyediaan Makanan di Bangunan Tetap
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Kecil
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Tinggi
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: 14
+
+145. 56101 | Aktivitas Penyediaan Makanan di Bangunan Tetap
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Menengah
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Tinggi
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: 14
+
+146. 56101 | Aktivitas Penyediaan Makanan di Bangunan Tetap
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Besar
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Tinggi
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: 14
+
+147. 56102 | Aktivitas Penyediaan Makanan di Bangunan Tidak Tetap
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Mikro
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+148. 56102 | Aktivitas Penyediaan Makanan di Bangunan Tidak Tetap
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Kecil
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+149. 56210 | Aktivitas Jasa Boga untuk Acara Tertentu (Event Catering)
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Mikro
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+150. 56210 | Aktivitas Jasa Boga untuk Acara Tertentu (Event Catering)
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Kecil
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+151. 56210 | Aktivitas Jasa Boga untuk Acara Tertentu (Event Catering)
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Menengah
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Tinggi
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: 14
+
+152. 56210 | Aktivitas Jasa Boga untuk Acara Tertentu (Event Catering)
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Besar
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Tinggi
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: 14
+
+153. 56303 | Aktivitas Rumah Minum/Kafe
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Mikro
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+154. 56303 | Aktivitas Rumah Minum/Kafe
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Kecil
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+155. 56303 | Aktivitas Rumah Minum/Kafe
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Menengah
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+156. 56303 | Aktivitas Rumah Minum/Kafe
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Besar
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+157. 56304 | Aktivitas Kedai Minuman
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Mikro
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+158. 56304 | Aktivitas Kedai Minuman
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Kecil
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+159. 58290 | Penerbitan Perangkat Lunak (Software) Lainnya
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Penerbitan gim
+   Skala Usaha: Usaha Mikro
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Perizinan Penyelenggaraan Pos
+   Jangka Waktu: -
+
+160. 58290 | Penerbitan Perangkat Lunak (Software) Lainnya
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Penerbitan gim
+   Skala Usaha: Usaha Kecil
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Perizinan Penyelenggaraan Pos
+   Jangka Waktu: -
+
+161. 58290 | Penerbitan Perangkat Lunak (Software) Lainnya
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Penerbitan gim
+   Skala Usaha: Usaha Menengah
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Perizinan Penyelenggaraan Pos
+   Jangka Waktu: -
+
+162. 58290 | Penerbitan Perangkat Lunak (Software) Lainnya
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Penerbitan gim
+   Skala Usaha: Usaha Besar
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Perizinan Penyelenggaraan Pos
+   Jangka Waktu: -
+
+163. 58290 | Penerbitan Perangkat Lunak (Software) Lainnya
+   No Ruang Lingkup: 2
+   Ruang Lingkup: Selain penerbitan gim
+   Skala Usaha: Usaha Kecil
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+164. 58290 | Penerbitan Perangkat Lunak (Software) Lainnya
+   No Ruang Lingkup: 2
+   Ruang Lingkup: Selain penerbitan gim
+   Skala Usaha: Usaha Menengah
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+165. 58290 | Penerbitan Perangkat Lunak (Software) Lainnya
+   No Ruang Lingkup: 2
+   Ruang Lingkup: Selain penerbitan gim
+   Skala Usaha: Usaha Besar
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Tinggi
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: 7
+
+166. 59112 | Aktivitas Produksi Film, Video, dan Program Televisi oleh Swasta
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh kecuali animasi
+   Skala Usaha: Usaha Mikro
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+167. 59112 | Aktivitas Produksi Film, Video, dan Program Televisi oleh Swasta
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh kecuali animasi
+   Skala Usaha: Usaha Kecil
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+168. 59112 | Aktivitas Produksi Film, Video, dan Program Televisi oleh Swasta
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh kecuali animasi
+   Skala Usaha: Usaha Menengah
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+169. 59112 | Aktivitas Produksi Film, Video, dan Program Televisi oleh Swasta
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh kecuali animasi
+   Skala Usaha: Usaha Besar
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+170. 59112 | Aktivitas Produksi Film, Video, dan Program Televisi oleh Swasta
+   No Ruang Lingkup: 2
+   Ruang Lingkup: Khusus untuk animasi
+   Skala Usaha: Usaha Kecil
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+171. 59112 | Aktivitas Produksi Film, Video, dan Program Televisi oleh Swasta
+   No Ruang Lingkup: 2
+   Ruang Lingkup: Khusus untuk animasi
+   Skala Usaha: Usaha Menengah
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+172. 59112 | Aktivitas Produksi Film, Video, dan Program Televisi oleh Swasta
+   No Ruang Lingkup: 2
+   Ruang Lingkup: Khusus untuk animasi
+   Skala Usaha: Usaha Besar
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Tinggi
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: 7
+
+173. 62191 | Aktivitas Pengembangan Aplikasi Perdagangan melalui Internet (E- Commerce)
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Mikro
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+174. 62191 | Aktivitas Pengembangan Aplikasi Perdagangan melalui Internet (E- Commerce)
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Kecil
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+175. 62191 | Aktivitas Pengembangan Aplikasi Perdagangan melalui Internet (E- Commerce)
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Menengah
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+176. 62191 | Aktivitas Pengembangan Aplikasi Perdagangan melalui Internet (E- Commerce)
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Besar
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Tinggi
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: 7
+
+177. 62199 | Aktivitas Pemrograman Komputer Lainnya YTDL
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Mikro
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+178. 62199 | Aktivitas Pemrograman Komputer Lainnya YTDL
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Kecil
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+179. 62199 | Aktivitas Pemrograman Komputer Lainnya YTDL
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Menengah
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+180. 62199 | Aktivitas Pemrograman Komputer Lainnya YTDL
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Besar
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Tinggi
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: 7
+
+181. 62209 | Aktivitas Konsultansi Komputer dan Manajemen Fasilitas Komputer Lainnya
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Mikro
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Tinggi
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: 7
+
+182. 62209 | Aktivitas Konsultansi Komputer dan Manajemen Fasilitas Komputer Lainnya
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Kecil
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Tinggi
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: 7
+
+183. 62209 | Aktivitas Konsultansi Komputer dan Manajemen Fasilitas Komputer Lainnya
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Menengah
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Tinggi
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: 7
+
+184. 62209 | Aktivitas Konsultansi Komputer dan Manajemen Fasilitas Komputer Lainnya
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Besar
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Tinggi
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: 7
+
+185. 62900 | Aktivitas Jasa Teknologi Informasi dan Komputer Lainnya
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Mikro
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+186. 62900 | Aktivitas Jasa Teknologi Informasi dan Komputer Lainnya
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Kecil
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+187. 62900 | Aktivitas Jasa Teknologi Informasi dan Komputer Lainnya
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Menengah
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+188. 62900 | Aktivitas Jasa Teknologi Informasi dan Komputer Lainnya
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Besar
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+189. 64210 | Aktivitas Perusahaan Induk
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Mikro
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+190. 64210 | Aktivitas Perusahaan Induk
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Kecil
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+191. 64210 | Aktivitas Perusahaan Induk
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Menengah
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+192. 64210 | Aktivitas Perusahaan Induk
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Besar
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+193. 68111 | Aktivitas Pengembangan Bangunan dan Lahan Hunian
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Pengembangan campuran antara huruf a, b dan/ atau c
+   Skala Usaha: Usaha Mikro
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+194. 68111 | Aktivitas Pengembangan Bangunan dan Lahan Hunian
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Pengembangan campuran antara huruf a, b dan/ atau c
+   Skala Usaha: Usaha Kecil
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+195. 68111 | Aktivitas Pengembangan Bangunan dan Lahan Hunian
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Pengembangan campuran antara huruf a, b dan/ atau c
+   Skala Usaha: Usaha Menengah
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+196. 68111 | Aktivitas Pengembangan Bangunan dan Lahan Hunian
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Pengembangan campuran antara huruf a, b dan/ atau c
+   Skala Usaha: Usaha Besar
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+197. 68111 | Aktivitas Pengembangan Bangunan dan Lahan Hunian
+   No Ruang Lingkup: 2
+   Ruang Lingkup: Pengembangan selain huruf a dan b
+   Skala Usaha: Usaha Mikro
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+198. 68111 | Aktivitas Pengembangan Bangunan dan Lahan Hunian
+   No Ruang Lingkup: 2
+   Ruang Lingkup: Pengembangan selain huruf a dan b
+   Skala Usaha: Usaha Kecil
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+199. 68111 | Aktivitas Pengembangan Bangunan dan Lahan Hunian
+   No Ruang Lingkup: 2
+   Ruang Lingkup: Pengembangan selain huruf a dan b
+   Skala Usaha: Usaha Menengah
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+200. 68111 | Aktivitas Pengembangan Bangunan dan Lahan Hunian
+   No Ruang Lingkup: 2
+   Ruang Lingkup: Pengembangan selain huruf a dan b
+   Skala Usaha: Usaha Besar
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+201. 68111 | Aktivitas Pengembangan Bangunan dan Lahan Hunian
+   No Ruang Lingkup: 3
+   Ruang Lingkup: Pengembangan dan/ atau pengoperasian pusat perbelanjaan
+   Skala Usaha: Usaha Mikro
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+202. 68111 | Aktivitas Pengembangan Bangunan dan Lahan Hunian
+   No Ruang Lingkup: 3
+   Ruang Lingkup: Pengembangan dan/ atau pengoperasian pusat perbelanjaan
+   Skala Usaha: Usaha Kecil
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+203. 68111 | Aktivitas Pengembangan Bangunan dan Lahan Hunian
+   No Ruang Lingkup: 3
+   Ruang Lingkup: Pengembangan dan/ atau pengoperasian pusat perbelanjaan
+   Skala Usaha: Usaha Menengah
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+204. 68111 | Aktivitas Pengembangan Bangunan dan Lahan Hunian
+   No Ruang Lingkup: 3
+   Ruang Lingkup: Pengembangan dan/ atau pengoperasian pusat perbelanjaan
+   Skala Usaha: Usaha Besar
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+205. 68111 | Aktivitas Pengembangan Bangunan dan Lahan Hunian
+   No Ruang Lingkup: 4
+   Ruang Lingkup: Pengembangan Hunian dan/atau hunian campuran: Kelompok ini mencakup usaha pembelian, penjualan, persewaan dan pengoperasian perumahan baik yang dimiliki sendiri maupun disewa
+   Skala Usaha: Usaha Mikro
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+206. 68111 | Aktivitas Pengembangan Bangunan dan Lahan Hunian
+   No Ruang Lingkup: 4
+   Ruang Lingkup: Pengembangan Hunian dan/atau hunian campuran: Kelompok ini mencakup usaha pembelian, penjualan, persewaan dan pengoperasian perumahan baik yang dimiliki sendiri maupun disewa
+   Skala Usaha: Usaha Kecil
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+207. 68111 | Aktivitas Pengembangan Bangunan dan Lahan Hunian
+   No Ruang Lingkup: 4
+   Ruang Lingkup: Pengembangan Hunian dan/atau hunian campuran: Kelompok ini mencakup usaha pembelian, penjualan, persewaan dan pengoperasian perumahan baik yang dimiliki sendiri maupun disewa
+   Skala Usaha: Usaha Menengah
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+208. 68111 | Aktivitas Pengembangan Bangunan dan Lahan Hunian
+   No Ruang Lingkup: 4
+   Ruang Lingkup: Pengembangan Hunian dan/atau hunian campuran: Kelompok ini mencakup usaha pembelian, penjualan, persewaan dan pengoperasian perumahan baik yang dimiliki sendiri maupun disewa
+   Skala Usaha: Usaha Besar
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+209. 70203 | Aktivitas Konsultansi Manajemen dan Bisnis Perdagangan
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Mikro
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+210. 70203 | Aktivitas Konsultansi Manajemen dan Bisnis Perdagangan
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Kecil
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+211. 70203 | Aktivitas Konsultansi Manajemen dan Bisnis Perdagangan
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Menengah
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+212. 70203 | Aktivitas Konsultansi Manajemen dan Bisnis Perdagangan
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Besar
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+213. 70209 | Aktivitas Konsultasi Manajemen dan Bisnis Lainnya
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Mikro
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Tinggi
+   Perizinan Berusaha: Standar Usaha Jasa Konsultansi Transportasi (Manajemen Kemanan Pelabuhan)
+   Jangka Waktu: 7
+
+214. 70209 | Aktivitas Konsultasi Manajemen dan Bisnis Lainnya
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Kecil
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Tinggi
+   Perizinan Berusaha: Standar Usaha Jasa Konsultansi Transportasi (Manajemen Kemanan Pelabuhan)
+   Jangka Waktu: 7
+
+215. 70209 | Aktivitas Konsultasi Manajemen dan Bisnis Lainnya
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Menengah
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Tinggi
+   Perizinan Berusaha: Standar Usaha Jasa Konsultansi Transportasi (Manajemen Kemanan Pelabuhan)
+   Jangka Waktu: 7
+
+216. 70209 | Aktivitas Konsultasi Manajemen dan Bisnis Lainnya
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Besar
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Tinggi
+   Perizinan Berusaha: Standar Usaha Jasa Konsultansi Transportasi (Manajemen Kemanan Pelabuhan)
+   Jangka Waktu: 7
+
+217. 73100 | Aktivitas Periklanan
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Mikro
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+218. 73100 | Aktivitas Periklanan
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Kecil
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+219. 73100 | Aktivitas Periklanan
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Menengah
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+220. 73100 | Aktivitas Periklanan
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Besar
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+221. 82300 | Penyelenggaraan Konvensi dan Pameran Bisnis
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Mikro
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+222. 82300 | Penyelenggaraan Konvensi dan Pameran Bisnis
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Kecil
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+223. 82300 | Penyelenggaraan Konvensi dan Pameran Bisnis
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Menengah
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+224. 82300 | Penyelenggaraan Konvensi dan Pameran Bisnis
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Besar
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Menengah Rendah
+   Perizinan Berusaha: Sertifikat Standar
+   Jangka Waktu: -
+
+225. 96220 | Aktivitas Perawatan Kecantikan dan Perawatan Kecantikan Lainnya
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Mikro
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+226. 96220 | Aktivitas Perawatan Kecantikan dan Perawatan Kecantikan Lainnya
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Kecil
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+227. 96220 | Aktivitas Perawatan Kecantikan dan Perawatan Kecantikan Lainnya
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Menengah
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+228. 96900 | Aktivitas Jasa Perorangan Lainnya YTDL
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Mikro
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+229. 96900 | Aktivitas Jasa Perorangan Lainnya YTDL
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Kecil
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+230. 96900 | Aktivitas Jasa Perorangan Lainnya YTDL
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Menengah
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+
+231. 96900 | Aktivitas Jasa Perorangan Lainnya YTDL
+   No Ruang Lingkup: 1
+   Ruang Lingkup: Seluruh
+   Skala Usaha: Usaha Besar
+   Ketentuan: Ketentuan #1
+   Luas Lahan: -
+   Tingkat Risiko: Rendah
+   Perizinan Berusaha: -
+   Jangka Waktu: -
+

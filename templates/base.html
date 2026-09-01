@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Chatbot DPMPTSP</title>
+</head>
+<body>
+<h2>Chatbot DPMPTSP</h2>
+<div id="chat"></div>
+<input type="text" id="message" placeholder="Tulis pertanyaan...">
+<button onclick="sendMessage()">
+Kirim
+</button>
+<script>
+function sendMessage(){
+    let msg =
+    document.getElementById("message").value;
+    fetch("/chat",{
+        method:"POST",
+        headers:{
+            "Content-Type":"application/json"
+        },
+        body:JSON.stringify({
+            message:msg
+        })
+    })
+    .then(r=>r.json())
+    .then(data=>{
+        document.getElementById("chat").innerHTML+=
+        "<p><b>Anda :</b> "+msg+"</p>";
+        document.getElementById("chat").innerHTML+=
+        "<p><b>Bot :</b> "+data.response+"</p>";
+        document.getElementById("message").value="";
+    });
+}
+</script>
+</body>
+</html>

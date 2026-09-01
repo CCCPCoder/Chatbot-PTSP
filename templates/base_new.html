@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>DPMPTSP Chatbot</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <nav>
+        <img src="static/img/500abad.png" alt="" height="50px">
+        <img src="static/img/jakevo.png" alt="" height="50px">
+    </nav>
+    <header>
+        <br>
+        <h1>Chatbot Pelayanan pada DPMPTSP Provinsi DKI Jakarta</h1>
+        <br>
+    </header>
+    <div class="content-container">
+        <br>
+        <br>
+        <h3>Penjelasan singkat ChatBot</h3>
+        <br>
+        <p>Statistik Model:</p>
+        <ul>Metode : LSTM</ul>
+        <ul>Intent : {{total_intents}} intent</ul>
+        <ul>Dataset : {{total_patterns}} pattern</ul>
+    </div>
+    <button class="chat-button" onclick="toggleChat()">
+    <img src="static/img/solusi.png" alt="" width="80px" height="80px">
+    </button>
+        <div class="chat-container" id="chatBox">
+            <div class="chat-header">
+            <h3>DPMPTSP Assistant</h3>
+            <span class="close" onclick="toggleChat()">
+            ×
+            </span>
+            </div>
+            <div class="chat-body" id="chatBody">
+                <div class="message bot">
+                    <div class="bubble">
+                    Halo 👋<br><br>
+                    Saya adalah chatbot DPMPTSP Provinsi DKI Jakarta.
+                    Silakan tanyakan mengenai:
+                    <ul style="margin-top:10px;padding-left:18px;">
+                    <li>Persyaratan izin</li>
+                    <li>Cara pengajuan</li>
+                    <li>Biaya layanan</li>
+                    <li>Lokasi kantor</li>
+                    <li>Jam operasional</li>
+                    </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="typing" id="typing" style="display:none">
+            Bot sedang mengetik...
+            </div>
+            <div class="chat-footer">
+                <input id="message" placeholder="Tulis pertanyaan..." autocomplete="off">
+                <button onclick="sendMessage()">
+                Kirim
+                </button>
+            </div>
+        </div>
+    <script>
+    const chatBox=document.getElementById("chatBox");
+    const body=document.getElementById("chatBody");
+    const typing=document.getElementById("typing");
+    function toggleChat(){
+    if(chatBox.style.display==="flex")
+    chatBox.style.display="none";
+    else
+    chatBox.style.display="flex";
+    }
+    function addMessage(text,type){
+    body.innerHTML+=`
+    <div class="message ${type}">
+    <div class="bubble">
+    ${text}
+    </div>
+    </div>
+    `;
+    body.scrollTop=body.scrollHeight;
+    }
+    function sendMessage(){
+    let input=document.getElementById("message");
+    let msg=input.value.trim();
+    if(msg==="") return;
+    addMessage(msg,"user");
+    input.value="";
+    typing.style.display="block";
+    fetch("/chat",{
+    method:"POST",
+    headers:{
+    "Content-Type":"application/json"
+    },
+    body:JSON.stringify({
+    message:msg
+    })
+    })
+    .then(r=>r.json())
+    .then(data=>{
+    typing.style.display="none";
+    //menampilkan pesan dari chatbot dengan intent yang diprediksi dan confidence score
+    addMessage(
+        data.response +
+        "<br><br><small>" +
+        "Intent : <b>" + data.intent + "</b><br>" +
+        "Confidence : <b>" + (data.confidence * 100).toFixed(2) + "%</b>" +
+        "</small>",
+        "bot"
+    );
+    });
+    }
+    document.getElementById("message").addEventListener("keypress",function(e){
+    if(e.key==="Enter"){
+    sendMessage();
+    }
+    });
+    </script>
+</body>
+</html>

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Edit Intent</title>
+    <link rel="stylesheet"
+          href="{{ url_for('static', filename='css/admin.css') }}">
+</head>
+<body>
+    <div class="sidebar">
+        <h2>Chatbot Admin</h2>
+        <a href="{{ url_for('admin_app') }}">Dashboard</a>
+        <a href="{{ url_for('log_training') }}">Log Training</a>
+        <a href="/">Lihat Chatbot</a>
+    </div>
+    <div class="content">
+    
+    {% if error %}
+    <div class="error">
+        {{ error }}
+    </div>
+    {% endif %}
+    <form method="POST"
+          class="intent-form">
+        <label>
+            Tag Intent
+        </label>
+        <input
+            value="{{ intent.tag }}"
+            disabled
+        >
+        <label>
+            Patterns
+        </label>
+        <p class="description">
+            Masukkan satu pattern pada setiap baris.
+        </p>
+        <textarea
+            name="patterns"
+            rows="10"
+            required
+        >{{ intent.patterns | join('\n') }}</textarea>
+        <label for="response">
+            Response
+        </label>
+
+        <p class="description">
+
+            Gunakan <strong>baris kosong</strong>
+            untuk memisahkan response.
+
+            Gunakan tanda <strong>-</strong>
+            untuk membuat daftar.
+
+        </p>
+
+        <textarea
+            id="responses"
+            name="responses"
+            rows="14"
+            required
+        >{{ responses }}</textarea>
+        <div class="form-actions">
+            <button
+                type="submit"
+                class="btn save"
+            >
+                Simpan Intent
+            </button>
+            <a
+                href="{{ url_for('admin_app') }}"
+                class="btn cancel"
+            >
+                Batal
+            </a>
+        </div>
+    </form>
+</div>
+</body>
+</html>
