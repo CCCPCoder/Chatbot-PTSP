@@ -36,10 +36,10 @@ DROPOUT = 0.5
 LEARNING_RATE = 0.001
 EPOCHS = 50
 
-model_name = "model_oss_generated.pth"
+model_name = "model.pth"
 model_name_temp = "model_temp.pth"
-config_name = "config_oss_generated.pkl"
-intent_name = "intents_oss_generated.json"
+config_name = "config.pkl"
+intent_name = "intents.json"
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
