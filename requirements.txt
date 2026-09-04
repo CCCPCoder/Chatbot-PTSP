@@ -1,7 +1,7 @@
+-f https://download.pytorch.org/whl/torch_stable.html
 Flask
 jsonify
 torch
-torchvision
 Jinja2
 numpy
 nltk
