@@ -3,6 +3,7 @@ Flask
 jsonify
 torch==2.11.0
 torchvision==0.26.0
+scikit-learn
 Jinja2
 numpy
 nltk
