@@ -10,11 +10,11 @@ import pickle
 import subprocess
 import sys
 from flask import Flask, render_template, request, jsonify, redirect, url_for, session
-from chat_oss import get_response, load_model
+from chat_general import get_response, load_model
 import threading
 import json
 
-intent_name = "intents_oss_generated.json"
+intent_name = "intents.json"
 
 STATUS_FILE = "training_status.json"
 LOG_FILE = "training.log"
