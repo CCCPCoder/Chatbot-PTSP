@@ -1,0 +1,88 @@
+TRAINING_STARTED
+Device : cpu
+Jumlah data : 43534
+Jumlah intent : 407
+Vocabulary : 602
+Jumlah kelas : 407
+Max Length : 66
+Train : 34827
+Test : 8707
+ChatLSTM(
+  (embedding): Embedding(602, 128, padding_idx=0)
+  (lstm): LSTM(128, 256, num_layers=2, batch_first=True, dropout=0.5)
+  (dropout): Dropout(p=0.5, inplace=False)
+  (fc): Linear(in_features=256, out_features=407, bias=True)
+)
+Epoch [1/50] | Train Loss: 4.6078 | Train Acc: 5.67% | Val Loss: 3.1545 | Val Acc: 17.88%
+Model terbaik disimpan.
+Epoch [2/50] | Train Loss: 2.6354 | Train Acc: 28.64% | Val Loss: 1.4550 | Val Acc: 59.85%
+Model terbaik disimpan.
+Epoch [3/50] | Train Loss: 1.0088 | Train Acc: 72.01% | Val Loss: 0.2905 | Val Acc: 94.91%
+Model terbaik disimpan.
+Epoch [4/50] | Train Loss: 0.2627 | Train Acc: 94.85% | Val Loss: 0.0464 | Val Acc: 99.56%
+Model terbaik disimpan.
+Epoch [5/50] | Train Loss: 0.0847 | Train Acc: 98.95% | Val Loss: 0.0337 | Val Acc: 99.33%
+Epoch [6/50] | Train Loss: 0.0411 | Train Acc: 99.56% | Val Loss: 0.0112 | Val Acc: 99.76%
+Model terbaik disimpan.
+Epoch [7/50] | Train Loss: 0.0676 | Train Acc: 98.68% | Val Loss: 0.0109 | Val Acc: 99.84%
+Model terbaik disimpan.
+Epoch [8/50] | Train Loss: 0.0251 | Train Acc: 99.70% | Val Loss: 0.0027 | Val Acc: 99.95%
+Model terbaik disimpan.
+Epoch [9/50] | Train Loss: 0.0188 | Train Acc: 99.74% | Val Loss: 0.0070 | Val Acc: 99.83%
+Epoch [10/50] | Train Loss: 0.0234 | Train Acc: 99.59% | Val Loss: 0.0136 | Val Acc: 99.74%
+Epoch [11/50] | Train Loss: 0.0312 | Train Acc: 99.33% | Val Loss: 0.0015 | Val Acc: 99.98%
+Model terbaik disimpan.
+Epoch [12/50] | Train Loss: 0.0115 | Train Acc: 99.80% | Val Loss: 0.0017 | Val Acc: 99.95%
+Epoch [13/50] | Train Loss: 0.0130 | Train Acc: 99.76% | Val Loss: 0.0006 | Val Acc: 100.00%
+Model terbaik disimpan.
+Epoch [14/50] | Train Loss: 0.0343 | Train Acc: 99.17% | Val Loss: 0.0024 | Val Acc: 99.95%
+Epoch [15/50] | Train Loss: 0.0121 | Train Acc: 99.78% | Val Loss: 0.0008 | Val Acc: 99.99%
+Epoch [16/50] | Train Loss: 0.0058 | Train Acc: 99.91% | Val Loss: 0.0006 | Val Acc: 99.99%
+Epoch [17/50] | Train Loss: 0.0074 | Train Acc: 99.86% | Val Loss: 0.0007 | Val Acc: 99.99%
+Epoch [18/50] | Train Loss: 0.0100 | Train Acc: 99.78% | Val Loss: 0.0005 | Val Acc: 99.99%
+Epoch [19/50] | Train Loss: 0.0065 | Train Acc: 99.89% | Val Loss: 0.0030 | Val Acc: 99.94%
+Epoch [20/50] | Train Loss: 0.0110 | Train Acc: 99.78% | Val Loss: 0.0010 | Val Acc: 99.98%
+Epoch [21/50] | Train Loss: 0.0102 | Train Acc: 99.78% | Val Loss: 0.0003 | Val Acc: 100.00%
+Epoch [22/50] | Train Loss: 0.0066 | Train Acc: 99.87% | Val Loss: 0.0028 | Val Acc: 99.94%
+Epoch [23/50] | Train Loss: 0.0075 | Train Acc: 99.84% | Val Loss: 0.0004 | Val Acc: 99.99%
+Epoch [24/50] | Train Loss: 0.0037 | Train Acc: 99.93% | Val Loss: 0.0003 | Val Acc: 99.99%
+Epoch [25/50] | Train Loss: 0.0062 | Train Acc: 99.86% | Val Loss: 0.0004 | Val Acc: 99.99%
+Epoch [26/50] | Train Loss: 0.0090 | Train Acc: 99.77% | Val Loss: 0.0003 | Val Acc: 99.99%
+Epoch [27/50] | Train Loss: 0.0051 | Train Acc: 99.87% | Val Loss: 0.0003 | Val Acc: 99.99%
+Epoch [28/50] | Train Loss: 0.0063 | Train Acc: 99.87% | Val Loss: 0.0001 | Val Acc: 100.00%
+Epoch [29/50] | Train Loss: 0.0026 | Train Acc: 99.95% | Val Loss: 0.0043 | Val Acc: 99.77%
+Epoch [30/50] | Train Loss: 0.0065 | Train Acc: 99.85% | Val Loss: 0.0008 | Val Acc: 99.99%
+Epoch [31/50] | Train Loss: 0.0027 | Train Acc: 99.93% | Val Loss: 0.0002 | Val Acc: 100.00%
+Epoch [32/50] | Train Loss: 0.0024 | Train Acc: 99.96% | Val Loss: 0.0002 | Val Acc: 100.00%
+Epoch [33/50] | Train Loss: 0.0051 | Train Acc: 99.87% | Val Loss: 0.0003 | Val Acc: 99.99%
+Epoch [34/50] | Train Loss: 0.0036 | Train Acc: 99.92% | Val Loss: 0.0002 | Val Acc: 99.99%
+Epoch [35/50] | Train Loss: 0.0045 | Train Acc: 99.89% | Val Loss: 0.0001 | Val Acc: 100.00%
+Epoch [36/50] | Train Loss: 0.0061 | Train Acc: 99.83% | Val Loss: 0.0001 | Val Acc: 100.00%
+Epoch [37/50] | Train Loss: 0.0032 | Train Acc: 99.93% | Val Loss: 0.0000 | Val Acc: 100.00%
+Epoch [38/50] | Train Loss: 0.0051 | Train Acc: 99.85% | Val Loss: 0.0001 | Val Acc: 100.00%
+Epoch [39/50] | Train Loss: 0.0041 | Train Acc: 99.91% | Val Loss: 0.0000 | Val Acc: 100.00%
+Epoch [40/50] | Train Loss: 0.0046 | Train Acc: 99.87% | Val Loss: 0.0001 | Val Acc: 100.00%
+Epoch [41/50] | Train Loss: 0.0033 | Train Acc: 99.92% | Val Loss: 0.0000 | Val Acc: 100.00%
+Epoch [42/50] | Train Loss: 0.0049 | Train Acc: 99.87% | Val Loss: 0.0000 | Val Acc: 100.00%
+Epoch [43/50] | Train Loss: 0.0050 | Train Acc: 99.88% | Val Loss: 0.0001 | Val Acc: 100.00%
+Epoch [44/50] | Train Loss: 0.0050 | Train Acc: 99.86% | Val Loss: 0.0000 | Val Acc: 100.00%
+Epoch [45/50] | Train Loss: 0.0046 | Train Acc: 99.88% | Val Loss: 0.0000 | Val Acc: 100.00%
+Epoch [46/50] | Train Loss: 0.0054 | Train Acc: 99.84% | Val Loss: 0.0001 | Val Acc: 100.00%
+Epoch [47/50] | Train Loss: 0.0037 | Train Acc: 99.92% | Val Loss: 0.0000 | Val Acc: 100.00%
+Epoch [48/50] | Train Loss: 0.0022 | Train Acc: 99.95% | Val Loss: 0.0000 | Val Acc: 100.00%
+Epoch [49/50] | Train Loss: 0.0030 | Train Acc: 99.93% | Val Loss: 0.0000 | Val Acc: 100.00%
+Epoch [50/50] | Train Loss: 0.0021 | Train Acc: 99.96% | Val Loss: 0.0000 | Val Acc: 100.00%
+
+Training selesai.
+Akurasi terbaik : 100.00%
+
+Model berhasil dimuat.
+Jumlah Vocabulary : 602
+Jumlah Label : 407
+Jumlah Class : 407
+========================================
+Accuracy  : 1.0000
+Precision : 1.0000
+Recall    : 1.0000
+F1 Score  : 1.0000
+========================================

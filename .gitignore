@@ -1,1 +1,15 @@
 .venv/
+train_backup_pisah_test.py
+train_backup.py
+test.py
+hasil_evaluasi_per_intent.xlsx
+generate_intents_oss.py
+fix_kbli_texts_from_source.py
+fix_json.py
+extract_top50_scraping.py
+extract_kbli_top50_ketentuan.py
+debug_json.py
+chat_debug_copy.py
+chat_debug.py
+chat_debugv2.py
+scraping/

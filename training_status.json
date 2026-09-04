@@ -1,8 +1,8 @@
 {
     "running": false,
-    "status": "idle",
-    "message": "Training belum dijalankan.",
-    "pid": null,
-    "started_at": null,
-    "finished_at": null
+    "status": "completed",
+    "message": "Training selesai. Model terbaru tersedia.",
+    "pid": 3268,
+    "started_at": "2026-09-03T14:03:13.795275",
+    "finished_at": "2026-09-03T16:03:29.196329"
 }

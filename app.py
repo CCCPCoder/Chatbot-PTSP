@@ -1,5 +1,6 @@
 from urllib import response
 import os
+import signal
 from datetime import datetime
 import json
 import time
@@ -9,11 +10,11 @@ import pickle
 import subprocess
 import sys
 from flask import Flask, render_template, request, jsonify, redirect, url_for, session
-from chat_general import get_response, load_model
+from chat_oss import get_response, load_model
 import threading
 import json
 
-intent_name = "intents_oss.json"
+intent_name = "intents_oss_generated.json"
 
 STATUS_FILE = "training_status.json"
 LOG_FILE = "training.log"
@@ -134,6 +135,7 @@ def log_training():
 
 @app.route("/admin/train", methods=["POST"])
 def start_training():
+    global training_process
 
     status = get_training_status()
 
@@ -178,6 +180,8 @@ def start_training():
             else 0
         )
 
+        training_process = process
+
         status = {
             "running": True,
             "status": "training",
@@ -218,6 +222,69 @@ def start_training():
             "success": False,
             "message": str(e)
         }), 500
+
+@app.route("/admin/train/cancel", methods=["POST"])
+def cancel_training():
+    global training_process
+
+    status = get_training_status()
+    if not status.get("running"):
+        return jsonify({
+            "success": False,
+            "message": "Tidak ada training yang sedang berjalan."
+        }), 409
+
+    process = training_process
+    if process is None:
+        pid = status.get("pid")
+        if pid is None:
+            return jsonify({
+                "success": False,
+                "message": "PID training tidak ditemukan."
+            }), 404
+        try:
+            if os.name == "nt":
+                os.kill(pid, signal.CTRL_BREAK_EVENT)
+            else:
+                os.kill(pid, signal.SIGTERM)
+        except Exception:
+            pass
+    else:
+        try:
+            if os.name == "nt":
+                process.send_signal(signal.CTRL_BREAK_EVENT)
+            else:
+                process.terminate()
+        except Exception:
+            try:
+                process.terminate()
+            except Exception:
+                pass
+
+        try:
+            process.wait(timeout=10)
+        except Exception:
+            try:
+                process.kill()
+            except Exception:
+                pass
+
+    training_process = None
+
+    cancel_status = {
+        "running": False,
+        "status": "cancelled",
+        "message": "Training dibatalkan oleh admin.",
+        "pid": None,
+        "started_at": status.get("started_at"),
+        "finished_at": datetime.now().isoformat()
+    }
+    save_training_status(cancel_status)
+
+    return jsonify({
+        "success": True,
+        "message": "Training berhasil dibatalkan."
+    })
 
 def get_training_status():
     if not os.path.exists(STATUS_FILE):
@@ -260,8 +327,16 @@ def save_training_status(status):
         )
 
 def monitor_training(process):
+    global training_process
+
     process.wait()
     status = get_training_status()
+
+    if status.get("status") == "cancelled":
+        training_process = None
+        return
+
+    training_process = None
     status["running"] = False
     if process.returncode == 0:
         status["status"] = "completed"

@@ -17,7 +17,7 @@
     "ruang_lingkup_detail": [
       {
         "kode": "56102-01-01",
-        "teks": "Kedai Makan · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -54,7 +54,7 @@
       },
       {
         "kode": "56102-02-02",
-        "teks": "Kedai Makan · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -91,7 +91,7 @@
       },
       {
         "kode": "56102-01-03",
-        "teks": "Penyediaan Makanan Keliling / Tempat Tidak Tetap · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -128,7 +128,7 @@
       },
       {
         "kode": "56102-02-04",
-        "teks": "Penyediaan Makanan Keliling / Tempat Tidak Tetap · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -165,7 +165,7 @@
       },
       {
         "kode": "56102-01-05",
-        "teks": "Restoran dan Penyediaan Makanan Keliling Lainnya · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -197,7 +197,7 @@
       },
       {
         "kode": "56102-02-06",
-        "teks": "Restoran dan Penyediaan Makanan Keliling Lainnya · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -231,7 +231,7 @@
     "tingkat_resiko_detail": [
       {
         "kode": "56102-01-01",
-        "teks": "Kedai Makan · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -268,7 +268,7 @@
       },
       {
         "kode": "56102-02-02",
-        "teks": "Kedai Makan · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -305,7 +305,7 @@
       },
       {
         "kode": "56102-01-03",
-        "teks": "Penyediaan Makanan Keliling / Tempat Tidak Tetap · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -342,7 +342,7 @@
       },
       {
         "kode": "56102-02-04",
-        "teks": "Penyediaan Makanan Keliling / Tempat Tidak Tetap · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -379,7 +379,7 @@
       },
       {
         "kode": "56102-01-05",
-        "teks": "Restoran dan Penyediaan Makanan Keliling Lainnya · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -411,7 +411,7 @@
       },
       {
         "kode": "56102-02-06",
-        "teks": "Restoran dan Penyediaan Makanan Keliling Lainnya · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -688,8 +688,7 @@
             "kode": "02",
             "jangkaWaktu": ""
           }
-        ],
-        "teks": "Label pengawasan/pembinaan tempat pengelolaan pangan di pelabuhan/bandar udara/pos lintas batas darat negara"
+        ]
       },
       {
         "kode": "024000000107",
@@ -1321,8 +1320,7 @@
             "kode": "02",
             "jangkaWaktu": "30 Hari"
           }
-        ],
-        "teks": "Sertifikat laik higiene sanitasi di bandar udara, pelabuhan, dan lintas batas darat negara"
+        ]
       }
     ],
     "hierarki": [
@@ -1366,7 +1364,7 @@
     "ruang_lingkup_detail": [
       {
         "kode": "56101-01-01",
-        "teks": "Restoran · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -1398,7 +1396,7 @@
       },
       {
         "kode": "56101-02-02",
-        "teks": "Restoran · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Menengah Tinggi",
         "risiko": "Menengah Tinggi",
@@ -1435,7 +1433,7 @@
       },
       {
         "kode": "56101-03-03",
-        "teks": "Rumah / Warung Makan · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Menengah Tinggi",
         "risiko": "Menengah Tinggi",
@@ -1472,7 +1470,7 @@
       },
       {
         "kode": "56101-04-04",
-        "teks": "Rumah / Warung Makan · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Menengah Tinggi",
         "risiko": "Menengah Tinggi",
@@ -1509,7 +1507,7 @@
       },
       {
         "kode": "56101-01-05",
-        "teks": "Rumah / Warung Makan · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -1546,7 +1544,7 @@
       },
       {
         "kode": "56101-02-06",
-        "teks": "Rumah / Warung Makan · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -1585,7 +1583,7 @@
     "tingkat_resiko_detail": [
       {
         "kode": "56101-01-01",
-        "teks": "Restoran · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -1617,7 +1615,7 @@
       },
       {
         "kode": "56101-02-02",
-        "teks": "Restoran · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Menengah Tinggi",
         "risiko": "Menengah Tinggi",
@@ -1654,7 +1652,7 @@
       },
       {
         "kode": "56101-03-03",
-        "teks": "Rumah / Warung Makan · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Menengah Tinggi",
         "risiko": "Menengah Tinggi",
@@ -1691,7 +1689,7 @@
       },
       {
         "kode": "56101-04-04",
-        "teks": "Rumah / Warung Makan · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Menengah Tinggi",
         "risiko": "Menengah Tinggi",
@@ -1728,7 +1726,7 @@
       },
       {
         "kode": "56101-01-05",
-        "teks": "Rumah / Warung Makan · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -1765,7 +1763,7 @@
       },
       {
         "kode": "56101-02-06",
-        "teks": "Rumah / Warung Makan · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -3619,7 +3617,7 @@
       },
       {
         "kode": "56101-02-02",
-        "nama_dokumen": "Memiliki Penilaian Mandiri Kesiapan Penerapan Standar",
+        "nama_dokumen": "$4e",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -3853,7 +3851,7 @@
       },
       {
         "kode": "56101-03-03",
-        "nama_dokumen": "Memiliki Penilaian Mandiri Kesiapan Penerapan Standar",
+        "nama_dokumen": "$50",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -4087,7 +4085,7 @@
       },
       {
         "kode": "56101-04-04",
-        "nama_dokumen": "Memiliki Penilaian Mandiri Kesiapan Penerapan Standar",
+        "nama_dokumen": "$52",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -4244,7 +4242,7 @@
     "ruang_lingkup_detail": [
       {
         "kode": "47112-01-01",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -4279,7 +4277,7 @@
       },
       {
         "kode": "47112-02-04",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -4314,7 +4312,7 @@
       },
       {
         "kode": "47112-03-06",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -4349,7 +4347,7 @@
       },
       {
         "kode": "47112-04-07",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -4386,7 +4384,7 @@
     "tingkat_resiko_detail": [
       {
         "kode": "47112-01-01",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -4421,7 +4419,7 @@
       },
       {
         "kode": "47112-02-04",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -4456,7 +4454,7 @@
       },
       {
         "kode": "47112-03-06",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -4491,7 +4489,7 @@
       },
       {
         "kode": "47112-04-07",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -8468,7 +8466,7 @@
     "ruang_lingkup_detail": [
       {
         "kode": "11059-01-01",
-        "teks": "Seluruh · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -8518,7 +8516,7 @@
       },
       {
         "kode": "11059-02-02",
-        "teks": "Seluruh · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -8568,7 +8566,7 @@
       },
       {
         "kode": "11059-03-03",
-        "teks": "Seluruh · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -8618,7 +8616,7 @@
       },
       {
         "kode": "11059-04-04",
-        "teks": "Seluruh · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Menengah Tinggi",
         "risiko": "Menengah Tinggi",
@@ -8666,7 +8664,7 @@
     "tingkat_resiko_detail": [
       {
         "kode": "11059-01-01",
-        "teks": "Seluruh · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -8716,7 +8714,7 @@
       },
       {
         "kode": "11059-02-02",
-        "teks": "Seluruh · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -8766,7 +8764,7 @@
       },
       {
         "kode": "11059-03-03",
-        "teks": "Seluruh · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -8816,7 +8814,7 @@
       },
       {
         "kode": "11059-04-04",
-        "teks": "Seluruh · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Menengah Tinggi",
         "risiko": "Menengah Tinggi",
@@ -14628,7 +14626,7 @@
       },
       {
         "kode": "11059-04-04",
-        "nama_dokumen": "Memiliki dokumen rencana penggunaan jenis, spesifikasi, jumlah, dan asal dari bahan baku, serta sumber dan jumlah/ besaran dari energi dan air baku, yang dibutuhkan untuk menjalankan kegiatan usaha industri dalam 1 (satu) siklus produksi atau selama lamanya 6 (enam) bulan ke depan",
+        "nama_dokumen": "Memiliki dokumen berupa: a. Spesifikasi mesin dan/atau daftar peralatan b. Foto mesin/ peralatan c. Perjanjian jual beli/ sewa yang membukti-kan: 1) Penguasaan (kepemilikan/ sewa) mesin untuk menghasilkan produk industri makanan dan minuman serta peralatan pengujian kualitas produk 2) Kesesuaian kapasitas produksi terpasang pada data usaha",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -14772,7 +14770,7 @@
       },
       {
         "kode": "11059-04-04",
-        "nama_dokumen": "Memiliki dokumen rencana penggunaan jenis, spesifikasi, jumlah, dan asal dari bahan baku, serta sumber dan jumlah/ besaran dari energi dan air baku, yang dibutuhkan untuk menjalankan kegiatan usaha industri dalam 1 (satu) siklus produksi atau selama lamanya 6 (enam) bulan ke depan",
+        "nama_dokumen": "Memiliki dokumen bagan alur: a. Pengadaan, penerimaan, penyimpanan bahan baku b. Proses produksi c. Proses quality control d. Pengemasan, penyimpanan, pengangkutan dan distribusi hasil produksi",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -14916,7 +14914,7 @@
       },
       {
         "kode": "11059-04-04",
-        "nama_dokumen": "Memiliki dokumen rencana penggunaan jenis, spesifikasi, jumlah, dan asal dari bahan baku, serta sumber dan jumlah/ besaran dari energi dan air baku, yang dibutuhkan untuk menjalankan kegiatan usaha industri dalam 1 (satu) siklus produksi atau selama lamanya 6 (enam) bulan ke depan",
+        "nama_dokumen": "Memiliki dokumen perencanaan tata letak fasilitas pabrik/plant layout facilities sesuai dengan bagan alur proses produksi yang membuktikan lokasi pabrik/usaha jauh dari sumber pencemar untuk melindungi pangan olahan yang diproduksi",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -15100,7 +15098,7 @@
     "ruang_lingkup_detail": [
       {
         "kode": "70209-01-01",
-        "teks": "Jasa Konsultansi Manajemen Keamanan Pelabuhan · Perhubungan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Menengah Tinggi",
         "risiko": "Menengah Tinggi",
@@ -15152,7 +15150,7 @@
       },
       {
         "kode": "70209-02-02",
-        "teks": "Jasa Konsultansi Manajemen Keamanan Pelabuhan · Perhubungan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Menengah Tinggi",
         "risiko": "Menengah Tinggi",
@@ -15204,7 +15202,7 @@
       },
       {
         "kode": "70209-03-03",
-        "teks": "Jasa Konsultasi Manajemen dan Bisnis · Perhubungan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Menengah Tinggi",
         "risiko": "Menengah Tinggi",
@@ -15256,7 +15254,7 @@
       },
       {
         "kode": "70209-04-04",
-        "teks": "Jasa Konsultasi Manajemen dan Bisnis · Perhubungan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Menengah Tinggi",
         "risiko": "Menengah Tinggi",
@@ -15308,7 +15306,7 @@
       },
       {
         "kode": "70209-01-05",
-        "teks": "Jasa Konsultasi Manajemen dan Bisnis · Perhubungan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -15335,7 +15333,7 @@
       },
       {
         "kode": "70209-02-06",
-        "teks": "Jasa Konsultasi Manajemen dan Bisnis · Perhubungan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -15362,7 +15360,7 @@
       },
       {
         "kode": "70209-03-07",
-        "teks": "Jasa Konsultasi Manajemen dan Bisnis · Perhubungan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -15389,7 +15387,7 @@
       },
       {
         "kode": "70209-04-08",
-        "teks": "Jasa Konsultasi Manajemen dan Bisnis · Perhubungan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -15418,7 +15416,7 @@
     "tingkat_resiko_detail": [
       {
         "kode": "70209-01-01",
-        "teks": "Jasa Konsultansi Manajemen Keamanan Pelabuhan · Perhubungan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Menengah Tinggi",
         "risiko": "Menengah Tinggi",
@@ -15470,7 +15468,7 @@
       },
       {
         "kode": "70209-02-02",
-        "teks": "Jasa Konsultansi Manajemen Keamanan Pelabuhan · Perhubungan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Menengah Tinggi",
         "risiko": "Menengah Tinggi",
@@ -15522,7 +15520,7 @@
       },
       {
         "kode": "70209-03-03",
-        "teks": "Jasa Konsultasi Manajemen dan Bisnis · Perhubungan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Menengah Tinggi",
         "risiko": "Menengah Tinggi",
@@ -15574,7 +15572,7 @@
       },
       {
         "kode": "70209-04-04",
-        "teks": "Jasa Konsultasi Manajemen dan Bisnis · Perhubungan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Menengah Tinggi",
         "risiko": "Menengah Tinggi",
@@ -15626,7 +15624,7 @@
       },
       {
         "kode": "70209-01-05",
-        "teks": "Jasa Konsultasi Manajemen dan Bisnis · Perhubungan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -15653,7 +15651,7 @@
       },
       {
         "kode": "70209-02-06",
-        "teks": "Jasa Konsultasi Manajemen dan Bisnis · Perhubungan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -15680,7 +15678,7 @@
       },
       {
         "kode": "70209-03-07",
-        "teks": "Jasa Konsultasi Manajemen dan Bisnis · Perhubungan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -15707,7 +15705,7 @@
       },
       {
         "kode": "70209-04-08",
-        "teks": "Jasa Konsultasi Manajemen dan Bisnis · Perhubungan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -16231,7 +16229,7 @@
       },
       {
         "kode": "70209-01-01",
-        "nama_dokumen": "Memiliki sekurang kurangnya 1 (satu) orang Tenaga Ahli yang dibuktikan dengan sertifikat dan memiliki pengetahuan tentang koda untuk masing masing bidang yang meliputi: a. Keamanan b. Perkapalan c. Kepelabuhanan d. Manajemen Resiko e. Intelijen f. Harus Mempunyai Akta Notaris Pendirian RSO yang sah dari Kemenkumham yang dalam akta notaris yang bergerak di bidang konsultan keamanan kapal dan fasilitas pelabuhan",
+        "nama_dokumen": "Tenaga Ahli yang dimaksud pada nomor 1 (satu) diatas hanya dapat didaftarkan pada 1 (satu) Recognized Security Organization",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -16627,7 +16625,7 @@
       },
       {
         "kode": "70209-02-02",
-        "nama_dokumen": "Memiliki sekurang kurangnya 1 (satu) orang Tenaga Ahli yang dibuktikan dengan sertifikat dan memiliki pengetahuan tentang koda untuk masing masing bidang yang meliputi: a. Keamanan b. Perkapalan c. Kepelabuhanan d. Manajemen Resiko e. Intelijen f. Harus Mempunyai Akta Notaris Pendirian RSO yang sah dari Kemenkumham yang dalam akta notaris yang bergerak di bidang konsultan keamanan kapal dan fasilitas pelabuhan",
+        "nama_dokumen": "Tenaga Ahli yang dimaksud pada nomor 1 (satu) diatas hanya dapat didaftarkan pada 1 (satu) Recognized Security Organization",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -17023,7 +17021,7 @@
       },
       {
         "kode": "70209-03-03",
-        "nama_dokumen": "Memiliki sekurang kurangnya 1 (satu) orang Tenaga Ahli yang dibuktikan dengan sertifikat dan memiliki pengetahuan tentang koda untuk masing masing bidang yang meliputi: a. Keamanan b. Perkapalan c. Kepelabuhanan d. Manajemen Resiko e. Intelijen f. Harus Mempunyai Akta Notaris Pendirian RSO yang sah dari Kemenkumham yang dalam akta notaris yang bergerak di bidang konsultan keamanan kapal dan fasilitas pelabuhan",
+        "nama_dokumen": "Tenaga Ahli yang dimaksud pada nomor 1 (satu) diatas hanya dapat didaftarkan pada 1 (satu) Recognized Security Organization",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -17419,7 +17417,7 @@
       },
       {
         "kode": "70209-04-04",
-        "nama_dokumen": "Memiliki sekurang kurangnya 1 (satu) orang Tenaga Ahli yang dibuktikan dengan sertifikat dan memiliki pengetahuan tentang koda untuk masing masing bidang yang meliputi: a. Keamanan b. Perkapalan c. Kepelabuhanan d. Manajemen Resiko e. Intelijen f. Harus Mempunyai Akta Notaris Pendirian RSO yang sah dari Kemenkumham yang dalam akta notaris yang bergerak di bidang konsultan keamanan kapal dan fasilitas pelabuhan",
+        "nama_dokumen": "Tenaga Ahli yang dimaksud pada nomor 1 (satu) diatas hanya dapat didaftarkan pada 1 (satu) Recognized Security Organization",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -17657,7 +17655,7 @@
     "ruang_lingkup_detail": [
       {
         "kode": "46100-01-01",
-        "teks": "Penyelenggara pasar lelang komoditas (Bappebti) · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Tinggi",
         "risiko": "Tinggi",
@@ -17689,7 +17687,7 @@
       },
       {
         "kode": "46100-02-02",
-        "teks": "Penyelenggara pasar lelang komoditas (Bappebti) · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Tinggi",
         "risiko": "Tinggi",
@@ -17721,7 +17719,7 @@
       },
       {
         "kode": "46100-03-03",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Tinggi",
         "risiko": "Tinggi",
@@ -17753,7 +17751,7 @@
       },
       {
         "kode": "46100-04-04",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Tinggi",
         "risiko": "Tinggi",
@@ -17785,7 +17783,7 @@
       },
       {
         "kode": "46100-01-05",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -17816,7 +17814,7 @@
       },
       {
         "kode": "46100-02-06",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -17847,7 +17845,7 @@
       },
       {
         "kode": "46100-03-07",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -17878,7 +17876,7 @@
       },
       {
         "kode": "46100-04-08",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -17909,7 +17907,7 @@
       },
       {
         "kode": "46100-01-09",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -17942,7 +17940,7 @@
       },
       {
         "kode": "46100-02-10",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Tinggi",
         "risiko": "Tinggi",
@@ -18019,7 +18017,7 @@
       },
       {
         "kode": "46100-03-11",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Tinggi",
         "risiko": "Tinggi",
@@ -18096,7 +18094,7 @@
       },
       {
         "kode": "46100-04-12",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Tinggi",
         "risiko": "Tinggi",
@@ -18173,7 +18171,7 @@
       },
       {
         "kode": "46100-02-13",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -18223,7 +18221,7 @@
       },
       {
         "kode": "46100-03-14",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -18273,7 +18271,7 @@
       },
       {
         "kode": "46100-04-15",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Menengah Tinggi",
         "risiko": "Menengah Tinggi",
@@ -18316,7 +18314,7 @@
     "tingkat_resiko_detail": [
       {
         "kode": "46100-01-01",
-        "teks": "Penyelenggara pasar lelang komoditas (Bappebti) · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Tinggi",
         "risiko": "Tinggi",
@@ -18348,7 +18346,7 @@
       },
       {
         "kode": "46100-02-02",
-        "teks": "Penyelenggara pasar lelang komoditas (Bappebti) · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Tinggi",
         "risiko": "Tinggi",
@@ -18380,7 +18378,7 @@
       },
       {
         "kode": "46100-03-03",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Tinggi",
         "risiko": "Tinggi",
@@ -18412,7 +18410,7 @@
       },
       {
         "kode": "46100-04-04",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Tinggi",
         "risiko": "Tinggi",
@@ -18444,7 +18442,7 @@
       },
       {
         "kode": "46100-01-05",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -18475,7 +18473,7 @@
       },
       {
         "kode": "46100-02-06",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -18506,7 +18504,7 @@
       },
       {
         "kode": "46100-03-07",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -18537,7 +18535,7 @@
       },
       {
         "kode": "46100-04-08",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -18568,7 +18566,7 @@
       },
       {
         "kode": "46100-01-09",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -18601,7 +18599,7 @@
       },
       {
         "kode": "46100-02-10",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Tinggi",
         "risiko": "Tinggi",
@@ -18678,7 +18676,7 @@
       },
       {
         "kode": "46100-03-11",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Tinggi",
         "risiko": "Tinggi",
@@ -18755,7 +18753,7 @@
       },
       {
         "kode": "46100-04-12",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Tinggi",
         "risiko": "Tinggi",
@@ -18832,7 +18830,7 @@
       },
       {
         "kode": "46100-02-13",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -18882,7 +18880,7 @@
       },
       {
         "kode": "46100-03-14",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -18932,7 +18930,7 @@
       },
       {
         "kode": "46100-04-15",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Menengah Tinggi",
         "risiko": "Menengah Tinggi",
@@ -20150,7 +20148,7 @@
       },
       {
         "kode": "46100-01-01",
-        "nama_dokumen": "Memiliki fasilitas yang cukup untuk penyelenggaraan Pasar Lelang Komoditas yang paling sedikit mencakup memiliki bangunan kantor baik milik sendiri atau sewa dan memiliki sarana teknologi dan komunikasi",
+        "nama_dokumen": "Memiliki kerjasama dengan Lembaga Kliring dan Penjaminan Pasar Lelang Komoditas (untuk sistem forward)",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -20204,7 +20202,7 @@
       },
       {
         "kode": "46100-01-01",
-        "nama_dokumen": "Memiliki fasilitas yang cukup untuk penyelenggaraan Pasar Lelang Komoditas yang paling sedikit mencakup memiliki bangunan kantor baik milik sendiri atau sewa dan memiliki sarana teknologi dan komunikasi",
+        "nama_dokumen": "Memiliki unit penjaminan dalam struktur perusahaan (untuk sistem spot)",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -20258,7 +20256,7 @@
       },
       {
         "kode": "46100-01-01",
-        "nama_dokumen": "Memiliki fasilitas yang cukup untuk penyelenggaraan Pasar Lelang Komoditas yang paling sedikit mencakup memiliki bangunan kantor baik milik sendiri atau sewa dan memiliki sarana teknologi dan komunikasi",
+        "nama_dokumen": "Memiliki tenaga atau personel dengan kompetensi yang diperlukan dalam penyelenggaraan Pasar Lelang Komoditas",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -20312,7 +20310,7 @@
       },
       {
         "kode": "46100-01-01",
-        "nama_dokumen": "Memiliki fasilitas yang cukup untuk penyelenggaraan Pasar Lelang Komoditas yang paling sedikit mencakup memiliki bangunan kantor baik milik sendiri atau sewa dan memiliki sarana teknologi dan komunikasi",
+        "nama_dokumen": "Memiliki Nomor Induk Berusaha (NIB)",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -20366,7 +20364,7 @@
       },
       {
         "kode": "46100-01-01",
-        "nama_dokumen": "Memiliki fasilitas yang cukup untuk penyelenggaraan Pasar Lelang Komoditas yang paling sedikit mencakup memiliki bangunan kantor baik milik sendiri atau sewa dan memiliki sarana teknologi dan komunikasi",
+        "nama_dokumen": "$4e",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -20420,7 +20418,7 @@
       },
       {
         "kode": "46100-01-01",
-        "nama_dokumen": "Memiliki fasilitas yang cukup untuk penyelenggaraan Pasar Lelang Komoditas yang paling sedikit mencakup memiliki bangunan kantor baik milik sendiri atau sewa dan memiliki sarana teknologi dan komunikasi",
+        "nama_dokumen": "$50",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -20528,7 +20526,7 @@
       },
       {
         "kode": "46100-02-02",
-        "nama_dokumen": "Memiliki fasilitas yang cukup untuk penyelenggaraan Pasar Lelang Komoditas yang paling sedikit mencakup memiliki bangunan kantor baik milik sendiri atau sewa dan memiliki sarana teknologi dan komunikasi",
+        "nama_dokumen": "Memiliki kerjasama dengan Lembaga Kliring dan Penjaminan Pasar Lelang Komoditas (untuk sistem forward)",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -20582,7 +20580,7 @@
       },
       {
         "kode": "46100-02-02",
-        "nama_dokumen": "Memiliki fasilitas yang cukup untuk penyelenggaraan Pasar Lelang Komoditas yang paling sedikit mencakup memiliki bangunan kantor baik milik sendiri atau sewa dan memiliki sarana teknologi dan komunikasi",
+        "nama_dokumen": "Memiliki unit penjaminan dalam struktur perusahaan (untuk sistem spot)",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -20636,7 +20634,7 @@
       },
       {
         "kode": "46100-02-02",
-        "nama_dokumen": "Memiliki fasilitas yang cukup untuk penyelenggaraan Pasar Lelang Komoditas yang paling sedikit mencakup memiliki bangunan kantor baik milik sendiri atau sewa dan memiliki sarana teknologi dan komunikasi",
+        "nama_dokumen": "Memiliki tenaga atau personel dengan kompetensi yang diperlukan dalam penyelenggaraan Pasar Lelang Komoditas",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -20690,7 +20688,7 @@
       },
       {
         "kode": "46100-02-02",
-        "nama_dokumen": "Memiliki fasilitas yang cukup untuk penyelenggaraan Pasar Lelang Komoditas yang paling sedikit mencakup memiliki bangunan kantor baik milik sendiri atau sewa dan memiliki sarana teknologi dan komunikasi",
+        "nama_dokumen": "Memiliki Nomor Induk Berusaha (NIB)",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -20744,7 +20742,7 @@
       },
       {
         "kode": "46100-02-02",
-        "nama_dokumen": "Memiliki fasilitas yang cukup untuk penyelenggaraan Pasar Lelang Komoditas yang paling sedikit mencakup memiliki bangunan kantor baik milik sendiri atau sewa dan memiliki sarana teknologi dan komunikasi",
+        "nama_dokumen": "$52",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -20798,7 +20796,7 @@
       },
       {
         "kode": "46100-02-02",
-        "nama_dokumen": "Memiliki fasilitas yang cukup untuk penyelenggaraan Pasar Lelang Komoditas yang paling sedikit mencakup memiliki bangunan kantor baik milik sendiri atau sewa dan memiliki sarana teknologi dan komunikasi",
+        "nama_dokumen": "$54",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -20906,7 +20904,7 @@
       },
       {
         "kode": "46100-03-03",
-        "nama_dokumen": "Memiliki fasilitas yang cukup untuk penyelenggaraan Pasar Lelang Komoditas yang paling sedikit mencakup memiliki bangunan kantor baik milik sendiri atau sewa dan memiliki sarana teknologi dan komunikasi",
+        "nama_dokumen": "Memiliki kerjasama dengan Lembaga Kliring dan Penjaminan Pasar Lelang Komoditas (untuk sistem forward)",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -20960,7 +20958,7 @@
       },
       {
         "kode": "46100-03-03",
-        "nama_dokumen": "Memiliki fasilitas yang cukup untuk penyelenggaraan Pasar Lelang Komoditas yang paling sedikit mencakup memiliki bangunan kantor baik milik sendiri atau sewa dan memiliki sarana teknologi dan komunikasi",
+        "nama_dokumen": "Memiliki unit penjaminan dalam struktur perusahaan (untuk sistem spot)",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -21014,7 +21012,7 @@
       },
       {
         "kode": "46100-03-03",
-        "nama_dokumen": "Memiliki fasilitas yang cukup untuk penyelenggaraan Pasar Lelang Komoditas yang paling sedikit mencakup memiliki bangunan kantor baik milik sendiri atau sewa dan memiliki sarana teknologi dan komunikasi",
+        "nama_dokumen": "Memiliki tenaga atau personel dengan kompetensi yang diperlukan dalam penyelenggaraan Pasar Lelang Komoditas",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -21068,7 +21066,7 @@
       },
       {
         "kode": "46100-03-03",
-        "nama_dokumen": "Memiliki fasilitas yang cukup untuk penyelenggaraan Pasar Lelang Komoditas yang paling sedikit mencakup memiliki bangunan kantor baik milik sendiri atau sewa dan memiliki sarana teknologi dan komunikasi",
+        "nama_dokumen": "Memiliki Nomor Induk Berusaha (NIB)",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -21122,7 +21120,7 @@
       },
       {
         "kode": "46100-03-03",
-        "nama_dokumen": "Memiliki fasilitas yang cukup untuk penyelenggaraan Pasar Lelang Komoditas yang paling sedikit mencakup memiliki bangunan kantor baik milik sendiri atau sewa dan memiliki sarana teknologi dan komunikasi",
+        "nama_dokumen": "$56",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -21176,7 +21174,7 @@
       },
       {
         "kode": "46100-03-03",
-        "nama_dokumen": "Memiliki fasilitas yang cukup untuk penyelenggaraan Pasar Lelang Komoditas yang paling sedikit mencakup memiliki bangunan kantor baik milik sendiri atau sewa dan memiliki sarana teknologi dan komunikasi",
+        "nama_dokumen": "$58",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -21284,7 +21282,7 @@
       },
       {
         "kode": "46100-04-04",
-        "nama_dokumen": "Memiliki fasilitas yang cukup untuk penyelenggaraan Pasar Lelang Komoditas yang paling sedikit mencakup memiliki bangunan kantor baik milik sendiri atau sewa dan memiliki sarana teknologi dan komunikasi",
+        "nama_dokumen": "Memiliki kerjasama dengan Lembaga Kliring dan Penjaminan Pasar Lelang Komoditas (untuk sistem forward)",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -21338,7 +21336,7 @@
       },
       {
         "kode": "46100-04-04",
-        "nama_dokumen": "Memiliki fasilitas yang cukup untuk penyelenggaraan Pasar Lelang Komoditas yang paling sedikit mencakup memiliki bangunan kantor baik milik sendiri atau sewa dan memiliki sarana teknologi dan komunikasi",
+        "nama_dokumen": "Memiliki unit penjaminan dalam struktur perusahaan (untuk sistem spot)",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -21392,7 +21390,7 @@
       },
       {
         "kode": "46100-04-04",
-        "nama_dokumen": "Memiliki fasilitas yang cukup untuk penyelenggaraan Pasar Lelang Komoditas yang paling sedikit mencakup memiliki bangunan kantor baik milik sendiri atau sewa dan memiliki sarana teknologi dan komunikasi",
+        "nama_dokumen": "Memiliki tenaga atau personel dengan kompetensi yang diperlukan dalam penyelenggaraan Pasar Lelang Komoditas",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -21446,7 +21444,7 @@
       },
       {
         "kode": "46100-04-04",
-        "nama_dokumen": "Memiliki fasilitas yang cukup untuk penyelenggaraan Pasar Lelang Komoditas yang paling sedikit mencakup memiliki bangunan kantor baik milik sendiri atau sewa dan memiliki sarana teknologi dan komunikasi",
+        "nama_dokumen": "Memiliki Nomor Induk Berusaha (NIB)",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -21500,7 +21498,7 @@
       },
       {
         "kode": "46100-04-04",
-        "nama_dokumen": "Memiliki fasilitas yang cukup untuk penyelenggaraan Pasar Lelang Komoditas yang paling sedikit mencakup memiliki bangunan kantor baik milik sendiri atau sewa dan memiliki sarana teknologi dan komunikasi",
+        "nama_dokumen": "$5a",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -21554,7 +21552,7 @@
       },
       {
         "kode": "46100-04-04",
-        "nama_dokumen": "Memiliki fasilitas yang cukup untuk penyelenggaraan Pasar Lelang Komoditas yang paling sedikit mencakup memiliki bangunan kantor baik milik sendiri atau sewa dan memiliki sarana teknologi dan komunikasi",
+        "nama_dokumen": "$5c",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -21941,7 +21939,7 @@
       },
       {
         "kode": "46100-02-10",
-        "nama_dokumen": "Alamat website dan/atau nama aplikasi",
+        "nama_dokumen": "Layanan pengaduan konsumen berupa nomor kontak dan/atau alamat surat elektronik (email)",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -22274,7 +22272,7 @@
       },
       {
         "kode": "46100-02-10",
-        "nama_dokumen": "Alamat website dan/atau nama aplikasi",
+        "nama_dokumen": "Layanan pengaduan konsumen yang memuat informasi kontak pengaduan konsumen oleh unit kerja di lingkungan Kementerian Perdagangan yang membidangi perlindungan konsumen dan tertib niaga",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -22607,7 +22605,7 @@
       },
       {
         "kode": "46100-02-10",
-        "nama_dokumen": "Alamat website dan/atau nama aplikasi",
+        "nama_dokumen": "Dalam hal sistem elektronik berbentuk aplikasi mobile, wajib menyediakan sistem elektronik berbasis situs atau web yang identic (mirroring) dengan sistem elektronik berbasis aplikasi mobile",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -23273,7 +23271,7 @@
       },
       {
         "kode": "46100-03-11",
-        "nama_dokumen": "Alamat website dan/atau nama aplikasi",
+        "nama_dokumen": "Layanan pengaduan konsumen berupa nomor kontak dan/atau alamat surat elektronik (email)",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -23606,7 +23604,7 @@
       },
       {
         "kode": "46100-03-11",
-        "nama_dokumen": "Alamat website dan/atau nama aplikasi",
+        "nama_dokumen": "Layanan pengaduan konsumen yang memuat informasi kontak pengaduan konsumen oleh unit kerja di lingkungan Kementerian Perdagangan yang membidangi perlindungan konsumen dan tertib niaga",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -23939,7 +23937,7 @@
       },
       {
         "kode": "46100-03-11",
-        "nama_dokumen": "Alamat website dan/atau nama aplikasi",
+        "nama_dokumen": "Dalam hal sistem elektronik berbentuk aplikasi mobile, wajib menyediakan sistem elektronik berbasis situs atau web yang identic (mirroring) dengan sistem elektronik berbasis aplikasi mobile",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -24605,7 +24603,7 @@
       },
       {
         "kode": "46100-04-12",
-        "nama_dokumen": "Alamat website dan/atau nama aplikasi",
+        "nama_dokumen": "Layanan pengaduan konsumen berupa nomor kontak dan/atau alamat surat elektronik (email)",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -24938,7 +24936,7 @@
       },
       {
         "kode": "46100-04-12",
-        "nama_dokumen": "Alamat website dan/atau nama aplikasi",
+        "nama_dokumen": "Layanan pengaduan konsumen yang memuat informasi kontak pengaduan konsumen oleh unit kerja di lingkungan Kementerian Perdagangan yang membidangi perlindungan konsumen dan tertib niaga",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -25271,7 +25269,7 @@
       },
       {
         "kode": "46100-04-12",
-        "nama_dokumen": "Alamat website dan/atau nama aplikasi",
+        "nama_dokumen": "Dalam hal sistem elektronik berbentuk aplikasi mobile, wajib menyediakan sistem elektronik berbasis situs atau web yang identic (mirroring) dengan sistem elektronik berbasis aplikasi mobile",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -25721,7 +25719,7 @@
       },
       {
         "kode": "46100-04-15",
-        "nama_dokumen": "Memiliki dokumen struktur organisasi yang memuat ketersediaan SDM dengan kompetensi teknis sesuai usaha jasa",
+        "nama_dokumen": "Memiliki dokumen perjanjian kerja antara perusahaan dengan tenaga kerja kompeten untuk memberikan jasa yang berstatus pegawai tetap atau pegawai kontrak minimal 1 tahun, dengan jumlah pegawai paling sedikit: 2 orang level manajer, 2 orang level profesional/ supervisor 4 orang level teknis/ operasional/ staff",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -25838,7 +25836,7 @@
       },
       {
         "kode": "46100-04-15",
-        "nama_dokumen": "Memiliki dokumen struktur organisasi yang memuat ketersediaan SDM dengan kompetensi teknis sesuai usaha jasa",
+        "nama_dokumen": "Memiliki dokumen bagan alur bisnis proses penjualan jasa",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -25955,7 +25953,7 @@
       },
       {
         "kode": "46100-04-15",
-        "nama_dokumen": "Memiliki dokumen struktur organisasi yang memuat ketersediaan SDM dengan kompetensi teknis sesuai usaha jasa",
+        "nama_dokumen": "Memiliki dokumen berupa: a) daftar peralatan prasarana pendukung dan b) foto peralatan prasarana pendukung",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -26112,7 +26110,7 @@
     "ruang_lingkup_detail": [
       {
         "kode": "47711-01-02",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -26147,7 +26145,7 @@
       },
       {
         "kode": "47711-02-08",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -26182,7 +26180,7 @@
       },
       {
         "kode": "47711-03-11",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -26213,7 +26211,7 @@
       },
       {
         "kode": "47711-04-14",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -26250,7 +26248,7 @@
     "tingkat_resiko_detail": [
       {
         "kode": "47711-01-02",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -26285,7 +26283,7 @@
       },
       {
         "kode": "47711-02-08",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -26320,7 +26318,7 @@
       },
       {
         "kode": "47711-03-11",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -26351,7 +26349,7 @@
       },
       {
         "kode": "47711-04-14",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -26428,7 +26426,7 @@
     "ruang_lingkup_detail": [
       {
         "kode": "47249-01-01",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -26459,7 +26457,7 @@
       },
       {
         "kode": "47249-02-07",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -26490,7 +26488,7 @@
       },
       {
         "kode": "47249-03-10",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -26525,7 +26523,7 @@
       },
       {
         "kode": "47249-04-14",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -26562,7 +26560,7 @@
     "tingkat_resiko_detail": [
       {
         "kode": "47249-01-01",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -26593,7 +26591,7 @@
       },
       {
         "kode": "47249-02-07",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -26624,7 +26622,7 @@
       },
       {
         "kode": "47249-03-10",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -26659,7 +26657,7 @@
       },
       {
         "kode": "47249-04-14",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -29125,7 +29123,7 @@
     "ruang_lingkup_detail": [
       {
         "kode": "46902-01-01",
-        "teks": "Grosir/ Perkulakan Tradisional · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -29170,7 +29168,7 @@
       },
       {
         "kode": "46902-02-02",
-        "teks": "Grosir/ Perkulakan Tradisional · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -29215,7 +29213,7 @@
       },
       {
         "kode": "46902-03-03",
-        "teks": "Grosir/ Perkulakan Tradisional · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -29260,7 +29258,7 @@
       },
       {
         "kode": "46902-04-04",
-        "teks": "Grosir/ Perkulakan Tradisional · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -29307,7 +29305,7 @@
     "tingkat_resiko_detail": [
       {
         "kode": "46902-01-01",
-        "teks": "Grosir/ Perkulakan Tradisional · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -29352,7 +29350,7 @@
       },
       {
         "kode": "46902-02-02",
-        "teks": "Grosir/ Perkulakan Tradisional · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -29397,7 +29395,7 @@
       },
       {
         "kode": "46902-03-03",
-        "teks": "Grosir/ Perkulakan Tradisional · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -29442,7 +29440,7 @@
       },
       {
         "kode": "46902-04-04",
-        "teks": "Grosir/ Perkulakan Tradisional · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -29814,7 +29812,7 @@
     "ruang_lingkup_detail": [
       {
         "kode": "56304-01-01",
-        "teks": "Seluruh · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -29851,7 +29849,7 @@
       },
       {
         "kode": "56304-02-02",
-        "teks": "Seluruh · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -29890,7 +29888,7 @@
     "tingkat_resiko_detail": [
       {
         "kode": "56304-01-01",
-        "teks": "Seluruh · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -29927,7 +29925,7 @@
       },
       {
         "kode": "56304-02-02",
-        "teks": "Seluruh · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -30253,7 +30251,7 @@
     "ruang_lingkup_detail": [
       {
         "kode": "73100-01-01",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -30288,7 +30286,7 @@
       },
       {
         "kode": "73100-02-02",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -30323,7 +30321,7 @@
       },
       {
         "kode": "73100-03-03",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -30358,7 +30356,7 @@
       },
       {
         "kode": "73100-04-04",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -30395,7 +30393,7 @@
     "tingkat_resiko_detail": [
       {
         "kode": "73100-01-01",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -30430,7 +30428,7 @@
       },
       {
         "kode": "73100-02-02",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -30465,7 +30463,7 @@
       },
       {
         "kode": "73100-03-03",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -30500,7 +30498,7 @@
       },
       {
         "kode": "73100-04-04",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -30577,7 +30575,7 @@
     "ruang_lingkup_detail": [
       {
         "kode": "46901-01-01",
-        "teks": "Grosir/ Perkulakan dengan sistem pelayanan mandiri · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -30642,7 +30640,7 @@
       },
       {
         "kode": "46901-02-02",
-        "teks": "Grosir/ Perkulakan dengan sistem pelayanan mandiri · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -30707,7 +30705,7 @@
       },
       {
         "kode": "46901-03-03",
-        "teks": "Grosir/ Perkulakan dengan sistem pelayanan mandiri · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -30772,7 +30770,7 @@
       },
       {
         "kode": "46901-04-04",
-        "teks": "Grosir/ Perkulakan dengan sistem pelayanan mandiri · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -30839,7 +30837,7 @@
     "tingkat_resiko_detail": [
       {
         "kode": "46901-01-01",
-        "teks": "Grosir/ Perkulakan dengan sistem pelayanan mandiri · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -30904,7 +30902,7 @@
       },
       {
         "kode": "46901-02-02",
-        "teks": "Grosir/ Perkulakan dengan sistem pelayanan mandiri · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -30969,7 +30967,7 @@
       },
       {
         "kode": "46901-03-03",
-        "teks": "Grosir/ Perkulakan dengan sistem pelayanan mandiri · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -31034,7 +31032,7 @@
       },
       {
         "kode": "46901-04-04",
-        "teks": "Grosir/ Perkulakan dengan sistem pelayanan mandiri · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -31426,7 +31424,7 @@
     "ruang_lingkup_detail": [
       {
         "kode": "46599-01-01",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -31461,7 +31459,7 @@
       },
       {
         "kode": "46599-02-02",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -31496,7 +31494,7 @@
       },
       {
         "kode": "46599-03-03",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -31531,7 +31529,7 @@
       },
       {
         "kode": "46599-04-04",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -31568,7 +31566,7 @@
     "tingkat_resiko_detail": [
       {
         "kode": "46599-01-01",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -31603,7 +31601,7 @@
       },
       {
         "kode": "46599-02-02",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -31638,7 +31636,7 @@
       },
       {
         "kode": "46599-03-03",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -31673,7 +31671,7 @@
       },
       {
         "kode": "46599-04-04",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -32179,7 +32177,7 @@
     "ruang_lingkup_detail": [
       {
         "kode": "62199-01-01",
-        "teks": "Seluruh · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -32229,7 +32227,7 @@
       },
       {
         "kode": "62199-02-02",
-        "teks": "Seluruh · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -32279,7 +32277,7 @@
       },
       {
         "kode": "62199-03-03",
-        "teks": "Seluruh · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -32329,7 +32327,7 @@
       },
       {
         "kode": "62199-04-04",
-        "teks": "Seluruh · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Menengah Tinggi",
         "risiko": "Menengah Tinggi",
@@ -32372,7 +32370,7 @@
     "tingkat_resiko_detail": [
       {
         "kode": "62199-01-01",
-        "teks": "Seluruh · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -32422,7 +32420,7 @@
       },
       {
         "kode": "62199-02-02",
-        "teks": "Seluruh · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -32472,7 +32470,7 @@
       },
       {
         "kode": "62199-03-03",
-        "teks": "Seluruh · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -32522,7 +32520,7 @@
       },
       {
         "kode": "62199-04-04",
-        "teks": "Seluruh · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Menengah Tinggi",
         "risiko": "Menengah Tinggi",
@@ -32683,7 +32681,7 @@
       },
       {
         "kode": "62199-04-04",
-        "nama_dokumen": "Memiliki dokumen struktur organisasi yang memuat ketersediaan SDM dengan kompetensi teknis sesuai usaha jasa",
+        "nama_dokumen": "Memiliki dokumen perjanjian kerja antara perusahaan dengan tenaga kerja kompeten untuk memberikan jasa yang berstatus pegawai tetap atau pegawai kontrak minimal 1 tahun, dengan jumlah pegawai paling sedikit: 2 orang level manajer, 2 orang level profesional/ supervisor 4 orang level teknis/ operasional/ staff",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -32800,7 +32798,7 @@
       },
       {
         "kode": "62199-04-04",
-        "nama_dokumen": "Memiliki dokumen struktur organisasi yang memuat ketersediaan SDM dengan kompetensi teknis sesuai usaha jasa",
+        "nama_dokumen": "Memiliki dokumen bagan alur bisnis proses penjualan jasa",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -32917,7 +32915,7 @@
       },
       {
         "kode": "62199-04-04",
-        "nama_dokumen": "Memiliki dokumen struktur organisasi yang memuat ketersediaan SDM dengan kompetensi teknis sesuai usaha jasa",
+        "nama_dokumen": "Memiliki dokumen berupa: a) daftar peralatan prasarana pendukung dan b) foto peralatan prasarana pendukung",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -33074,7 +33072,7 @@
     "ruang_lingkup_detail": [
       {
         "kode": "10710-01-01",
-        "teks": "Seluruh · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -33124,7 +33122,7 @@
       },
       {
         "kode": "10710-02-02",
-        "teks": "Seluruh · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -33174,7 +33172,7 @@
       },
       {
         "kode": "10710-03-03",
-        "teks": "Seluruh · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -33224,7 +33222,7 @@
       },
       {
         "kode": "10710-04-04",
-        "teks": "Seluruh · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Tinggi",
         "risiko": "Tinggi",
@@ -33272,7 +33270,7 @@
     "tingkat_resiko_detail": [
       {
         "kode": "10710-01-01",
-        "teks": "Seluruh · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -33322,7 +33320,7 @@
       },
       {
         "kode": "10710-02-02",
-        "teks": "Seluruh · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -33372,7 +33370,7 @@
       },
       {
         "kode": "10710-03-03",
-        "teks": "Seluruh · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -33422,7 +33420,7 @@
       },
       {
         "kode": "10710-04-04",
-        "teks": "Seluruh · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Tinggi",
         "risiko": "Tinggi",
@@ -35978,7 +35976,7 @@
       },
       {
         "kode": "10710-04-04",
-        "nama_dokumen": "Memiliki dokumen rencana penggunaan jenis, spesifikasi, jumlah, dan asal dari bahan baku, serta sumber dan jumlah/ besaran dari energi dan air baku, yang dibutuhkan untuk menjalankan kegiatan usaha industri dalam 1 (satu) siklus produksi atau selama lamanya 6 (enam) Bulan ke depan",
+        "nama_dokumen": "Memiliki dokumen berupa: a. Spesifikasi mesin dan/atau daftar peralatan b. Foto mesin/ peralatan c. Perjanjian jual beli/sewa yang membukti-kan: 1) Penguasaan (kepemilikan/ sewa) mesin untuk menghasilkan produk industri makanan dan minuman serta peralatan pengujian kualitas produk 2) Kesesuaian kapasitas produksi terpasang pada data usaha",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -36122,7 +36120,7 @@
       },
       {
         "kode": "10710-04-04",
-        "nama_dokumen": "Memiliki dokumen rencana penggunaan jenis, spesifikasi, jumlah, dan asal dari bahan baku, serta sumber dan jumlah/ besaran dari energi dan air baku, yang dibutuhkan untuk menjalankan kegiatan usaha industri dalam 1 (satu) siklus produksi atau selama lamanya 6 (enam) Bulan ke depan",
+        "nama_dokumen": "Memiliki dokumen bagan alur: a. Pengadaan, penerimaan, penyimpanan bahan baku, b. Proses produksi, c. Proses quality control d. Pengemasan, penyimpanan, pengangkutan dan distribusi hasil produksi",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -36266,7 +36264,7 @@
       },
       {
         "kode": "10710-04-04",
-        "nama_dokumen": "Memiliki dokumen rencana penggunaan jenis, spesifikasi, jumlah, dan asal dari bahan baku, serta sumber dan jumlah/ besaran dari energi dan air baku, yang dibutuhkan untuk menjalankan kegiatan usaha industri dalam 1 (satu) siklus produksi atau selama lamanya 6 (enam) Bulan ke depan",
+        "nama_dokumen": "Memiliki dokumen perencanaan tata letak Fasilitas pabrik/plan layout facilities sesuai dengan bagan alur proses produksi yang membuktikan lokasi pabrik/usaha jauh dari sumber pencemar untuk melindungi pangan olahan yang diproduksi",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -36450,7 +36448,7 @@
     "ruang_lingkup_detail": [
       {
         "kode": "47192-01-02",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -36485,7 +36483,7 @@
       },
       {
         "kode": "47192-02-04",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -36516,7 +36514,7 @@
       },
       {
         "kode": "47192-03-07",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -36547,7 +36545,7 @@
       },
       {
         "kode": "47192-04-10",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -36580,7 +36578,7 @@
     "tingkat_resiko_detail": [
       {
         "kode": "47192-01-02",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -36615,7 +36613,7 @@
       },
       {
         "kode": "47192-02-04",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -36646,7 +36644,7 @@
       },
       {
         "kode": "47192-03-07",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -36677,7 +36675,7 @@
       },
       {
         "kode": "47192-04-10",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -38733,7 +38731,7 @@
     "ruang_lingkup_detail": [
       {
         "kode": "47901-01-01",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -38768,7 +38766,7 @@
       },
       {
         "kode": "47901-02-02",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -38803,7 +38801,7 @@
       },
       {
         "kode": "47901-03-03",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -38838,7 +38836,7 @@
       },
       {
         "kode": "47901-04-04",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -38873,7 +38871,7 @@
       },
       {
         "kode": "47901-01-05",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -38906,7 +38904,7 @@
       },
       {
         "kode": "47901-02-06",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Tinggi",
         "risiko": "Tinggi",
@@ -38983,7 +38981,7 @@
       },
       {
         "kode": "47901-03-07",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Tinggi",
         "risiko": "Tinggi",
@@ -39060,7 +39058,7 @@
       },
       {
         "kode": "47901-04-08",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Tinggi",
         "risiko": "Tinggi",
@@ -39137,7 +39135,7 @@
       },
       {
         "kode": "47901-02-09",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -39187,7 +39185,7 @@
       },
       {
         "kode": "47901-03-10",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -39237,7 +39235,7 @@
       },
       {
         "kode": "47901-04-11",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Menengah Tinggi",
         "risiko": "Menengah Tinggi",
@@ -39280,7 +39278,7 @@
     "tingkat_resiko_detail": [
       {
         "kode": "47901-01-01",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -39315,7 +39313,7 @@
       },
       {
         "kode": "47901-02-02",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -39350,7 +39348,7 @@
       },
       {
         "kode": "47901-03-03",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -39385,7 +39383,7 @@
       },
       {
         "kode": "47901-04-04",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -39420,7 +39418,7 @@
       },
       {
         "kode": "47901-01-05",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -39453,7 +39451,7 @@
       },
       {
         "kode": "47901-02-06",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Tinggi",
         "risiko": "Tinggi",
@@ -39530,7 +39528,7 @@
       },
       {
         "kode": "47901-03-07",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Tinggi",
         "risiko": "Tinggi",
@@ -39607,7 +39605,7 @@
       },
       {
         "kode": "47901-04-08",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Tinggi",
         "risiko": "Tinggi",
@@ -39684,7 +39682,7 @@
       },
       {
         "kode": "47901-02-09",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -39734,7 +39732,7 @@
       },
       {
         "kode": "47901-03-10",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -39784,7 +39782,7 @@
       },
       {
         "kode": "47901-04-11",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Menengah Tinggi",
         "risiko": "Menengah Tinggi",
@@ -40696,7 +40694,7 @@
       },
       {
         "kode": "47901-02-06",
-        "nama_dokumen": "Alamat website dan/atau nama aplikasi",
+        "nama_dokumen": "Layanan pengaduan konsumen berupa nomor kontak dan/atau alamat surat elektronik (email)",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -41029,7 +41027,7 @@
       },
       {
         "kode": "47901-02-06",
-        "nama_dokumen": "Alamat website dan/atau nama aplikasi",
+        "nama_dokumen": "Layanan pengaduan konsumen yang memuat informasi kontak pengaduan konsumen oleh unit kerja di lingkungan Kementerian Perdagangan yang membidangi perlindungan konsumen dan tertib niaga",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -41362,7 +41360,7 @@
       },
       {
         "kode": "47901-02-06",
-        "nama_dokumen": "Alamat website dan/atau nama aplikasi",
+        "nama_dokumen": "Dalam hal sistem elektronik berbentuk aplikasi mobile, wajib menyediakan sistem elektronik berbasis situs atau web yang identic (mirroring) dengan sistem elektronik berbasis aplikasi mobile",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -42028,7 +42026,7 @@
       },
       {
         "kode": "47901-03-07",
-        "nama_dokumen": "Alamat website dan/atau nama aplikasi",
+        "nama_dokumen": "Layanan pengaduan konsumen berupa nomor kontak dan/atau alamat surat elektronik (email)",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -42361,7 +42359,7 @@
       },
       {
         "kode": "47901-03-07",
-        "nama_dokumen": "Alamat website dan/atau nama aplikasi",
+        "nama_dokumen": "Layanan pengaduan konsumen yang memuat informasi kontak pengaduan konsumen oleh unit kerja di lingkungan Kementerian Perdagangan yang membidangi perlindungan konsumen dan tertib niaga",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -42694,7 +42692,7 @@
       },
       {
         "kode": "47901-03-07",
-        "nama_dokumen": "Alamat website dan/atau nama aplikasi",
+        "nama_dokumen": "Dalam hal sistem elektronik berbentuk aplikasi mobile, wajib menyediakan sistem elektronik berbasis situs atau web yang identic (mirroring) dengan sistem elektronik berbasis aplikasi mobile",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -43360,7 +43358,7 @@
       },
       {
         "kode": "47901-04-08",
-        "nama_dokumen": "Alamat website dan/atau nama aplikasi",
+        "nama_dokumen": "Layanan pengaduan konsumen berupa nomor kontak dan/atau alamat surat elektronik (email)",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -43693,7 +43691,7 @@
       },
       {
         "kode": "47901-04-08",
-        "nama_dokumen": "Alamat website dan/atau nama aplikasi",
+        "nama_dokumen": "Layanan pengaduan konsumen yang memuat informasi kontak pengaduan konsumen oleh unit kerja di lingkungan Kementerian Perdagangan yang membidangi perlindungan konsumen dan tertib niaga",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -44026,7 +44024,7 @@
       },
       {
         "kode": "47901-04-08",
-        "nama_dokumen": "Alamat website dan/atau nama aplikasi",
+        "nama_dokumen": "Dalam hal sistem elektronik berbentuk aplikasi mobile, wajib menyediakan sistem elektronik berbasis situs atau web yang identic (mirroring) dengan sistem elektronik berbasis aplikasi mobile",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -44476,7 +44474,7 @@
       },
       {
         "kode": "47901-04-11",
-        "nama_dokumen": "Memiliki dokumen struktur organisasi yang memuat ketersediaan SDM dengan kompetensi teknis sesuai usaha jasa",
+        "nama_dokumen": "Memiliki dokumen perjanjian kerja antara perusahaan dengan tenaga kerja kompeten untuk memberikan jasa yang berstatus pegawai tetap atau pegawai kontrak minimal 1 tahun, dengan jumlah pegawai paling sedikit: 2 orang level manajer, 2 orang level profesional/ supervisor 4 orang level teknis/ operasional/ staff",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -44593,7 +44591,7 @@
       },
       {
         "kode": "47901-04-11",
-        "nama_dokumen": "Memiliki dokumen struktur organisasi yang memuat ketersediaan SDM dengan kompetensi teknis sesuai usaha jasa",
+        "nama_dokumen": "Memiliki dokumen bagan alur bisnis proses penjualan jasa",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -44710,7 +44708,7 @@
       },
       {
         "kode": "47901-04-11",
-        "nama_dokumen": "Memiliki dokumen struktur organisasi yang memuat ketersediaan SDM dengan kompetensi teknis sesuai usaha jasa",
+        "nama_dokumen": "Memiliki dokumen berupa: a) daftar peralatan prasarana pendukung dan b) foto peralatan prasarana pendukung",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -44867,7 +44865,7 @@
     "ruang_lingkup_detail": [
       {
         "kode": "46511-01-01",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -44902,7 +44900,7 @@
       },
       {
         "kode": "46511-02-02",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -44937,7 +44935,7 @@
       },
       {
         "kode": "46511-03-03",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -44972,7 +44970,7 @@
       },
       {
         "kode": "46511-04-04",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -45009,7 +45007,7 @@
     "tingkat_resiko_detail": [
       {
         "kode": "46511-01-01",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -45044,7 +45042,7 @@
       },
       {
         "kode": "46511-02-02",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -45079,7 +45077,7 @@
       },
       {
         "kode": "46511-03-03",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -45114,7 +45112,7 @@
       },
       {
         "kode": "46511-04-04",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -45620,7 +45618,7 @@
     "ruang_lingkup_detail": [
       {
         "kode": "68111-01-01",
-        "teks": "Pengembangan Hunian dan/atau hunian campuran: Kelompok ini mencakup usaha pembelian, penjualan, persewaan dan pengoperasian perumahan baik yang dimiliki sendiri maupun disewa · Kementerian Perumahan dan Kawasan Permukiman",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -45685,7 +45683,7 @@
       },
       {
         "kode": "68111-02-02",
-        "teks": "Pengembangan Hunian dan/atau hunian campuran: Kelompok ini mencakup usaha pembelian, penjualan, persewaan dan pengoperasian perumahan baik yang dimiliki sendiri maupun disewa · Kementerian Perumahan dan Kawasan Permukiman",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -45750,7 +45748,7 @@
       },
       {
         "kode": "68111-03-03",
-        "teks": "Pengembangan Hunian dan/atau hunian campuran: Kelompok ini mencakup usaha pembelian, penjualan, persewaan dan pengoperasian perumahan baik yang dimiliki sendiri maupun disewa · Kementerian Perumahan dan Kawasan Permukiman",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -45815,7 +45813,7 @@
       },
       {
         "kode": "68111-04-04",
-        "teks": "Pengembangan Hunian dan/atau hunian campuran: Kelompok ini mencakup usaha pembelian, penjualan, persewaan dan pengoperasian perumahan baik yang dimiliki sendiri maupun disewa · Kementerian Perumahan dan Kawasan Permukiman",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -45882,7 +45880,7 @@
     "tingkat_resiko_detail": [
       {
         "kode": "68111-01-01",
-        "teks": "Pengembangan Hunian dan/atau hunian campuran: Kelompok ini mencakup usaha pembelian, penjualan, persewaan dan pengoperasian perumahan baik yang dimiliki sendiri maupun disewa · Kementerian Perumahan dan Kawasan Permukiman",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -45947,7 +45945,7 @@
       },
       {
         "kode": "68111-02-02",
-        "teks": "Pengembangan Hunian dan/atau hunian campuran: Kelompok ini mencakup usaha pembelian, penjualan, persewaan dan pengoperasian perumahan baik yang dimiliki sendiri maupun disewa · Kementerian Perumahan dan Kawasan Permukiman",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -46012,7 +46010,7 @@
       },
       {
         "kode": "68111-03-03",
-        "teks": "Pengembangan Hunian dan/atau hunian campuran: Kelompok ini mencakup usaha pembelian, penjualan, persewaan dan pengoperasian perumahan baik yang dimiliki sendiri maupun disewa · Kementerian Perumahan dan Kawasan Permukiman",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -46077,7 +46075,7 @@
       },
       {
         "kode": "68111-04-04",
-        "teks": "Pengembangan Hunian dan/atau hunian campuran: Kelompok ini mencakup usaha pembelian, penjualan, persewaan dan pengoperasian perumahan baik yang dimiliki sendiri maupun disewa · Kementerian Perumahan dan Kawasan Permukiman",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -46253,7 +46251,7 @@
     "ruang_lingkup_detail": [
       {
         "kode": "62900-01-01",
-        "teks": "Seluruh · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -46298,7 +46296,7 @@
       },
       {
         "kode": "62900-02-02",
-        "teks": "Seluruh · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -46343,7 +46341,7 @@
       },
       {
         "kode": "62900-03-03",
-        "teks": "Seluruh · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -46388,7 +46386,7 @@
       },
       {
         "kode": "62900-04-04",
-        "teks": "Seluruh · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -46436,7 +46434,7 @@
     "tingkat_resiko_detail": [
       {
         "kode": "62900-01-01",
-        "teks": "Seluruh · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -46481,7 +46479,7 @@
       },
       {
         "kode": "62900-02-02",
-        "teks": "Seluruh · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -46526,7 +46524,7 @@
       },
       {
         "kode": "62900-03-03",
-        "teks": "Seluruh · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -46571,7 +46569,7 @@
       },
       {
         "kode": "62900-04-04",
-        "teks": "Seluruh · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -46659,7 +46657,7 @@
     "ruang_lingkup_detail": [
       {
         "kode": "55909-01-01",
-        "teks": "Tempat Tinggal Pelajar, Asrama Sekolah, Asrama atau Pondok Pekerja dan Rumah Kost. · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -46691,7 +46689,7 @@
       },
       {
         "kode": "55909-02-01",
-        "teks": "Tempat Tinggal Pelajar, Asrama Sekolah, Asrama atau Pondok Pekerja dan Rumah Kost. · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -46723,7 +46721,7 @@
       },
       {
         "kode": "55909-03-01",
-        "teks": "Tempat Tinggal Pelajar, Asrama Sekolah, Asrama atau Pondok Pekerja dan Rumah Kost. · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -46755,7 +46753,7 @@
       },
       {
         "kode": "55909-04-01",
-        "teks": "Tempat Tinggal Pelajar, Asrama Sekolah, Asrama atau Pondok Pekerja dan Rumah Kost. · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -46789,7 +46787,7 @@
     "tingkat_resiko_detail": [
       {
         "kode": "55909-01-01",
-        "teks": "Tempat Tinggal Pelajar, Asrama Sekolah, Asrama atau Pondok Pekerja dan Rumah Kost. · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -46821,7 +46819,7 @@
       },
       {
         "kode": "55909-02-01",
-        "teks": "Tempat Tinggal Pelajar, Asrama Sekolah, Asrama atau Pondok Pekerja dan Rumah Kost. · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -46853,7 +46851,7 @@
       },
       {
         "kode": "55909-03-01",
-        "teks": "Tempat Tinggal Pelajar, Asrama Sekolah, Asrama atau Pondok Pekerja dan Rumah Kost. · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -46885,7 +46883,7 @@
       },
       {
         "kode": "55909-04-01",
-        "teks": "Tempat Tinggal Pelajar, Asrama Sekolah, Asrama atau Pondok Pekerja dan Rumah Kost. · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -47328,7 +47326,7 @@
     "ruang_lingkup_detail": [
       {
         "kode": "62191-01-01",
-        "teks": "Seluruh · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -47378,7 +47376,7 @@
       },
       {
         "kode": "62191-02-02",
-        "teks": "Seluruh · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -47428,7 +47426,7 @@
       },
       {
         "kode": "62191-03-03",
-        "teks": "Seluruh · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -47478,7 +47476,7 @@
       },
       {
         "kode": "62191-04-04",
-        "teks": "Seluruh · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Menengah Tinggi",
         "risiko": "Menengah Tinggi",
@@ -47521,7 +47519,7 @@
     "tingkat_resiko_detail": [
       {
         "kode": "62191-01-01",
-        "teks": "Seluruh · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -47571,7 +47569,7 @@
       },
       {
         "kode": "62191-02-02",
-        "teks": "Seluruh · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -47621,7 +47619,7 @@
       },
       {
         "kode": "62191-03-03",
-        "teks": "Seluruh · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -47671,7 +47669,7 @@
       },
       {
         "kode": "62191-04-04",
-        "teks": "Seluruh · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Menengah Tinggi",
         "risiko": "Menengah Tinggi",
@@ -47832,7 +47830,7 @@
       },
       {
         "kode": "62191-04-04",
-        "nama_dokumen": "Memiliki dokumen struktur organisasi yang memuat ketersediaan SDM dengan kompetensi teknis sesuai usaha jasa",
+        "nama_dokumen": "Memiliki dokumen perjanjian kerja antara perusahaan dengan tenaga kerja kompeten untuk memberikan jasa yang berstatus pegawai tetap atau pegawai kontrak minimal 1 tahun, dengan jumlah pegawai paling sedikit: 2 orang level manajer, 2 orang level profesional/ supervisor 4 orang level teknis/operasional/staff",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -47949,7 +47947,7 @@
       },
       {
         "kode": "62191-04-04",
-        "nama_dokumen": "Memiliki dokumen struktur organisasi yang memuat ketersediaan SDM dengan kompetensi teknis sesuai usaha jasa",
+        "nama_dokumen": "Memiliki dokumen bagan alur bisnis proses penjualan jasa",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -48066,7 +48064,7 @@
       },
       {
         "kode": "62191-04-04",
-        "nama_dokumen": "Memiliki dokumen struktur organisasi yang memuat ketersediaan SDM dengan kompetensi teknis sesuai usaha jasa",
+        "nama_dokumen": "Memiliki dokumen berupa: a) daftar peralatan prasarana pendukung dan b) foto peralatan prasarana pendukung",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -48223,7 +48221,7 @@
     "ruang_lingkup_detail": [
       {
         "kode": "46412-01-01",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -48258,7 +48256,7 @@
       },
       {
         "kode": "46412-02-02",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -48293,7 +48291,7 @@
       },
       {
         "kode": "46412-03-03",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -48328,7 +48326,7 @@
       },
       {
         "kode": "46412-04-04",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -48365,7 +48363,7 @@
     "tingkat_resiko_detail": [
       {
         "kode": "46412-01-01",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -48400,7 +48398,7 @@
       },
       {
         "kode": "46412-02-02",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -48435,7 +48433,7 @@
       },
       {
         "kode": "46412-03-03",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -48470,7 +48468,7 @@
       },
       {
         "kode": "46412-04-04",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -49133,7 +49131,7 @@
     "ruang_lingkup_detail": [
       {
         "kode": "55901-01-01",
-        "teks": "Jasa manajemen hotel · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -49170,7 +49168,7 @@
       },
       {
         "kode": "55901-02-02",
-        "teks": "Jasa manajemen hotel · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -49207,7 +49205,7 @@
       },
       {
         "kode": "55901-03-03",
-        "teks": "Jasa manajemen hotel · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -49244,7 +49242,7 @@
       },
       {
         "kode": "55901-04-04",
-        "teks": "Jasa manajemen hotel · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -49283,7 +49281,7 @@
     "tingkat_resiko_detail": [
       {
         "kode": "55901-01-01",
-        "teks": "Jasa manajemen hotel · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -49320,7 +49318,7 @@
       },
       {
         "kode": "55901-02-02",
-        "teks": "Jasa manajemen hotel · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -49357,7 +49355,7 @@
       },
       {
         "kode": "55901-03-03",
-        "teks": "Jasa manajemen hotel · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -49394,7 +49392,7 @@
       },
       {
         "kode": "55901-04-04",
-        "teks": "Jasa manajemen hotel · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -49842,7 +49840,7 @@
     "ruang_lingkup_detail": [
       {
         "kode": "46591-01-01",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -49877,7 +49875,7 @@
       },
       {
         "kode": "46591-02-02",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -49912,7 +49910,7 @@
       },
       {
         "kode": "46591-03-03",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -49947,7 +49945,7 @@
       },
       {
         "kode": "46591-04-04",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -49984,7 +49982,7 @@
     "tingkat_resiko_detail": [
       {
         "kode": "46591-01-01",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -50019,7 +50017,7 @@
       },
       {
         "kode": "46591-02-02",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -50054,7 +50052,7 @@
       },
       {
         "kode": "46591-03-03",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -50089,7 +50087,7 @@
       },
       {
         "kode": "46591-04-04",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -50595,7 +50593,7 @@
     "ruang_lingkup_detail": [
       {
         "kode": "46491-01-01",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -50630,7 +50628,7 @@
       },
       {
         "kode": "46491-02-02",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -50665,7 +50663,7 @@
       },
       {
         "kode": "46491-03-03",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -50700,7 +50698,7 @@
       },
       {
         "kode": "46491-04-04",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -50737,7 +50735,7 @@
     "tingkat_resiko_detail": [
       {
         "kode": "46491-01-01",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -50772,7 +50770,7 @@
       },
       {
         "kode": "46491-02-02",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -50807,7 +50805,7 @@
       },
       {
         "kode": "46491-03-03",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -50842,7 +50840,7 @@
       },
       {
         "kode": "46491-04-04",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -51348,7 +51346,7 @@
     "ruang_lingkup_detail": [
       {
         "kode": "70203-01-01",
-        "teks": "Seluruh · BKPM",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -51375,7 +51373,7 @@
       },
       {
         "kode": "70203-02-02",
-        "teks": "Seluruh · BKPM",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -51402,7 +51400,7 @@
       },
       {
         "kode": "70203-03-03",
-        "teks": "Seluruh · BKPM",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -51429,7 +51427,7 @@
       },
       {
         "kode": "70203-04-04",
-        "teks": "Seluruh · BKPM",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -51458,7 +51456,7 @@
     "tingkat_resiko_detail": [
       {
         "kode": "70203-01-01",
-        "teks": "Seluruh · BKPM",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -51485,7 +51483,7 @@
       },
       {
         "kode": "70203-02-02",
-        "teks": "Seluruh · BKPM",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -51512,7 +51510,7 @@
       },
       {
         "kode": "70203-03-03",
-        "teks": "Seluruh · BKPM",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -51539,7 +51537,7 @@
       },
       {
         "kode": "70203-04-04",
-        "teks": "Seluruh · BKPM",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -51905,7 +51903,7 @@
     "ruang_lingkup_detail": [
       {
         "kode": "64210-01-01",
-        "teks": "Seluruh · BKPM",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -51932,7 +51930,7 @@
       },
       {
         "kode": "64210-02-02",
-        "teks": "Seluruh · BKPM",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -51959,7 +51957,7 @@
       },
       {
         "kode": "64210-03-03",
-        "teks": "Seluruh · BKPM",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -51986,7 +51984,7 @@
       },
       {
         "kode": "64210-04-04",
-        "teks": "Seluruh · BKPM",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -52015,7 +52013,7 @@
     "tingkat_resiko_detail": [
       {
         "kode": "64210-01-01",
-        "teks": "Seluruh · BKPM",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -52042,7 +52040,7 @@
       },
       {
         "kode": "64210-02-02",
-        "teks": "Seluruh · BKPM",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -52069,7 +52067,7 @@
       },
       {
         "kode": "64210-03-03",
-        "teks": "Seluruh · BKPM",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -52096,7 +52094,7 @@
       },
       {
         "kode": "64210-04-04",
-        "teks": "Seluruh · BKPM",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -52165,7 +52163,7 @@
     "ruang_lingkup_detail": [
       {
         "kode": "82300-01-01",
-        "teks": "Seluruh · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -52202,7 +52200,7 @@
       },
       {
         "kode": "82300-02-02",
-        "teks": "Seluruh · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -52239,7 +52237,7 @@
       },
       {
         "kode": "82300-03-03",
-        "teks": "Seluruh · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -52276,7 +52274,7 @@
       },
       {
         "kode": "82300-04-04",
-        "teks": "Seluruh · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -52315,7 +52313,7 @@
     "tingkat_resiko_detail": [
       {
         "kode": "82300-01-01",
-        "teks": "Seluruh · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -52352,7 +52350,7 @@
       },
       {
         "kode": "82300-02-02",
-        "teks": "Seluruh · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -52389,7 +52387,7 @@
       },
       {
         "kode": "82300-03-03",
-        "teks": "Seluruh · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -52426,7 +52424,7 @@
       },
       {
         "kode": "82300-04-04",
-        "teks": "Seluruh · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -52505,7 +52503,7 @@
     "ruang_lingkup_detail": [
       {
         "kode": "47242-01-04",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -52540,7 +52538,7 @@
       },
       {
         "kode": "47242-02-06",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -52575,7 +52573,7 @@
       },
       {
         "kode": "47242-03-09",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -52606,7 +52604,7 @@
       },
       {
         "kode": "47242-04-13",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -52639,7 +52637,7 @@
     "tingkat_resiko_detail": [
       {
         "kode": "47242-01-04",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -52674,7 +52672,7 @@
       },
       {
         "kode": "47242-02-06",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -52709,7 +52707,7 @@
       },
       {
         "kode": "47242-03-09",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -52740,7 +52738,7 @@
       },
       {
         "kode": "47242-04-13",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -55202,7 +55200,7 @@
     "ruang_lingkup_detail": [
       {
         "kode": "78200-01-01",
-        "teks": "Seluruh · Ketenagakerjaan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -55244,7 +55242,7 @@
       },
       {
         "kode": "78200-02-02",
-        "teks": "Seluruh · Ketenagakerjaan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -55286,7 +55284,7 @@
       },
       {
         "kode": "78200-03-03",
-        "teks": "Seluruh · Ketenagakerjaan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -55328,7 +55326,7 @@
       },
       {
         "kode": "78200-04-04",
-        "teks": "Seluruh · Ketenagakerjaan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -55372,7 +55370,7 @@
     "tingkat_resiko_detail": [
       {
         "kode": "78200-01-01",
-        "teks": "Seluruh · Ketenagakerjaan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -55414,7 +55412,7 @@
       },
       {
         "kode": "78200-02-02",
-        "teks": "Seluruh · Ketenagakerjaan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -55456,7 +55454,7 @@
       },
       {
         "kode": "78200-03-03",
-        "teks": "Seluruh · Ketenagakerjaan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -55498,7 +55496,7 @@
       },
       {
         "kode": "78200-04-04",
-        "teks": "Seluruh · Ketenagakerjaan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -55582,7 +55580,7 @@
     "ruang_lingkup_detail": [
       {
         "kode": "46499-01-01",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -55617,7 +55615,7 @@
       },
       {
         "kode": "46499-02-02",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -55652,7 +55650,7 @@
       },
       {
         "kode": "46499-03-03",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -55687,7 +55685,7 @@
       },
       {
         "kode": "46499-04-04",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -55724,7 +55722,7 @@
     "tingkat_resiko_detail": [
       {
         "kode": "46499-01-01",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -55759,7 +55757,7 @@
       },
       {
         "kode": "46499-02-02",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -55794,7 +55792,7 @@
       },
       {
         "kode": "46499-03-03",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -55829,7 +55827,7 @@
       },
       {
         "kode": "46499-04-04",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -57174,7 +57172,7 @@
     "ruang_lingkup_detail": [
       {
         "kode": "10750-01-01",
-        "teks": "Seluruh · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -57224,7 +57222,7 @@
       },
       {
         "kode": "10750-02-02",
-        "teks": "Seluruh · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -57274,7 +57272,7 @@
       },
       {
         "kode": "10750-03-03",
-        "teks": "Seluruh · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -57324,7 +57322,7 @@
       },
       {
         "kode": "10750-04-04",
-        "teks": "Seluruh · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Tinggi",
         "risiko": "Tinggi",
@@ -57372,7 +57370,7 @@
     "tingkat_resiko_detail": [
       {
         "kode": "10750-01-01",
-        "teks": "Seluruh · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -57422,7 +57420,7 @@
       },
       {
         "kode": "10750-02-02",
-        "teks": "Seluruh · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -57472,7 +57470,7 @@
       },
       {
         "kode": "10750-03-03",
-        "teks": "Seluruh · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -57522,7 +57520,7 @@
       },
       {
         "kode": "10750-04-04",
-        "teks": "Seluruh · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Tinggi",
         "risiko": "Tinggi",
@@ -61336,7 +61334,7 @@
       },
       {
         "kode": "10750-04-04",
-        "nama_dokumen": "Memiliki dokumen rencana penggunaan jenis, spesifikasi, jumlah, dan asal dari bahan baku, serta sumber dan jumlah/ besaran dari energi dan air baku, yang dibutuhkan untuk menjalankan kegiatan usaha industri dalam 1 (satu) siklus produksi atau selama lamanya 6 (enam) Bulan ke depan",
+        "nama_dokumen": "Memiliki dokumen berupa: a. Spesifikasi mesin dan/atau daftar peralatan b. Foto mesin/ peralatan c. Perjanjian jual beli/sewa yang membukti-kan: 1) Penguasaan (kepemilikan/ sewa) mesin untuk menghasilkan produk industri makanan dan minuman serta peralatan pengujian kualitas produk 2) Kesesuaian kapasitas produksi terpasang pada data usaha",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -61480,7 +61478,7 @@
       },
       {
         "kode": "10750-04-04",
-        "nama_dokumen": "Memiliki dokumen rencana penggunaan jenis, spesifikasi, jumlah, dan asal dari bahan baku, serta sumber dan jumlah/ besaran dari energi dan air baku, yang dibutuhkan untuk menjalankan kegiatan usaha industri dalam 1 (satu) siklus produksi atau selama lamanya 6 (enam) Bulan ke depan",
+        "nama_dokumen": "Memiliki dokumen bagan alur: a. Pengadaan, penerimaan, penyimpanan bahan baku, b. Proses produksi, c. Proses quality control d. Pengemasan, penyimpanan, pengangkutan dan distribusi hasil produksi",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -61624,7 +61622,7 @@
       },
       {
         "kode": "10750-04-04",
-        "nama_dokumen": "Memiliki dokumen rencana penggunaan jenis, spesifikasi, jumlah, dan asal dari bahan baku, serta sumber dan jumlah/ besaran dari energi dan air baku, yang dibutuhkan untuk menjalankan kegiatan usaha industri dalam 1 (satu) siklus produksi atau selama lamanya 6 (enam) Bulan ke depan",
+        "nama_dokumen": "Memiliki dokumen perencanaan tata letak Fasilitas pabrik/plan layout facilities sesuai dengan bagan alur proses produksi yang membuktikan lokasi pabrik/usaha jauh dari sumber pencemar untuk melindungi pangan olahan yang diproduksi",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -61808,7 +61806,7 @@
     "ruang_lingkup_detail": [
       {
         "kode": "46339-01-01",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -61848,7 +61846,7 @@
       },
       {
         "kode": "46339-02-02",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -61888,7 +61886,7 @@
       },
       {
         "kode": "46339-03-03",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -61928,7 +61926,7 @@
       },
       {
         "kode": "46339-04-04",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -61970,7 +61968,7 @@
     "tingkat_resiko_detail": [
       {
         "kode": "46339-01-01",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -62010,7 +62008,7 @@
       },
       {
         "kode": "46339-02-02",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -62050,7 +62048,7 @@
       },
       {
         "kode": "46339-03-03",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -62090,7 +62088,7 @@
       },
       {
         "kode": "46339-04-04",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -68747,7 +68745,7 @@
     "ruang_lingkup_detail": [
       {
         "kode": "46521-01-01",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -68782,7 +68780,7 @@
       },
       {
         "kode": "46521-02-02",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -68817,7 +68815,7 @@
       },
       {
         "kode": "46521-03-03",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -68852,7 +68850,7 @@
       },
       {
         "kode": "46521-04-04",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -68889,7 +68887,7 @@
     "tingkat_resiko_detail": [
       {
         "kode": "46521-01-01",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -68924,7 +68922,7 @@
       },
       {
         "kode": "46521-02-02",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -68959,7 +68957,7 @@
       },
       {
         "kode": "46521-03-03",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -68994,7 +68992,7 @@
       },
       {
         "kode": "46521-04-04",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -69500,7 +69498,7 @@
     "ruang_lingkup_detail": [
       {
         "kode": "47724-01-01",
-        "teks": "Toko Kosmetik · Kesehatan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -69537,7 +69535,7 @@
       },
       {
         "kode": "47724-02-02",
-        "teks": "Toko Kosmetik · Kesehatan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -69574,7 +69572,7 @@
       },
       {
         "kode": "47724-03-03",
-        "teks": "Pedagang Kaki Lima dan Los Pasar Kosmetik · Kesehatan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -69611,7 +69609,7 @@
       },
       {
         "kode": "47724-04-04",
-        "teks": "Pedagang Kaki Lima dan Los Pasar Kosmetik · Kesehatan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -69648,7 +69646,7 @@
       },
       {
         "kode": "47724-01-05",
-        "teks": "Pedagang Kaki Lima dan Los Pasar Kosmetik · Kesehatan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -69685,7 +69683,7 @@
       },
       {
         "kode": "47724-02-06",
-        "teks": "Pedagang Kaki Lima dan Los Pasar Kosmetik · Kesehatan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -69722,7 +69720,7 @@
       },
       {
         "kode": "47724-03-07",
-        "teks": "Pedagang Kaki Lima dan Los Pasar Kosmetik · Kesehatan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -69761,7 +69759,7 @@
     "tingkat_resiko_detail": [
       {
         "kode": "47724-01-01",
-        "teks": "Toko Kosmetik · Kesehatan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -69798,7 +69796,7 @@
       },
       {
         "kode": "47724-02-02",
-        "teks": "Toko Kosmetik · Kesehatan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -69835,7 +69833,7 @@
       },
       {
         "kode": "47724-03-03",
-        "teks": "Pedagang Kaki Lima dan Los Pasar Kosmetik · Kesehatan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -69872,7 +69870,7 @@
       },
       {
         "kode": "47724-04-04",
-        "teks": "Pedagang Kaki Lima dan Los Pasar Kosmetik · Kesehatan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -69909,7 +69907,7 @@
       },
       {
         "kode": "47724-01-05",
-        "teks": "Pedagang Kaki Lima dan Los Pasar Kosmetik · Kesehatan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -69946,7 +69944,7 @@
       },
       {
         "kode": "47724-02-06",
-        "teks": "Pedagang Kaki Lima dan Los Pasar Kosmetik · Kesehatan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -69983,7 +69981,7 @@
       },
       {
         "kode": "47724-03-07",
-        "teks": "Pedagang Kaki Lima dan Los Pasar Kosmetik · Kesehatan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -72315,7 +72313,7 @@
     "ruang_lingkup_detail": [
       {
         "kode": "56210-01-01",
-        "teks": "Seluruh · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -72352,7 +72350,7 @@
       },
       {
         "kode": "56210-02-02",
-        "teks": "Seluruh · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -72389,7 +72387,7 @@
       },
       {
         "kode": "56210-03-03",
-        "teks": "Seluruh · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Menengah Tinggi",
         "risiko": "Menengah Tinggi",
@@ -72421,7 +72419,7 @@
       },
       {
         "kode": "56210-04-04",
-        "teks": "Seluruh · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Menengah Tinggi",
         "risiko": "Menengah Tinggi",
@@ -72455,7 +72453,7 @@
     "tingkat_resiko_detail": [
       {
         "kode": "56210-01-01",
-        "teks": "Seluruh · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -72492,7 +72490,7 @@
       },
       {
         "kode": "56210-02-02",
-        "teks": "Seluruh · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -72529,7 +72527,7 @@
       },
       {
         "kode": "56210-03-03",
-        "teks": "Seluruh · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Menengah Tinggi",
         "risiko": "Menengah Tinggi",
@@ -72561,7 +72559,7 @@
       },
       {
         "kode": "56210-04-04",
-        "teks": "Seluruh · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Menengah Tinggi",
         "risiko": "Menengah Tinggi",
@@ -73564,7 +73562,7 @@
       },
       {
         "kode": "56210-03-03",
-        "nama_dokumen": "Memiliki Penilaian Mandiri Kesiapan Penerapan Standar",
+        "nama_dokumen": "$48",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -73744,7 +73742,7 @@
       },
       {
         "kode": "56210-04-04",
-        "nama_dokumen": "Memiliki Penilaian Mandiri Kesiapan Penerapan Standar",
+        "nama_dokumen": "$4a",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -73874,7 +73872,7 @@
     "ruang_lingkup_detail": [
       {
         "kode": "59112-02-01",
-        "teks": "Khusus untuk animasi · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -73939,7 +73937,7 @@
       },
       {
         "kode": "59112-03-02",
-        "teks": "Khusus untuk animasi · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -74004,7 +74002,7 @@
       },
       {
         "kode": "59112-04-03",
-        "teks": "Seluruh · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Menengah Tinggi",
         "risiko": "Menengah Tinggi",
@@ -74065,7 +74063,7 @@
       },
       {
         "kode": "59112-01-04",
-        "teks": "Seluruh · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -74092,7 +74090,7 @@
       },
       {
         "kode": "59112-02-05",
-        "teks": "Seluruh kecuali animasi · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -74119,7 +74117,7 @@
       },
       {
         "kode": "59112-03-06",
-        "teks": "Seluruh kecuali animasi · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -74146,7 +74144,7 @@
       },
       {
         "kode": "59112-04-07",
-        "teks": "Seluruh kecuali animasi · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -74173,7 +74171,7 @@
       },
       {
         "kode": "59112-01-08",
-        "teks": "Seluruh kecuali animasi · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -74227,7 +74225,7 @@
       },
       {
         "kode": "59112-02-09",
-        "teks": "Seluruh kecuali animasi · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -74264,7 +74262,7 @@
       },
       {
         "kode": "59112-03-10",
-        "teks": "Seluruh kecuali animasi · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -74301,7 +74299,7 @@
       },
       {
         "kode": "59112-04-11",
-        "teks": "Seluruh kecuali animasi · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -74340,7 +74338,7 @@
     "tingkat_resiko_detail": [
       {
         "kode": "59112-02-01",
-        "teks": "Khusus untuk animasi · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -74405,7 +74403,7 @@
       },
       {
         "kode": "59112-03-02",
-        "teks": "Khusus untuk animasi · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -74470,7 +74468,7 @@
       },
       {
         "kode": "59112-04-03",
-        "teks": "Seluruh · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Menengah Tinggi",
         "risiko": "Menengah Tinggi",
@@ -74531,7 +74529,7 @@
       },
       {
         "kode": "59112-01-04",
-        "teks": "Seluruh · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -74558,7 +74556,7 @@
       },
       {
         "kode": "59112-02-05",
-        "teks": "Seluruh kecuali animasi · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -74585,7 +74583,7 @@
       },
       {
         "kode": "59112-03-06",
-        "teks": "Seluruh kecuali animasi · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -74612,7 +74610,7 @@
       },
       {
         "kode": "59112-04-07",
-        "teks": "Seluruh kecuali animasi · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -74639,7 +74637,7 @@
       },
       {
         "kode": "59112-01-08",
-        "teks": "Seluruh kecuali animasi · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -74693,7 +74691,7 @@
       },
       {
         "kode": "59112-02-09",
-        "teks": "Seluruh kecuali animasi · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -74730,7 +74728,7 @@
       },
       {
         "kode": "59112-03-10",
-        "teks": "Seluruh kecuali animasi · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -74767,7 +74765,7 @@
       },
       {
         "kode": "59112-04-11",
-        "teks": "Seluruh kecuali animasi · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -75032,7 +75030,7 @@
       },
       {
         "kode": "59112-04-03",
-        "nama_dokumen": "Memiliki dokumen struktur organisasi yang memuat ketersediaan SDM dengan kompetensi teknis sesuai usaha jasa",
+        "nama_dokumen": "Memiliki dokumen perjanjian kerja antara perusahaan dengan tenaga kerja kompeten untuk memberikan jasa yang berstatus pegawai tetap atau pegawai kontrak minimal 1 tahun, dengan jumlah pegawai paling sedikit: 2 orang level manajer, 2 orang level profesional/ supervisor 4 orang level teknis/operasional/sta",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -75257,7 +75255,7 @@
       },
       {
         "kode": "59112-04-03",
-        "nama_dokumen": "Memiliki dokumen struktur organisasi yang memuat ketersediaan SDM dengan kompetensi teknis sesuai usaha jasa",
+        "nama_dokumen": "Memiliki dokumen bagan alur bisnis proses penjualan jasa",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -75482,7 +75480,7 @@
       },
       {
         "kode": "59112-04-03",
-        "nama_dokumen": "Memiliki dokumen struktur organisasi yang memuat ketersediaan SDM dengan kompetensi teknis sesuai usaha jasa",
+        "nama_dokumen": "Memiliki dokumen berupa: a) spesifikasi mesin dan/atau daftar peralatan, sebagai sarana penunjang dan b) foto mesin/ peralatan, sebagai sarana penunjang",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -75747,7 +75745,7 @@
     "ruang_lingkup_detail": [
       {
         "kode": "56303-01-01",
-        "teks": "Seluruh · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -75784,7 +75782,7 @@
       },
       {
         "kode": "56303-02-02",
-        "teks": "Seluruh · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -75821,7 +75819,7 @@
       },
       {
         "kode": "56303-03-03",
-        "teks": "Seluruh · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -75858,7 +75856,7 @@
       },
       {
         "kode": "56303-04-04",
-        "teks": "Seluruh · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -75897,7 +75895,7 @@
     "tingkat_resiko_detail": [
       {
         "kode": "56303-01-01",
-        "teks": "Seluruh · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -75934,7 +75932,7 @@
       },
       {
         "kode": "56303-02-02",
-        "teks": "Seluruh · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -75971,7 +75969,7 @@
       },
       {
         "kode": "56303-03-03",
-        "teks": "Seluruh · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -76008,7 +76006,7 @@
       },
       {
         "kode": "56303-04-04",
-        "teks": "Seluruh · Pariwisata",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -77628,7 +77626,7 @@
     "ruang_lingkup_detail": [
       {
         "kode": "47599-01-04",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -77663,7 +77661,7 @@
       },
       {
         "kode": "47599-02-09",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -77698,7 +77696,7 @@
       },
       {
         "kode": "47599-03-11",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -77733,7 +77731,7 @@
       },
       {
         "kode": "47599-04-20",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -77770,7 +77768,7 @@
     "tingkat_resiko_detail": [
       {
         "kode": "47599-01-04",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -77805,7 +77803,7 @@
       },
       {
         "kode": "47599-02-09",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -77840,7 +77838,7 @@
       },
       {
         "kode": "47599-03-11",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -77875,7 +77873,7 @@
       },
       {
         "kode": "47599-04-20",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -77952,7 +77950,7 @@
     "ruang_lingkup_detail": [
       {
         "kode": "47713-01-01",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -77987,7 +77985,7 @@
       },
       {
         "kode": "47713-02-08",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -78022,7 +78020,7 @@
       },
       {
         "kode": "47713-03-10",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -78057,7 +78055,7 @@
       },
       {
         "kode": "47713-04-14",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -78094,7 +78092,7 @@
     "tingkat_resiko_detail": [
       {
         "kode": "47713-01-01",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -78129,7 +78127,7 @@
       },
       {
         "kode": "47713-02-08",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -78164,7 +78162,7 @@
       },
       {
         "kode": "47713-03-10",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -78199,7 +78197,7 @@
       },
       {
         "kode": "47713-04-14",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -78276,7 +78274,7 @@
     "ruang_lingkup_detail": [
       {
         "kode": "58290-01-01",
-        "teks": "Penerbitan gim · Komunikasi dan Informatika",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -78309,7 +78307,7 @@
       },
       {
         "kode": "58290-02-02",
-        "teks": "Penerbitan gim · Komunikasi dan Informatika",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -78351,7 +78349,7 @@
       },
       {
         "kode": "58290-03-03",
-        "teks": "Seluruh · Komunikasi dan Informatika",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -78393,7 +78391,7 @@
       },
       {
         "kode": "58290-04-04",
-        "teks": "Seluruh · Komunikasi dan Informatika",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -78435,7 +78433,7 @@
       },
       {
         "kode": "58290-02-05",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Komunikasi dan Informatika",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -78485,7 +78483,7 @@
       },
       {
         "kode": "58290-03-06",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Komunikasi dan Informatika",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -78535,7 +78533,7 @@
       },
       {
         "kode": "58290-04-07",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Komunikasi dan Informatika",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Menengah Tinggi",
         "risiko": "Menengah Tinggi",
@@ -78576,7 +78574,7 @@
       },
       {
         "kode": "58290-01-08",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Komunikasi dan Informatika",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -78609,7 +78607,7 @@
       },
       {
         "kode": "58290-02-09",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Komunikasi dan Informatika",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Tinggi",
         "risiko": "Tinggi",
@@ -78686,7 +78684,7 @@
       },
       {
         "kode": "58290-03-10",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Komunikasi dan Informatika",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Tinggi",
         "risiko": "Tinggi",
@@ -78763,7 +78761,7 @@
       },
       {
         "kode": "58290-04-11",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Komunikasi dan Informatika",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Tinggi",
         "risiko": "Tinggi",
@@ -78840,7 +78838,7 @@
       },
       {
         "kode": "58290-02-12",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Komunikasi dan Informatika",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -78890,7 +78888,7 @@
       },
       {
         "kode": "58290-03-13",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Komunikasi dan Informatika",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -78940,7 +78938,7 @@
       },
       {
         "kode": "58290-04-14",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Komunikasi dan Informatika",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Menengah Tinggi",
         "risiko": "Menengah Tinggi",
@@ -78983,7 +78981,7 @@
     "tingkat_resiko_detail": [
       {
         "kode": "58290-01-01",
-        "teks": "Penerbitan gim · Komunikasi dan Informatika",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -79016,7 +79014,7 @@
       },
       {
         "kode": "58290-02-02",
-        "teks": "Penerbitan gim · Komunikasi dan Informatika",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -79058,7 +79056,7 @@
       },
       {
         "kode": "58290-03-03",
-        "teks": "Seluruh · Komunikasi dan Informatika",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -79100,7 +79098,7 @@
       },
       {
         "kode": "58290-04-04",
-        "teks": "Seluruh · Komunikasi dan Informatika",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -79142,7 +79140,7 @@
       },
       {
         "kode": "58290-02-05",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Komunikasi dan Informatika",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -79192,7 +79190,7 @@
       },
       {
         "kode": "58290-03-06",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Komunikasi dan Informatika",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -79242,7 +79240,7 @@
       },
       {
         "kode": "58290-04-07",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Komunikasi dan Informatika",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Menengah Tinggi",
         "risiko": "Menengah Tinggi",
@@ -79283,7 +79281,7 @@
       },
       {
         "kode": "58290-01-08",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Komunikasi dan Informatika",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -79316,7 +79314,7 @@
       },
       {
         "kode": "58290-02-09",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Komunikasi dan Informatika",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Tinggi",
         "risiko": "Tinggi",
@@ -79393,7 +79391,7 @@
       },
       {
         "kode": "58290-03-10",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Komunikasi dan Informatika",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Tinggi",
         "risiko": "Tinggi",
@@ -79470,7 +79468,7 @@
       },
       {
         "kode": "58290-04-11",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Komunikasi dan Informatika",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Tinggi",
         "risiko": "Tinggi",
@@ -79547,7 +79545,7 @@
       },
       {
         "kode": "58290-02-12",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Komunikasi dan Informatika",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -79597,7 +79595,7 @@
       },
       {
         "kode": "58290-03-13",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Komunikasi dan Informatika",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Menengah Rendah",
         "risiko": "Menengah Rendah",
@@ -79647,7 +79645,7 @@
       },
       {
         "kode": "58290-04-14",
-        "teks": "Selain Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dan Penyelenggara Sarana Perantara (PSP) · Komunikasi dan Informatika",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Menengah Tinggi",
         "risiko": "Menengah Tinggi",
@@ -81159,7 +81157,7 @@
       },
       {
         "kode": "58290-04-07",
-        "nama_dokumen": "Memiliki dokumen struktur organisasi yang memuat ketersediaan SDM dengan kompetensi teknis sesuai usaha jasa",
+        "nama_dokumen": "Memiliki dokumen perjanjian kerja antara perusahaan dengan tenaga kerja kompeten untuk memberikan jasa yang berstatus pegawai tetap atau pegawai kontrak minimal 1 tahun, dengan jumlah pegawai paling sedikit 2 orang level manajer, 2 orang level profesional/ supervisor 4 orang level teknis/operasional/staff",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -81276,7 +81274,7 @@
       },
       {
         "kode": "58290-04-07",
-        "nama_dokumen": "Memiliki dokumen struktur organisasi yang memuat ketersediaan SDM dengan kompetensi teknis sesuai usaha jasa",
+        "nama_dokumen": "Memiliki dokumen bagan alur bisnis proses penjualan jasa",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -81393,7 +81391,7 @@
       },
       {
         "kode": "58290-04-07",
-        "nama_dokumen": "Memiliki dokumen struktur organisasi yang memuat ketersediaan SDM dengan kompetensi teknis sesuai usaha jasa",
+        "nama_dokumen": "Memiliki dokumen berupa: a) daftar peralatan prasarana pendukung dan b) foto peralatan prasarana pendukung",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -81843,7 +81841,7 @@
       },
       {
         "kode": "58290-02-09",
-        "nama_dokumen": "Alamat website dan/atau nama aplikasi",
+        "nama_dokumen": "Layanan pengaduan konsumen berupa nomor kontak dan/atau alamat surat elektronik (email)",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -82176,7 +82174,7 @@
       },
       {
         "kode": "58290-02-09",
-        "nama_dokumen": "Alamat website dan/atau nama aplikasi",
+        "nama_dokumen": "Layanan pengaduan konsumen yang memuat informasi kontak pengaduan konsumen oleh unit kerja di lingkungan Kementerian Perdagangan yang membidangi perlindungan konsumen dan tertib niaga",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -82509,7 +82507,7 @@
       },
       {
         "kode": "58290-02-09",
-        "nama_dokumen": "Alamat website dan/atau nama aplikasi",
+        "nama_dokumen": "Dalam hal sistem elektronik berbentuk aplikasi mobile, wajib menyediakan sistem elektronik berbasis situs atau web yang identic (mirroring) dengan sistem elektronik berbasis aplikasi mobile",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -83175,7 +83173,7 @@
       },
       {
         "kode": "58290-03-10",
-        "nama_dokumen": "Alamat website dan/atau nama aplikasi",
+        "nama_dokumen": "Layanan pengaduan konsumen berupa nomor kontak dan/atau alamat surat elektronik (email)",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -83508,7 +83506,7 @@
       },
       {
         "kode": "58290-03-10",
-        "nama_dokumen": "Alamat website dan/atau nama aplikasi",
+        "nama_dokumen": "Layanan pengaduan konsumen yang memuat informasi kontak pengaduan konsumen oleh unit kerja di lingkungan Kementerian Perdagangan yang membidangi perlindungan konsumen dan tertib niaga",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -83841,7 +83839,7 @@
       },
       {
         "kode": "58290-03-10",
-        "nama_dokumen": "Alamat website dan/atau nama aplikasi",
+        "nama_dokumen": "Dalam hal sistem elektronik berbentuk aplikasi mobile, wajib menyediakan sistem elektronik berbasis situs atau web yang identic (mirroring) dengan sistem elektronik berbasis aplikasi mobile",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -84507,7 +84505,7 @@
       },
       {
         "kode": "58290-04-11",
-        "nama_dokumen": "Alamat website dan/atau nama aplikasi",
+        "nama_dokumen": "Layanan pengaduan konsumen berupa nomor kontak dan/atau alamat surat elektronik (email)",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -84840,7 +84838,7 @@
       },
       {
         "kode": "58290-04-11",
-        "nama_dokumen": "Alamat website dan/atau nama aplikasi",
+        "nama_dokumen": "Layanan pengaduan konsumen yang memuat informasi kontak pengaduan konsumen oleh unit kerja di lingkungan Kementerian Perdagangan yang membidangi perlindungan konsumen dan tertib niaga",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -85173,7 +85171,7 @@
       },
       {
         "kode": "58290-04-11",
-        "nama_dokumen": "Alamat website dan/atau nama aplikasi",
+        "nama_dokumen": "Dalam hal sistem elektronik berbentuk aplikasi mobile, wajib menyediakan sistem elektronik berbasis situs atau web yang identic (mirroring) dengan sistem elektronik berbasis aplikasi mobile",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -85623,7 +85621,7 @@
       },
       {
         "kode": "58290-04-14",
-        "nama_dokumen": "Memiliki dokumen struktur organisasi yang memuat ketersediaan SDM dengan kompetensi teknis sesuai usaha jasa",
+        "nama_dokumen": "Memiliki dokumen perjanjian kerja antara perusahaan dengan tenaga kerja kompeten untuk memberikan jasa yang berstatus pegawai tetap atau pegawai kontrak minimal 1 tahun, dengan jumlah pegawai paling sedikit: 2 orang level manajer, 2 orang level profesional/ supervisor 4 orang level teknis/ operasional/ staff",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -85740,7 +85738,7 @@
       },
       {
         "kode": "58290-04-14",
-        "nama_dokumen": "Memiliki dokumen struktur organisasi yang memuat ketersediaan SDM dengan kompetensi teknis sesuai usaha jasa",
+        "nama_dokumen": "Memiliki dokumen bagan alur bisnis proses penjualan jasa",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -85857,7 +85855,7 @@
       },
       {
         "kode": "58290-04-14",
-        "nama_dokumen": "Memiliki dokumen struktur organisasi yang memuat ketersediaan SDM dengan kompetensi teknis sesuai usaha jasa",
+        "nama_dokumen": "Memiliki dokumen berupa: a) daftar peralatan prasarana pendukung dan b) foto peralatan prasarana pendukung",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -86014,7 +86012,7 @@
     "ruang_lingkup_detail": [
       {
         "kode": "62209-01-01",
-        "teks": "Seluruh · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Menengah Tinggi",
         "risiko": "Menengah Tinggi",
@@ -86064,7 +86062,7 @@
       },
       {
         "kode": "62209-02-02",
-        "teks": "Seluruh · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Menengah Tinggi",
         "risiko": "Menengah Tinggi",
@@ -86114,7 +86112,7 @@
       },
       {
         "kode": "62209-03-03",
-        "teks": "Seluruh · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Menengah Tinggi",
         "risiko": "Menengah Tinggi",
@@ -86164,7 +86162,7 @@
       },
       {
         "kode": "62209-04-04",
-        "teks": "Seluruh · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Menengah Tinggi",
         "risiko": "Menengah Tinggi",
@@ -86212,7 +86210,7 @@
     "tingkat_resiko_detail": [
       {
         "kode": "62209-01-01",
-        "teks": "Seluruh · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Menengah Tinggi",
         "risiko": "Menengah Tinggi",
@@ -86262,7 +86260,7 @@
       },
       {
         "kode": "62209-02-02",
-        "teks": "Seluruh · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Menengah Tinggi",
         "risiko": "Menengah Tinggi",
@@ -86312,7 +86310,7 @@
       },
       {
         "kode": "62209-03-03",
-        "teks": "Seluruh · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Menengah Tinggi",
         "risiko": "Menengah Tinggi",
@@ -86362,7 +86360,7 @@
       },
       {
         "kode": "62209-04-04",
-        "teks": "Seluruh · Perindustrian",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Menengah Tinggi",
         "risiko": "Menengah Tinggi",
@@ -86555,7 +86553,7 @@
       },
       {
         "kode": "62209-01-01",
-        "nama_dokumen": "Memiliki dokumen struktur organisasi yang memuat ketersediaan SDM dengan kompetensi teknis sesuai usaha jasa",
+        "nama_dokumen": "Memiliki dokumen perjanjian kerja antara perusahaan dengan tenaga kerja kompeten untuk memberikan jasa yang berstatus pegawai tetap atau pegawai kontrak minimal 1 tahun, dengan jumlah pegawai paling sedikit: a) Industri skala kecil: 1 orang level teknis/ operasional/staff b) Industri skala menengah: 1 orang level manajer, 1 orang level profesional/ supervisor, dan 1 orang level teknis/ operasional/staff",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -86699,7 +86697,7 @@
       },
       {
         "kode": "62209-01-01",
-        "nama_dokumen": "Memiliki dokumen struktur organisasi yang memuat ketersediaan SDM dengan kompetensi teknis sesuai usaha jasa",
+        "nama_dokumen": "Memiliki dokumen bagan alur bisnis proses penjualan jasa",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -86843,7 +86841,7 @@
       },
       {
         "kode": "62209-01-01",
-        "nama_dokumen": "Memiliki dokumen struktur organisasi yang memuat ketersediaan SDM dengan kompetensi teknis sesuai usaha jasa",
+        "nama_dokumen": "Memiliki dokumen berupa: a) Daftar peralatan prasarana pendukung dan b) Foto peralatan prasarana pendukung",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -86987,7 +86985,7 @@
       },
       {
         "kode": "62209-01-01",
-        "nama_dokumen": "Memiliki dokumen struktur organisasi yang memuat ketersediaan SDM dengan kompetensi teknis sesuai usaha jasa",
+        "nama_dokumen": "Dalam hal memproduksi Alat Kesehatan, memiliki: a) Dokumen perjanjian kerja yang membuktikan kepemilikan karyawan yang bekerja sebagai Penanggung Jawab Teknis (PJT) Alat Kesehatan b) Memiliki Surat Pernyataan Komitmen Pemenuhan Cara Pembuatan yang Baik (CPB) untuk Alat Kesehatan",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -87275,7 +87273,7 @@
       },
       {
         "kode": "62209-02-02",
-        "nama_dokumen": "Memiliki dokumen struktur organisasi yang memuat ketersediaan SDM dengan kompetensi teknis sesuai usaha jasa",
+        "nama_dokumen": "Memiliki dokumen perjanjian kerja antara perusahaan dengan tenaga kerja kompeten untuk memberikan jasa yang berstatus pegawai tetap atau pegawai kontrak minimal 1 tahun, dengan jumlah pegawai paling sedikit: a) Industri skala kecil: 1 orang level teknis/ operasional/staff b) Industri skala menengah: 1 orang level manajer, 1 orang level profesional/ supervisor, dan 1 orang level teknis/ operasional/staff",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -87419,7 +87417,7 @@
       },
       {
         "kode": "62209-02-02",
-        "nama_dokumen": "Memiliki dokumen struktur organisasi yang memuat ketersediaan SDM dengan kompetensi teknis sesuai usaha jasa",
+        "nama_dokumen": "Memiliki dokumen bagan alur bisnis proses penjualan jasa",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -87563,7 +87561,7 @@
       },
       {
         "kode": "62209-02-02",
-        "nama_dokumen": "Memiliki dokumen struktur organisasi yang memuat ketersediaan SDM dengan kompetensi teknis sesuai usaha jasa",
+        "nama_dokumen": "Memiliki dokumen berupa: a) Daftar peralatan prasarana pendukung dan b) Foto peralatan prasarana pendukung",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -87707,7 +87705,7 @@
       },
       {
         "kode": "62209-02-02",
-        "nama_dokumen": "Memiliki dokumen struktur organisasi yang memuat ketersediaan SDM dengan kompetensi teknis sesuai usaha jasa",
+        "nama_dokumen": "Dalam hal memproduksi Alat Kesehatan, memiliki: a) Dokumen perjanjian kerja yang membuktikan kepemilikan karyawan yang bekerja sebagai Penanggung Jawab Teknis (PJT) Alat Kesehatan b) Memiliki Surat Pernyataan Komitmen Pemenuhan Cara Pembuatan yang Baik (CPB) untuk Alat Kesehatan",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -87995,7 +87993,7 @@
       },
       {
         "kode": "62209-03-03",
-        "nama_dokumen": "Memiliki dokumen struktur organisasi yang memuat ketersediaan SDM dengan kompetensi teknis sesuai usaha jasa",
+        "nama_dokumen": "Memiliki dokumen perjanjian kerja antara perusahaan dengan tenaga kerja kompeten untuk memberikan jasa yang berstatus pegawai tetap atau pegawai kontrak minimal 1 tahun, dengan jumlah pegawai paling sedikit: a) Industri skala kecil: 1 orang level teknis/ operasional/staff b) Industri skala menengah: 1 orang level manajer, 1 orang level profesional/ supervisor, dan 1 orang level teknis/ operasional/staff",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -88139,7 +88137,7 @@
       },
       {
         "kode": "62209-03-03",
-        "nama_dokumen": "Memiliki dokumen struktur organisasi yang memuat ketersediaan SDM dengan kompetensi teknis sesuai usaha jasa",
+        "nama_dokumen": "Memiliki dokumen bagan alur bisnis proses penjualan jasa",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -88283,7 +88281,7 @@
       },
       {
         "kode": "62209-03-03",
-        "nama_dokumen": "Memiliki dokumen struktur organisasi yang memuat ketersediaan SDM dengan kompetensi teknis sesuai usaha jasa",
+        "nama_dokumen": "Memiliki dokumen berupa: a) Daftar peralatan prasarana pendukung dan b) Foto peralatan prasarana pendukung",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -88427,7 +88425,7 @@
       },
       {
         "kode": "62209-03-03",
-        "nama_dokumen": "Memiliki dokumen struktur organisasi yang memuat ketersediaan SDM dengan kompetensi teknis sesuai usaha jasa",
+        "nama_dokumen": "Dalam hal memproduksi Alat Kesehatan, memiliki: a) Dokumen perjanjian kerja yang membuktikan kepemilikan karyawan yang bekerja sebagai Penanggung Jawab Teknis (PJT) Alat Kesehatan b) Memiliki Surat Pernyataan Komitmen Pemenuhan Cara Pembuatan yang Baik (CPB) untuk Alat Kesehatan",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -88715,7 +88713,7 @@
       },
       {
         "kode": "62209-04-04",
-        "nama_dokumen": "Memiliki dokumen struktur organisasi yang memuat ketersediaan SDM dengan kompetensi teknis sesuai usaha jasa",
+        "nama_dokumen": "Memiliki dokumen perjanjian kerja antara perusahaan dengan tenaga kerja kompeten untuk memberikan jasa yang berstatus pegawai tetap atau pegawai kontrak minimal 1 tahun, dengan jumlah pegawai paling sedikit: 2 orang level manajer, 2 orang level profesional/ supervisor 4 orang level teknis/ operasional/ staff",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -88859,7 +88857,7 @@
       },
       {
         "kode": "62209-04-04",
-        "nama_dokumen": "Memiliki dokumen struktur organisasi yang memuat ketersediaan SDM dengan kompetensi teknis sesuai usaha jasa",
+        "nama_dokumen": "Memiliki dokumen bagan alur bisnis proses penjualan jasa",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -89003,7 +89001,7 @@
       },
       {
         "kode": "62209-04-04",
-        "nama_dokumen": "Memiliki dokumen struktur organisasi yang memuat ketersediaan SDM dengan kompetensi teknis sesuai usaha jasa",
+        "nama_dokumen": "Memiliki dokumen berupa: a) daftar peralatan prasarana pendukung dan b) foto peralatan prasarana pendukung",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -89147,7 +89145,7 @@
       },
       {
         "kode": "62209-04-04",
-        "nama_dokumen": "Memiliki dokumen struktur organisasi yang memuat ketersediaan SDM dengan kompetensi teknis sesuai usaha jasa",
+        "nama_dokumen": "Dalam hal memproduksi Alat Kesehatan, memiliki: a) Dokumen perjanjian kerja yang membuktikan kepemilikan karyawan yang bekerja sebagai Penanggung Jawab Teknis (PJT) Alat KesehataN b) Memiliki Surat Pernyataan Komitmen Pemenuhan Cara Pembuatan yang Baik (CPB) untuk Alat Kesehatan",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -89331,7 +89329,7 @@
     "ruang_lingkup_detail": [
       {
         "kode": "96900-01-01",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -89366,7 +89364,7 @@
       },
       {
         "kode": "96900-02-02",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -89401,7 +89399,7 @@
       },
       {
         "kode": "96900-03-03",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -89436,7 +89434,7 @@
       },
       {
         "kode": "96900-04-04",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -89473,7 +89471,7 @@
     "tingkat_resiko_detail": [
       {
         "kode": "96900-01-01",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -89508,7 +89506,7 @@
       },
       {
         "kode": "96900-02-02",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -89543,7 +89541,7 @@
       },
       {
         "kode": "96900-03-03",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -89578,7 +89576,7 @@
       },
       {
         "kode": "96900-04-04",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -89655,7 +89653,7 @@
     "ruang_lingkup_detail": [
       {
         "kode": "46523-01-01",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -89690,7 +89688,7 @@
       },
       {
         "kode": "46523-02-02",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -89725,7 +89723,7 @@
       },
       {
         "kode": "46523-03-03",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -89760,7 +89758,7 @@
       },
       {
         "kode": "46523-04-04",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -89797,7 +89795,7 @@
     "tingkat_resiko_detail": [
       {
         "kode": "46523-01-01",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -89832,7 +89830,7 @@
       },
       {
         "kode": "46523-02-02",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -89867,7 +89865,7 @@
       },
       {
         "kode": "46523-03-03",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -89902,7 +89900,7 @@
       },
       {
         "kode": "46523-04-04",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -90408,7 +90406,7 @@
     "ruang_lingkup_detail": [
       {
         "kode": "46512-01-01",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -90443,7 +90441,7 @@
       },
       {
         "kode": "46512-02-02",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -90478,7 +90476,7 @@
       },
       {
         "kode": "46512-03-03",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -90513,7 +90511,7 @@
       },
       {
         "kode": "46512-04-04",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -90550,7 +90548,7 @@
     "tingkat_resiko_detail": [
       {
         "kode": "46512-01-01",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -90585,7 +90583,7 @@
       },
       {
         "kode": "46512-02-02",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -90620,7 +90618,7 @@
       },
       {
         "kode": "46512-03-03",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -90655,7 +90653,7 @@
       },
       {
         "kode": "46512-04-04",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -91161,7 +91159,7 @@
     "ruang_lingkup_detail": [
       {
         "kode": "41011-01-01",
-        "teks": "Kode Subklasifikasi Konstruksi Gedung Hunian : BG001 · Pekerjaan Umum dan Perumahan Rakyat",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Menengah Tinggi",
         "risiko": "Menengah Tinggi",
@@ -91198,7 +91196,7 @@
       },
       {
         "kode": "41011-02-02",
-        "teks": "Kode Subklasifikasi Konstruksi Gedung Hunian : BG001 · Pekerjaan Umum dan Perumahan Rakyat",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Menengah Tinggi",
         "risiko": "Menengah Tinggi",
@@ -91235,7 +91233,7 @@
       },
       {
         "kode": "41011-03-03",
-        "teks": "Kode Subklasifikasi Bangunan Gedung Hunian : GT001 · Pekerjaan Umum dan Perumahan Rakyat",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Menengah Tinggi",
         "risiko": "Menengah Tinggi",
@@ -91272,7 +91270,7 @@
       },
       {
         "kode": "41011-04-04",
-        "teks": "Kode Subklasifikasi Bangunan Gedung Hunian : GT001 · Pekerjaan Umum dan Perumahan Rakyat",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Menengah Tinggi",
         "risiko": "Menengah Tinggi",
@@ -91314,7 +91312,7 @@
       },
       {
         "kode": "41011-04-05",
-        "teks": "Kode Subklasifikasi Bangunan Gedung Hunian : GT001 · Pekerjaan Umum dan Perumahan Rakyat",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Menengah Tinggi",
         "risiko": "Menengah Tinggi",
@@ -91358,7 +91356,7 @@
     "tingkat_resiko_detail": [
       {
         "kode": "41011-01-01",
-        "teks": "Kode Subklasifikasi Konstruksi Gedung Hunian : BG001 · Pekerjaan Umum dan Perumahan Rakyat",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Menengah Tinggi",
         "risiko": "Menengah Tinggi",
@@ -91395,7 +91393,7 @@
       },
       {
         "kode": "41011-02-02",
-        "teks": "Kode Subklasifikasi Konstruksi Gedung Hunian : BG001 · Pekerjaan Umum dan Perumahan Rakyat",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Menengah Tinggi",
         "risiko": "Menengah Tinggi",
@@ -91432,7 +91430,7 @@
       },
       {
         "kode": "41011-03-03",
-        "teks": "Kode Subklasifikasi Bangunan Gedung Hunian : GT001 · Pekerjaan Umum dan Perumahan Rakyat",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Menengah Tinggi",
         "risiko": "Menengah Tinggi",
@@ -91469,7 +91467,7 @@
       },
       {
         "kode": "41011-04-04",
-        "teks": "Kode Subklasifikasi Bangunan Gedung Hunian : GT001 · Pekerjaan Umum dan Perumahan Rakyat",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Menengah Tinggi",
         "risiko": "Menengah Tinggi",
@@ -91511,7 +91509,7 @@
       },
       {
         "kode": "41011-04-05",
-        "teks": "Kode Subklasifikasi Bangunan Gedung Hunian : GT001 · Pekerjaan Umum dan Perumahan Rakyat",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Menengah Tinggi",
         "risiko": "Menengah Tinggi",
@@ -91673,7 +91671,7 @@
       },
       {
         "kode": "41011-01-01",
-        "nama_dokumen": "Standar Penetapan Kemampuan Badan Usaha Jasa Konstruksi /Sertifikat Badan Usaha (SBU) Subklasifikasi: BG001",
+        "nama_dokumen": "Merupakan BUJKN bukan usaha orang perseorangan",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -91790,7 +91788,7 @@
       },
       {
         "kode": "41011-01-01",
-        "nama_dokumen": "Standar Penetapan Kemampuan Badan Usaha Jasa Konstruksi /Sertifikat Badan Usaha (SBU) Subklasifikasi: BG001",
+        "nama_dokumen": "Nomor Standar Penetapan Kemampuan Badan Usaha Jasa Konstruksi (Nomor SBU PB-UMKU)",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -91907,7 +91905,7 @@
       },
       {
         "kode": "41011-01-01",
-        "nama_dokumen": "Standar Penetapan Kemampuan Badan Usaha Jasa Konstruksi /Sertifikat Badan Usaha (SBU) Subklasifikasi: BG001",
+        "nama_dokumen": "Bukti bayar PNBP",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -92141,7 +92139,7 @@
       },
       {
         "kode": "41011-02-02",
-        "nama_dokumen": "Standar Penetapan Kemampuan Badan Usaha Jasa Konstruksi /Sertifikat Badan Usaha (SBU) Subklasifikasi: BG001",
+        "nama_dokumen": "Merupakan BUJKN bukan usaha orang perseorangan",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -92258,7 +92256,7 @@
       },
       {
         "kode": "41011-02-02",
-        "nama_dokumen": "Standar Penetapan Kemampuan Badan Usaha Jasa Konstruksi /Sertifikat Badan Usaha (SBU) Subklasifikasi: BG001",
+        "nama_dokumen": "Nomor Standar Penetapan Kemampuan Badan Usaha Jasa Konstruksi (Nomor SBU PB-UMKU)",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -92375,7 +92373,7 @@
       },
       {
         "kode": "41011-02-02",
-        "nama_dokumen": "Standar Penetapan Kemampuan Badan Usaha Jasa Konstruksi /Sertifikat Badan Usaha (SBU) Subklasifikasi: BG001",
+        "nama_dokumen": "Bukti bayar PNBP",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -92609,7 +92607,7 @@
       },
       {
         "kode": "41011-03-03",
-        "nama_dokumen": "Standar Penetapan Kemampuan Badan Usaha Jasa Konstruksi /Sertifikat Badan Usaha (SBU) Subklasifikasi: BG001",
+        "nama_dokumen": "Merupakan BUJKN bukan usaha orang perseorangan",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -92726,7 +92724,7 @@
       },
       {
         "kode": "41011-03-03",
-        "nama_dokumen": "Standar Penetapan Kemampuan Badan Usaha Jasa Konstruksi /Sertifikat Badan Usaha (SBU) Subklasifikasi: BG001",
+        "nama_dokumen": "Nomor Standar Penetapan Kemampuan Badan Usaha Jasa Konstruksi (Nomor SBU PB-UMKU)",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -92843,7 +92841,7 @@
       },
       {
         "kode": "41011-03-03",
-        "nama_dokumen": "Standar Penetapan Kemampuan Badan Usaha Jasa Konstruksi /Sertifikat Badan Usaha (SBU) Subklasifikasi: BG001",
+        "nama_dokumen": "Bukti bayar PNBP",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -93104,7 +93102,7 @@
       },
       {
         "kode": "41011-04-04",
-        "nama_dokumen": "Standar Penetapan Kemampuan Badan Usaha Jasa Konstruksi /Sertifikat Badan Usaha (SBU) Subklasifikasi: BG001",
+        "nama_dokumen": "Untuk Kantor Perwakilan BUJKA: a. Merupakan badan usaha jasa konstruksi berbadan hukum di negara asal b. Membayar biaya administrasi perizinan berusaha per jenis usaha sesuai peraturan perundang undangan yang berlaku",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -93248,7 +93246,7 @@
       },
       {
         "kode": "41011-04-04",
-        "nama_dokumen": "Standar Penetapan Kemampuan Badan Usaha Jasa Konstruksi /Sertifikat Badan Usaha (SBU) Subklasifikasi: BG001",
+        "nama_dokumen": "Untuk BUJK PMA: a. Penanam modal asing/ pemegang saham asing merupakan badan usaha jasa konstruksi berbadan hukum di negara asal yang dibuktikan dengan: 1) Akta pendirian yang dilegalisasi 2) Sertifikat perizinan bidang usaha jasa konstruksi berkualifikasi Besar di negara asal atau yang sejenis yang dilegalisasi b. Penanam modal dalam negeri/ pemegang saham dalam negeri merupakan badan usaha jasa konstruksi nasional berkualifikasi Besar yang dibuktikan dengan: 1) Perizinan berusaha sub sektor jasa konstruksi 2) Sertifikat Badan Usaha sub sektor jasa konstruksi",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -93392,7 +93390,7 @@
       },
       {
         "kode": "41011-04-04",
-        "nama_dokumen": "Standar Penetapan Kemampuan Badan Usaha Jasa Konstruksi /Sertifikat Badan Usaha (SBU) Subklasifikasi: BG001",
+        "nama_dokumen": "Nomor Standar Penetapan Kemampuan Badan Usaha Jasa Konstruksi (Nomor SBU PB-UMKU)",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -93536,7 +93534,7 @@
       },
       {
         "kode": "41011-04-04",
-        "nama_dokumen": "Standar Penetapan Kemampuan Badan Usaha Jasa Konstruksi /Sertifikat Badan Usaha (SBU) Subklasifikasi: BG001",
+        "nama_dokumen": "Bukti bayar PNBP",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -93824,7 +93822,7 @@
       },
       {
         "kode": "41011-04-05",
-        "nama_dokumen": "Standar Penetapan Kemampuan Badan Usaha Jasa Konstruksi /Sertifikat Badan Usaha (SBU) Subklasifikasi: GT001",
+        "nama_dokumen": "Untuk Kantor Perwakilan BUJKA: a. Merupakan badan usaha jasa konstruksi berbadan hukum di negara asal b. Membayar biaya administrasi perizinan berusaha per jenis usaha sesuai peraturan perundang undangan yang berlaku",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -93968,7 +93966,7 @@
       },
       {
         "kode": "41011-04-05",
-        "nama_dokumen": "Standar Penetapan Kemampuan Badan Usaha Jasa Konstruksi /Sertifikat Badan Usaha (SBU) Subklasifikasi: GT001",
+        "nama_dokumen": "Untuk BUJK PMA: a. Penanam modal asing/ pemegang saham asing merupakan badan usaha jasa konstruksi berbadan hukum di negara asal yang dibuktikan dengan: 1) Akta pendirian yang dilegalisasi 2) Sertifikat perizinan bidang usaha jasa konstruksi berkualifikasi Besar di negara asal atau yang sejenis yang dilegalisasi b. Penanam modal dalam negeri/ pemegang saham dalam negeri merupakan badan usaha jasa konstruksi nasional berkualifikasi Besar yang dibuktikan dengan: 1) Perizinan berusaha sub sektor jasa konstruksi 2) Sertifikat Badan Usaha sub sektor jasa konstruksi",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -94112,7 +94110,7 @@
       },
       {
         "kode": "41011-04-05",
-        "nama_dokumen": "Standar Penetapan Kemampuan Badan Usaha Jasa Konstruksi /Sertifikat Badan Usaha (SBU) Subklasifikasi: GT001",
+        "nama_dokumen": "Nomor Standar Penetapan Kemampuan Badan Usaha Jasa Konstruksi (Nomor SBU PB-UMKU)",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -94256,7 +94254,7 @@
       },
       {
         "kode": "41011-04-05",
-        "nama_dokumen": "Standar Penetapan Kemampuan Badan Usaha Jasa Konstruksi /Sertifikat Badan Usaha (SBU) Subklasifikasi: GT001",
+        "nama_dokumen": "Bukti bayar PNBP",
         "parameter_kewenangan": [],
         "persyaratan": [
           {
@@ -94440,7 +94438,7 @@
     "ruang_lingkup_detail": [
       {
         "kode": "46731-01-01",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -94480,7 +94478,7 @@
       },
       {
         "kode": "46731-02-02",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -94520,7 +94518,7 @@
       },
       {
         "kode": "46731-03-03",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -94560,7 +94558,7 @@
       },
       {
         "kode": "46731-04-04",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -94602,7 +94600,7 @@
     "tingkat_resiko_detail": [
       {
         "kode": "46731-01-01",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -94642,7 +94640,7 @@
       },
       {
         "kode": "46731-02-02",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -94682,7 +94680,7 @@
       },
       {
         "kode": "46731-03-03",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -94722,7 +94720,7 @@
       },
       {
         "kode": "46731-04-04",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -95233,7 +95231,7 @@
     "ruang_lingkup_detail": [
       {
         "kode": "46738-01-01",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -95273,7 +95271,7 @@
       },
       {
         "kode": "46738-02-02",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -95313,7 +95311,7 @@
       },
       {
         "kode": "46738-03-03",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -95353,7 +95351,7 @@
       },
       {
         "kode": "46738-04-04",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -95395,7 +95393,7 @@
     "tingkat_resiko_detail": [
       {
         "kode": "46738-01-01",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -95435,7 +95433,7 @@
       },
       {
         "kode": "46738-02-02",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -95475,7 +95473,7 @@
       },
       {
         "kode": "46738-03-03",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -95515,7 +95513,7 @@
       },
       {
         "kode": "46738-04-04",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Besar",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -96026,7 +96024,7 @@
     "ruang_lingkup_detail": [
       {
         "kode": "96220-01-01",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -96057,7 +96055,7 @@
       },
       {
         "kode": "96220-02-02",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -96088,7 +96086,7 @@
       },
       {
         "kode": "96220-03-03",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -96121,7 +96119,7 @@
     "tingkat_resiko_detail": [
       {
         "kode": "96220-01-01",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Mikro",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -96152,7 +96150,7 @@
       },
       {
         "kode": "96220-02-02",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Kecil",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",
@@ -96183,7 +96181,7 @@
       },
       {
         "kode": "96220-03-03",
-        "teks": "Seluruh · Perdagangan",
+        "teks": "",
         "skala_usaha": "Usaha Menengah",
         "tingkat_resiko": "Rendah",
         "risiko": "Rendah",

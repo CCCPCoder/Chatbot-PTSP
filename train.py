@@ -34,12 +34,12 @@ HIDDEN_SIZE = 256
 NUM_LAYERS = 2
 DROPOUT = 0.5
 LEARNING_RATE = 0.001
-EPOCHS = 100
+EPOCHS = 50
 
-model_name = "model_oss.pth"
+model_name = "model_oss_generated.pth"
 model_name_temp = "model_temp.pth"
-config_name = "config_oss.pkl"
-intent_name = "intents_oss.json"
+config_name = "config_oss_generated.pkl"
+intent_name = "intents_oss_generated.json"
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
@@ -53,7 +53,7 @@ torch.manual_seed(RANDOM_STATE)
 # LOAD DATASET
 # =====================================================
 
-with open("intents.json", "r", encoding="utf-8") as file:
+with open(intent_name, "r", encoding="utf-8") as file:
     intents = json.load(file)
 
 sentences = []

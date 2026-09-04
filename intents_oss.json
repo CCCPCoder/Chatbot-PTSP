@@ -812,15 +812,6 @@
             ]
         },
         {
-            "tag": "layanan_oss_kelompok_56102_ruang_lingkup_1_usaha_mikro",
-            "patterns": [
-                "o"
-            ],
-            "responses": [
-                "Untuk ruang lingkup kedai makan untuk wilayah pariwisata dengan skala usaha Usaha Mikro, tingkat risiko untuk usaha ini adalah Menengah Rendah. Pelaku Usaha tidak dibatasi untuk luas lahan, Jangka Waktu tidak ditentukan, dan dengan Perizinan Berusaha Sertifikat Standar, dan untuk lebih detailnya sebagai berikut :\nKewenangan:\n1. PMA -> Menteri/Kepala Badan\n2. Seluruh -> Bupati/Walikota\nPersyaratan:\nTidak Ada\nKewajiban:\n1. Memiliki Label Higiene Sanitasi Pangan (HSP)\n2. Menyampaikan laporan kegiatan secara berkala\n3. Menyampaikan dokumen penerapan standar berkala"
-            ]
-        },
-        {
             "tag": "layanan_oss_cari_ruang_lingkup_kedai_makan_56102",
             "patterns": [
                 "Apakah usaha kedai makan saya termasuk Kedai Makan · Pariwisata pada KBLI 2025 kode 56102?",

@@ -40,13 +40,17 @@
     </a>
     <div class="training-section">
         <h2>Pelatihan Model Chatbot</h2>
-        <button id="trainButton" onclick="trainModel()" class="btn train">
-            Latih Model
-        </button>
+        <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
+            <button id="trainButton" onclick="trainModel()" class="btn train">
+                Latih Model
+            </button>
+            <button id="cancelButton" onclick="cancelTraining()" class="btn delete" type="button" style="display: none;">
+                Batalkan Training
+            </button>
+        </div>
         <p id="trainingStatus">
             Training belum dijalankan.
         </p>
-        
     </div>
     <table>
         <thead>
@@ -129,6 +133,38 @@ async function trainModel() {
             "Latih Model";
     }
 }
+
+async function cancelTraining() {
+    const cancelButton = document.getElementById("cancelButton");
+    const confirmation = confirm(
+        "Apakah Anda yakin ingin membatalkan training yang sedang berjalan?"
+    );
+    if (!confirmation) {
+        return;
+    }
+
+    cancelButton.disabled = true;
+    cancelButton.innerText = "Membatalkan...";
+
+    try {
+        const response = await fetch(
+            "/admin/train/cancel",
+            {
+                method: "POST"
+            }
+        );
+        const data = await response.json();
+        if (!response.ok) {
+            throw new Error(data.message || "Gagal membatalkan training.");
+        }
+        await checkTrainingStatus();
+    } catch (error) {
+        console.error(error);
+        alert(error.message || "Gagal membatalkan training.");
+        cancelButton.disabled = false;
+        cancelButton.innerText = "Batalkan Training";
+    }
+}
 //Monitor Training
 function startTrainingMonitor() {
     if (trainingInterval !== null) {
@@ -155,12 +191,18 @@ async function checkTrainingStatus() {
         await loadTrainingLog();
         const button =
             document.getElementById("trainButton");
+        const cancelButton = document.getElementById("cancelButton");
         if (data.running) {
             button.disabled = true;
             button.innerText = "Training...";
+            cancelButton.style.display = "inline-block";
+            cancelButton.disabled = false;
+            cancelButton.innerText = "Batalkan Training";
         } else {
             button.disabled = false;
             button.innerText = "Latih Model";
+            cancelButton.style.display = "none";
+            cancelButton.disabled = true;
             if (trainingInterval !== null) {
                 clearInterval(trainingInterval);
                 trainingInterval = null;
@@ -181,13 +223,19 @@ async function loadTrainingLog() {
             "/admin/train/log?t=" + Date.now()
         );
         const data = await response.json();
+        if (!data || !Array.isArray(data.logs)) {
+            return;
+        }
         console.log(
             "Jumlah karakter log:",
             data.logs.length
         );
         const logElement =
             document.getElementById("trainingLog");
-        logElement.textContent = data.logs;
+        if (!logElement) {
+            return;
+        }
+        logElement.textContent = data.logs.join("");
         logElement.scrollTop =
             logElement.scrollHeight;
     } catch (error) {

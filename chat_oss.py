@@ -8,9 +8,9 @@ import torch
 import torch.nn as nn
 from sklearn.preprocessing import LabelEncoder
 
-file_model = "model_oss.pth"
-file_intent = "intents_oss.json"
-file_config = "config_oss.pkl"
+file_model = "model_oss_generated.pth"
+file_intent = "intents_oss_generated.json"
+file_config = "config_oss_generated.pkl"
 
 # =====================================================
 # DEVICE
