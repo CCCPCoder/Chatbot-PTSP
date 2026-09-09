@@ -15,6 +15,32 @@
 </div>
 <div class="content">
     <h1>Dashboard Admin</h1>
+    <form method="POST" action="{{ url_for('configure_runtime') }}" style="margin-bottom: 24px;">
+        <h2>Konfigurasi Runtime</h2>
+        <label>Model
+            <select name="model">
+                {% for file in available_files.models %}
+                <option value="{{ file }}" {% if file == runtime_settings.model %}selected{% endif %}>{{ file }}</option>
+                {% endfor %}
+            </select>
+        </label>
+        <label>Intents
+            <select name="intent">
+                {% for file in available_files.intents %}
+                <option value="{{ file }}" {% if file == runtime_settings.intent %}selected{% endif %}>{{ file }}</option>
+                {% endfor %}
+            </select>
+        </label>
+        <label>Config
+            <select name="config">
+                {% for file in available_files.configs %}
+                <option value="{{ file }}" {% if file == runtime_settings.config %}selected{% endif %}>{{ file }}</option>
+                {% endfor %}
+            </select>
+        </label>
+        <input type="hidden" name="next" value="{{ url_for('admin_app') }}">
+        <button type="submit" class="btn train">Terapkan</button>
+    </form>
     
     <div class="stats">
         <div class="card">

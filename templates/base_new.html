@@ -17,6 +17,32 @@
         <br>
     </header>
     <div class="content-container">
+        <form method="POST" action="{{ url_for('configure_runtime') }}" style="margin: 20px 0;">
+            <h3>Konfigurasi Chatbot</h3>
+            <label>Model
+                <select name="model">
+                    {% for file in available_files.models %}
+                    <option value="{{ file }}" {% if file == runtime_settings.model %}selected{% endif %}>{{ file }}</option>
+                    {% endfor %}
+                </select>
+            </label>
+            <label>Intents
+                <select name="intent">
+                    {% for file in available_files.intents %}
+                    <option value="{{ file }}" {% if file == runtime_settings.intent %}selected{% endif %}>{{ file }}</option>
+                    {% endfor %}
+                </select>
+            </label>
+            <label>Config
+                <select name="config">
+                    {% for file in available_files.configs %}
+                    <option value="{{ file }}" {% if file == runtime_settings.config %}selected{% endif %}>{{ file }}</option>
+                    {% endfor %}
+                </select>
+            </label>
+            <input type="hidden" name="next" value="{{ url_for('home') }}">
+            <button type="submit">Terapkan</button>
+        </form>
         <br>
         <br>
         <h3>Penjelasan singkat ChatBot</h3>

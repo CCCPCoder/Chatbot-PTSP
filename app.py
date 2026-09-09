@@ -10,11 +10,10 @@ import pickle
 import subprocess
 import sys
 from flask import Flask, render_template, request, jsonify, redirect, url_for, session
-from chat_general import get_response, load_model
+import chat_general as runtime
+from chat_general import get_response
 import threading
 import json
-
-intent_name = "intents.json"
 
 STATUS_FILE = "training_status.json"
 LOG_FILE = "training.log"
@@ -30,7 +29,7 @@ training_status = {
 }
 
 def get_dataset_info():
-    with open(intent_name, "r", encoding="utf-8") as f:
+    with open(runtime.file_intent, "r", encoding="utf-8") as f:
         data = json.load(f)
 
     total_intents = len(data["intents"])
@@ -97,7 +96,7 @@ def parse_responses(text):
     return responses
 
 def get_dataset():
-    with open(intent_name, "r", encoding="utf-8") as f:
+    with open(runtime.file_intent, "r", encoding="utf-8") as f:
         data = json.load(f)
     intents = data["intents"]
     return intents
@@ -108,7 +107,9 @@ def home():
     return render_template(
         "base_new.html",
         total_intents=total_intents,
-        total_patterns=total_patterns
+        total_patterns=total_patterns,
+        runtime_settings=runtime.get_runtime_settings(),
+        available_files=runtime.get_available_files()
     )
 
 @app.route("/chat", methods=["POST"])
@@ -126,8 +127,22 @@ def admin_app():
     intents = get_dataset()
     return render_template(
         "admin/admin_app.html",
-        intents=intents
+        intents=intents,
+        runtime_settings=runtime.get_runtime_settings(),
+        available_files=runtime.get_available_files()
     )
+
+@app.route("/admin/runtime", methods=["POST"])
+def configure_runtime():
+    try:
+        selected = runtime.configure_runtime(
+            request.form.get("model", ""),
+            request.form.get("intent", ""),
+            request.form.get("config", "")
+        )
+        return redirect(request.form.get("next", url_for("admin_app")))
+    except (OSError, ValueError, KeyError, json.JSONDecodeError, RuntimeError) as error:
+        return str(error), 400
 
 @app.route("/log", methods=["GET"])
 def log_training():
@@ -382,7 +397,7 @@ def training_log():
 
 @app.route("/admin/add", methods=["GET", "POST"])
 def add_intent():
-    with open(intent_name, "r", encoding="utf-8") as f:
+    with open(runtime.file_intent, "r", encoding="utf-8") as f:
         data = json.load(f)
     if request.method == "POST":
         # ==========================================
@@ -474,7 +489,7 @@ def add_intent():
         # SIMPAN JSON
         # ==========================================
         with open(
-            intent_name,
+            runtime.file_intent,
             "w",
             encoding="utf-8"
         ) as f:
@@ -497,7 +512,7 @@ def add_intent():
 )
 def edit_intent(tag):
     with open(
-        intent_name,
+        runtime.file_intent,
         "r",
         encoding="utf-8"
     ) as f:
@@ -567,7 +582,7 @@ def edit_intent(tag):
         # SIMPAN
         # ======================================
         with open(
-            intent_name,
+            runtime.file_intent,
             "w",
             encoding="utf-8"
         ) as f:
@@ -603,13 +618,13 @@ def edit_intent(tag):
 
 @app.route("/admin/delete/<tag>", methods=["POST"])
 def delete_intent(tag):
-    with open(intent_name, "r", encoding="utf-8") as f:
+    with open(runtime.file_intent, "r", encoding="utf-8") as f:
         data = json.load(f)
     data["intents"] = [
         i for i in data["intents"]
         if i["tag"] != tag
     ]
-    with open(intent_name, "w", encoding="utf-8") as f:
+    with open(runtime.file_intent, "w", encoding="utf-8") as f:
         json.dump(
             data,
             f,

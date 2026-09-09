@@ -2,28 +2,27 @@ import json
 import random
 import re
 import pickle
+import os
 from collections import Counter
-from flask import session
 import torch
 import torch.nn as nn
 from sklearn.preprocessing import LabelEncoder
 
-file_model = "model.pth"
-file_intent = "intents.json"
-file_config = "config.pkl"
+SETTINGS_FILE = "runtime_settings.json"
+DEFAULT_SETTINGS = {
+    "model": "model.pth",
+    "intent": "intents.json",
+    "config": "config.pkl"
+}
+file_model = DEFAULT_SETTINGS["model"]
+file_intent = DEFAULT_SETTINGS["intent"]
+file_config = DEFAULT_SETTINGS["config"]
 
 # =====================================================
 # DEVICE
 # =====================================================
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-
-# =====================================================
-# LOAD INTENTS
-# =====================================================
-
-with open(file_intent, "r", encoding="utf-8") as f:
-    intents = json.load(f)
 
 # =====================================================
 # PREPROCESSING
@@ -54,8 +53,6 @@ def load_config():
     labels = list(label_encoder.classes_)
 
     return vocab, label_encoder, max_length, labels
-
-vocab, label_encoder, max_length, labels = load_config()
 
 # =====================================================
 # MODEL
@@ -104,27 +101,20 @@ class ChatLSTM(nn.Module):
 # LOAD MODEL
 # =====================================================
 
-def load_model():
-
-    global vocab
-    global label_encoder
-    global max_length
-    global labels
-
-    vocab, label_encoder, max_length, labels = load_config()
-
+def build_model(config_values, model_file):
+    vocab_value, label_encoder_value, max_length_value, labels_value = config_values
     model = ChatLSTM(
-        vocab_size=len(vocab),
+        vocab_size=len(vocab_value),
         embedding_dim=128,
         hidden_size=256,
-        num_classes=len(labels),
+        num_classes=len(labels_value),
         num_layers=2,
         dropout=0.5
     )
 
     model.load_state_dict(
         torch.load(
-            file_model,
+            model_file,
             map_location=device
         )
     )
@@ -135,7 +125,105 @@ def load_model():
 
     return model
 
-model = load_model()
+def load_model():
+    return build_model(load_config(), file_model)
+
+
+def load_config_file(config_file):
+    with open(config_file, "rb") as config_handle:
+        config = pickle.load(config_handle)
+    label_encoder_value = config["label_encoder"]
+    return (
+        config["vocab"],
+        label_encoder_value,
+        config["max_length"],
+        list(label_encoder_value.classes_)
+    )
+
+
+def get_runtime_settings():
+    if not os.path.exists(SETTINGS_FILE):
+        return DEFAULT_SETTINGS.copy()
+    try:
+        with open(SETTINGS_FILE, "r", encoding="utf-8") as settings_file:
+            settings = json.load(settings_file)
+        return {
+            key: settings.get(key, DEFAULT_SETTINGS[key])
+            for key in DEFAULT_SETTINGS
+        }
+    except (OSError, json.JSONDecodeError):
+        return DEFAULT_SETTINGS.copy()
+
+
+def get_available_files():
+    return {
+        "models": sorted(
+            name for name in os.listdir(".")
+            if name.endswith(".pth") and os.path.isfile(name)
+        ),
+        "intents": sorted(
+            name for name in os.listdir(".")
+            if name.endswith(".json") and name != SETTINGS_FILE
+            and os.path.isfile(name)
+        ),
+        "configs": sorted(
+            name for name in os.listdir(".")
+            if name.endswith(".pkl") and os.path.isfile(name)
+        )
+    }
+
+
+def configure_runtime(model_file, intent_file, config_file):
+    selected = {
+        "model": os.path.basename(model_file),
+        "intent": os.path.basename(intent_file),
+        "config": os.path.basename(config_file)
+    }
+    available = get_available_files()
+    if (selected["model"] not in available["models"] or
+            selected["intent"] not in available["intents"] or
+            selected["config"] not in available["configs"]):
+        raise ValueError("Model, intents, atau config tidak tersedia.")
+
+    with open(selected["intent"], "r", encoding="utf-8") as intent_handle:
+        intents_value = json.load(intent_handle)
+    if not isinstance(intents_value.get("intents"), list):
+        raise ValueError("File intents harus memiliki properti 'intents'.")
+
+    config_values = load_config_file(selected["config"])
+    model_value = build_model(config_values, selected["model"])
+
+    global file_model, file_intent, file_config
+    global intents, vocab, label_encoder, max_length, labels, model
+    file_model = selected["model"]
+    file_intent = selected["intent"]
+    file_config = selected["config"]
+    intents = intents_value
+    vocab, label_encoder, max_length, labels = config_values
+    model = model_value
+
+    with open(SETTINGS_FILE, "w", encoding="utf-8") as settings_file:
+        json.dump(selected, settings_file, indent=4)
+    return selected
+
+
+def initialize_runtime():
+    settings = get_runtime_settings()
+    try:
+        configure_runtime(
+            settings["model"],
+            settings["intent"],
+            settings["config"]
+        )
+    except (OSError, ValueError, KeyError, json.JSONDecodeError, RuntimeError):
+        configure_runtime(
+            DEFAULT_SETTINGS["model"],
+            DEFAULT_SETTINGS["intent"],
+            DEFAULT_SETTINGS["config"]
+        )
+
+
+initialize_runtime()
 
 # =====================================================
 # UTILITIES
