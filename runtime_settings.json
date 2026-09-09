@@ -1,5 +1,5 @@
 {
-    "model": "model.pth",
-    "intent": "intents.json",
-    "config": "config.pkl"
+    "model": "model_oss_generated.pth",
+    "intent": "intents_oss_generated.json",
+    "config": "config_oss_generated.pkl"
 }
