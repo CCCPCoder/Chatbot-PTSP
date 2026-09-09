@@ -18,6 +18,83 @@ nav{
     padding-left: 50px;
 }
 
+.runtime-form {
+    display: flex;
+    align-items: flex-end;
+    flex-wrap: wrap;
+    gap: 14px;
+    max-width: 1050px;
+    margin: 20px 0;
+    padding: 18px 20px;
+    border: 1px solid #e5e7eb;
+    border-radius: 12px;
+    background: #ffffff;
+    box-shadow: 0 8px 24px rgba(31, 41, 55, .08);
+}
+
+.runtime-form h3 {
+    flex-basis: 100%;
+    color: #243447;
+    font-size: 18px;
+}
+
+.runtime-field {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    min-width: 190px;
+    color: #52606d;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: .04em;
+    text-transform: uppercase;
+}
+
+.runtime-field select {
+    min-width: 190px;
+    padding: 10px 36px 10px 12px;
+    border: 1px solid #cbd5e1;
+    border-radius: 8px;
+    outline: none;
+    background: #f8fafc;
+    color: #243447;
+    cursor: pointer;
+    font: inherit;
+    font-size: 14px;
+    text-transform: none;
+    transition: border-color .2s, box-shadow .2s, background .2s;
+}
+
+.runtime-field select:hover,
+.runtime-field select:focus {
+    border-color: #f8931f;
+    background: #ffffff;
+    box-shadow: 0 0 0 3px rgba(248, 147, 31, .16);
+}
+
+.runtime-submit {
+    min-height: 40px;
+    padding: 10px 18px;
+    border: 0;
+    border-radius: 8px;
+    background: #f8931f;
+    color: #ffffff;
+    cursor: pointer;
+    font-weight: 700;
+    transition: background .2s, transform .2s, box-shadow .2s;
+}
+
+.runtime-submit:hover {
+    background: #db7610;
+    box-shadow: 0 6px 14px rgba(219, 118, 16, .24);
+    transform: translateY(-1px);
+}
+
+.runtime-submit:focus-visible {
+    outline: 3px solid rgba(248, 147, 31, .3);
+    outline-offset: 2px;
+}
+
 header{
     padding-left:40px;
     background: #F5F7FA;
@@ -140,6 +217,27 @@ transform:translateY(0);
     background:#f8931f;
     color:white;
     cursor:pointer;
+}
+
+.chat-footer button:hover{
+    transform: translateY(-1px);
+}
+
+@media (max-width: 700px){
+    .content-container{
+        padding: 0 18px;
+    }
+
+    .runtime-form{
+        align-items: stretch;
+        flex-direction: column;
+    }
+
+    .runtime-field,
+    .runtime-field select,
+    .runtime-submit{
+        width: 100%;
+    }
 }
 .chat-footer button:hover{
     background:#d47a12;

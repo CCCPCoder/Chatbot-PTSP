@@ -37,6 +37,59 @@ body {
     padding: 30px;
 }
 
+.runtime-form {
+    display: flex;
+    align-items: flex-end;
+    flex-wrap: wrap;
+    gap: 14px;
+    padding: 20px;
+    border: 1px solid #e1e7ef;
+    border-radius: 10px;
+    background: #ffffff;
+    box-shadow: 0 8px 24px rgba(31, 41, 55, .07);
+}
+
+.runtime-form h2 {
+    flex-basis: 100%;
+    margin: 0;
+    color: #273444;
+    font-size: 20px;
+}
+
+.runtime-field {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    min-width: 190px;
+    color: #52606d;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: .04em;
+    text-transform: uppercase;
+}
+
+.runtime-field select {
+    min-width: 190px;
+    padding: 10px 12px;
+    border: 1px solid #cbd5e1;
+    border-radius: 7px;
+    background: #f8fafc;
+    color: #273444;
+    cursor: pointer;
+    font: inherit;
+    font-size: 14px;
+    text-transform: none;
+    transition: border-color .2s, box-shadow .2s, background .2s;
+}
+
+.runtime-field select:hover,
+.runtime-field select:focus {
+    border-color: #00a8ff;
+    background: #ffffff;
+    box-shadow: 0 0 0 3px rgba(0, 168, 255, .14);
+    outline: none;
+}
+
 .stats {
     display: flex;
     gap: 20px;
@@ -70,12 +123,26 @@ th {
 
 .btn {
     border: none;
-    padding: 7px 12px;
-    border-radius: 5px;
+    padding: 9px 14px;
+    border-radius: 7px;
     color: white;
     background-color: #00b894;
     cursor: pointer;
     text-decoration: none;
+    display: inline-block;
+    font-weight: 700;
+    transition: transform .2s, box-shadow .2s, filter .2s;
+}
+
+.btn:hover {
+    box-shadow: 0 5px 12px rgba(31, 41, 55, .16);
+    filter: brightness(.95);
+    transform: translateY(-1px);
+}
+
+.btn:focus-visible {
+    outline: 3px solid rgba(0, 168, 255, .25);
+    outline-offset: 2px;
 }
 
 .edit {
@@ -150,4 +217,28 @@ th {
     padding: 12px;
     margin-bottom: 15px;
     border-radius: 5px;
+}
+
+@media (max-width: 700px) {
+    .sidebar {
+        position: static;
+        width: 100%;
+        height: auto;
+    }
+
+    .content {
+        margin-left: 0;
+        padding: 20px;
+    }
+
+    .runtime-form {
+        align-items: stretch;
+        flex-direction: column;
+    }
+
+    .runtime-field,
+    .runtime-field select,
+    .runtime-submit {
+        width: 100%;
+    }
 }

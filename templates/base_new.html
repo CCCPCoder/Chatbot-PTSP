@@ -17,23 +17,23 @@
         <br>
     </header>
     <div class="content-container">
-        <form method="POST" action="{{ url_for('configure_runtime') }}" style="margin: 20px 0;">
+        <form class="runtime-form" method="POST" action="{{ url_for('configure_runtime') }}">
             <h3>Konfigurasi Chatbot</h3>
-            <label>Model
+            <label class="runtime-field">Model
                 <select name="model">
                     {% for file in available_files.models %}
                     <option value="{{ file }}" {% if file == runtime_settings.model %}selected{% endif %}>{{ file }}</option>
                     {% endfor %}
                 </select>
             </label>
-            <label>Intents
+            <label class="runtime-field">Intents
                 <select name="intent">
                     {% for file in available_files.intents %}
                     <option value="{{ file }}" {% if file == runtime_settings.intent %}selected{% endif %}>{{ file }}</option>
                     {% endfor %}
                 </select>
             </label>
-            <label>Config
+            <label class="runtime-field">Config
                 <select name="config">
                     {% for file in available_files.configs %}
                     <option value="{{ file }}" {% if file == runtime_settings.config %}selected{% endif %}>{{ file }}</option>
@@ -41,7 +41,7 @@
                 </select>
             </label>
             <input type="hidden" name="next" value="{{ url_for('home') }}">
-            <button type="submit">Terapkan</button>
+            <button class="runtime-submit" type="submit">Terapkan</button>
         </form>
         <br>
         <br>
